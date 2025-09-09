@@ -1,0 +1,51 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "AI in Assessment"
+  description: "An online resource for good practice of AI usage in assessment."
+  #google-analytics: "G-PL27NX2KY8"
+  cover-image: images/logo.png
+  image: images/logo.png
+  #favicon: images/favicon.ico
+  author: 
+  - orcid: 0000-0002-5748-693X
+    name:
+      family: Hough
+      given: Denise
+  - orcid: 0000-0001-7118-4116
+    name:
+      family: Mable
+      given: Barbara
+  - orcid: 0000-0002-4523-2097
+    name:
+      family: McAleer
+      given: Phil
+  - orcid: 0000-0001-7715-5973
+    name:
+      family: Paterson
+      given: Helena
+  date: "09/09/2025"
+  sharing:
+    - linkedin
+  repo-url: https://github.com/philmcaleer/assessmentai
+  repo-actions: [issue, source]
+  chapters:
+    - index.qmd
+    - PBL.qmd
+    - PST.qmd
+    - references.qmd
+  sidebar:
+      title: AI Assessment
+  page-footer:
+      left: "CC-BY-SA-4.0 (2025) Denise Hough, Barbara Mable, Phil McAleer & Helena Paterson"
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: journal
+    number-sections: false
+    css: style.css
+

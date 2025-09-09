@@ -1,0 +1,13 @@
+# Problem-Solving Tasks
+
+**Gold standard for Professional Practice:** In defined exercises (e.g. calculating rates, deriving a formula, optimising a protocol), the focus is on applying knowledge and demonstrating mastery of methods. The gold standard is to show your reasoning clearly, follow the solution path independently, and verify your answer. Support is available through worked examples, tutorials, and feedback from staff or peers. 
+
+**How GenAI can be helpful (good practice):** Use GenAI for hints, worked examples, or to identify logical errors in your reasoning, but ensure you complete all problem-solving steps yourself. You might ask GenAI to explain why a method works or to suggest alternative approaches, then apply and check these independently. Good practice means using GenAI as a tutor to clarify concepts while taking responsibility for the solution.
+
+**How GenAI can pose risks (poor practice):** Using GenAI to provide answers or complete calculations on your behalf prevents you from developing the problem-solving skills being assessed,  and therefore constitutes misconduct. Poor practice includes copying solutions without understanding, skipping the reasoning steps, or failing to check accuracy. Over-reliance undermines your ability to justify and apply solutions in future contexts.
+
+**Main Skills Category:** Critical thinking
+
+**Assessment Type:** Invigilated exam or test, PBL and Problem-solving, 
+
+**Example Assessments:** Set exercises, Class problems, MCQs with rationale

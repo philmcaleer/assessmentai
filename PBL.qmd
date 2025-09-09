@@ -1,0 +1,13 @@
+# Problem-based learning (PBL)
+
+**Gold standard for Professional Practice:** In structured PBL scenarios, students explore open-ended scientific questions or case studies. The gold standard is to use this process to deepen reasoning, integrate knowledge, and develop collaborative problem-solving skills. It is not about finding a single correct answer but about building your capacity to investigate and justify different approaches. Support is available through group discussions, facilitator guidance, and case study resources. 
+
+**How GenAI can be helpful (good practice):** Use GenAI to enhance reflection and broaden perspectives, for example by generating possible frameworks, surfacing overlooked angles, or posing counterarguments to test your reasoning. Good practice means first engaging actively with peers and course resources, then using GenAI to refine or stress-test your ideas while ensuring your analysis remains your own.
+
+**How GenAI can psoe risks (poor practice):** Allowing GenAI to propose full solutions or carry out the analysis for you undermines the purpose of PBL and constitutes misconduct. Over-relying on GenAI discourages critical engagement with peers and tutors, limits your ability to practise reasoning skills, and risks presenting GenAI’s suggestions as your own work without evaluation.
+
+**Main Skills Category:** Critical thinking
+
+**Assessment Type:** Reflection, PBL and Problem-solving. 
+
+**Example Assessments:** PBL portfolio, Reflective write-ups, Case-based activities
