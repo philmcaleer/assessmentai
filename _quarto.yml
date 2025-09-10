@@ -8,7 +8,7 @@ book:
   #google-analytics: "G-PL27NX2KY8"
   cover-image: images/logo.png
   image: images/logo.png
-  #favicon: images/favicon.ico
+  favicon: images/favicon.ico
   author: 
   - orcid: 0000-0002-5748-693X
     name:
