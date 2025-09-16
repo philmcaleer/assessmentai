@@ -1,13 +1,34 @@
+---
+engine: knitr
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(readxl)
+library(tidyverse)
+
+dat <- readxl::read_xlsx("genai_activity_guidance_table.xlsx", sheet = 1) %>%
+  filter(Activity == "Problem-Solving tasks") %>%
+  select(Activity, 
+         Gold = `Gold standard for professional practice`,
+         Good = `How GenAI can be helpful (good practice)`,
+         Poor = `How GenAI can pose risks (poor practice)`,
+         Skills = `Main Skills Category`, 
+         Assessment = `Assessment type`,
+         Example = `Example assessments`)
+
+
+```
+
 # Problem-Solving Tasks
 
-**Gold standard for Professional Practice:** In defined exercises (e.g. calculating rates, deriving a formula, optimising a protocol), the focus is on applying knowledge and demonstrating mastery of methods. The gold standard is to show your reasoning clearly, follow the solution path independently, and verify your answer. Support is available through worked examples, tutorials, and feedback from staff or peers. 
+**Gold standard for Professional Practice:** `r dat %>% select(Gold) %>% pull()`
 
-**How GenAI can be helpful (good practice):** Use GenAI for hints, worked examples, or to identify logical errors in your reasoning, but ensure you complete all problem-solving steps yourself. You might ask GenAI to explain why a method works or to suggest alternative approaches, then apply and check these independently. Good practice means using GenAI as a tutor to clarify concepts while taking responsibility for the solution.
+**How GenAI can be helpful (good practice):** `r dat %>% select(Good) %>% pull()`
 
-**How GenAI can pose risks (poor practice):** Using GenAI to provide answers or complete calculations on your behalf prevents you from developing the problem-solving skills being assessed,  and therefore constitutes misconduct. Poor practice includes copying solutions without understanding, skipping the reasoning steps, or failing to check accuracy. Over-reliance undermines your ability to justify and apply solutions in future contexts.
+**How GenAI can pose risks (poor practice):** `r dat %>% select(Poor) %>% pull()`
 
-**Main Skills Category:** Critical thinking
+**Main Skills Category:** `r dat %>% select(Skills) %>% pull()`
 
-**Assessment Type:** Invigilated exam or test, PBL and Problem-solving, 
+**Assessment Type:** `r dat %>% select(Assessment) %>% pull()`
 
-**Example Assessments:** Set exercises, Class problems, MCQs with rationale
+**Example Assessments:** `r dat %>% select(Example) %>% pull()`

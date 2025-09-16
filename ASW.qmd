@@ -7,7 +7,7 @@ library(readxl)
 library(tidyverse)
 
 dat <- readxl::read_xlsx("genai_activity_guidance_table.xlsx", sheet = 1) %>%
-  filter(Activity == "Problem-based learning") %>%
+  filter(Activity == "Abstract and Summary Writing") %>%
   select(Activity, 
          Gold = `Gold standard for professional practice`,
          Good = `How GenAI can be helpful (good practice)`,
@@ -19,7 +19,7 @@ dat <- readxl::read_xlsx("genai_activity_guidance_table.xlsx", sheet = 1) %>%
 
 ```
 
-# Problem-Based Learning (PBL)
+# Abstract and Summary Writing
 
 **Gold standard for Professional Practice:** `r dat %>% select(Gold) %>% pull()`
 

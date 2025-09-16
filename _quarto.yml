@@ -33,6 +33,7 @@ book:
   repo-actions: [issue, source]
   chapters:
     - index.qmd
+    - ASW.qmd
     - PBL.qmd
     - PST.qmd
     - references.qmd
