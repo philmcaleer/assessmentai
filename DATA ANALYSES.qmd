@@ -1,0 +1,29 @@
+#  DATA ANALYSES 
+ 
+## Data Visualisation
+
+**Gold standard for Professional Practice:** Creating tables, graphs, and other visual representations of quantitative or qualitative data using software such as Excel, R, Python, or Prism. The gold standard is for students to select the correct type of visual, apply appropriate statistical reasoning, and interpret outputs accurately in context. Support is available through statistics workshops, software tutorials, and guidance from staff or peers.
+
+**How GenAI can be helpful (good practice):** Use GenAI to learn how to use visualisation tools — for example, by asking for code explanations, step-by-step instructions, or troubleshooting errors in R or Python. You can also use GenAI to get feedback on whether your visual communicates results clearly, or for tips on improving accessibility and design. Good practice means always producing the visualisation yourself in specialist software, checking accuracy, and keeping data secure. Never upload unpublished or sensitive data into GenAI tools. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate visuals directly, instead of producing them yourself in purpose-built data visualisation software, prevents you from developing essential research skills. Failing to safeguard sensitive or unpublished data risks breaching confidentiality and data protection rules. Relying on GenAI to decide which visual to use, or failing to verify its outputs, may lead to misleading or inaccurate representations of your data.
+
+**Assessment Type:** Report with data analyses, Presentation, Proposal, Dissertation,
+
+**Example Assessments:** Lab report, Results section, Data analysis assignment
+
+---
+ 
+## Statistical Analysis
+
+**Gold standard for Professional Practice:** This involves selecting and applying appropriate statistical tests to analyse raw data (e.g. t-tests, ANOVA, regression, chi-square), checking assumptions (e.g. normality, variance), and interpreting results in context using tools such as R, SPSS, or Python. The gold standard is for students to justify their choice of test, apply it correctly, and interpret outcomes appropriately in relation to the research question. Support is available through statistics workshops, study guides, and staff or peer feedback.
+
+**How GenAI can be helpful (good practice):** You should never provide your data to a GenAI tool to perform statistical analyses. Use GenAI to clarify statistical concepts, explore test assumptions, or work through example problems step by step. You can also ask GenAI to explain what different test outputs mean or to review your reasoning process. Good practice means applying this knowledge yourself to select, run, and interpret tests in specialist software, ensuring outputs are accurate, transparent, and relevant to your research question. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to choose tests or run analyses on your behalf without understanding why they are used creates risks of misinterpretation and potential misconduct. Poor practice includes copying GenAI outputs directly into your work, misreporting results, or failing to check assumptions. Relying on GenAI in place of developing your own statistical reasoning prevents you from building essential expertise for research and professional practice.
+
+**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+
+**Example Assessments:** Statistical lab report, Results sections, Set exercises, Data interpretation tasks
+
+---

@@ -1,0 +1,9 @@
+     - COMMUNICATION.qmd
+     - CRITICAL THINKING.qmd
+     - DATA ANALYSES.qmd
+     - LITERATURE REVIEW.qmd
+     - METHODOLOGY.qmd
+     - PERSONAL DEVELOPMENT.qmd
+     - PROFESSIONALISM.qmd
+     - SCIENTIFIC METHOD.qmd
+     - WRITING.qmd

@@ -1,0 +1,57 @@
+#  WRITING 
+ 
+## Drafting and Writing
+
+**Gold standard for Professional Practice:** Produce the first full version of your assignment, or a large portion of it, by synthesising information from selected sources in your own words and constructing a logical argument or narrative. This includes structuring sections, writing introductions, and integrating evidence. Drafting is where you demonstrate understanding and decision-making, so it must be done by you, with encouragement to develop your own academic voice. Make use of peer support, teaching provisions, and writing guides.
+
+**How GenAI can be helpful (good practice):** You must synthesise your work yourself to meet this learning objective. GenAI may be used as support tool to seek advice from, to develop structuring outlines (i.e. headings) or revise sentences after initial drafting. Always check the accuracy and relevance if you use GenAI suggestions. Keep a record of your interactions with GenAI to be transparent in your process and acknowledge the tool appropriately. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate content for any part of your draft — including collecting information and writing it up on your behalf — places you at risk for suspected misconduct. Over-reliance on GenAI risks not meeting assessment criteria, becoming less resourceful, not developing your own academic voice, and failing to build confidence in your ideas, methods, and words.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Invigilated exam or test, Peer review, Proposal, Dissertation,
+
+**Example Assessments:** Essay, Reflective writing, Blog, Poster presentation
+
+---
+ 
+## Structuring, Editing and Proofreading
+
+**Gold standard for Professional Practice:** Review and refine your own draft to improve clarity, coherence, grammar, tone and flow of arguments. Identify sections that need further development, reorganise or rewrite sections where needed, ensure each section has a purpose, and check citation accuracy. Strengthen your work with peer feedback, writing guides and other provided teaching support.
+
+**How GenAI can be helpful (good practice):** Use GenAI as a support tool to provide feedback on your own draft, such as highlighting errors, outlining shortcomings and suggesting alternatives. Critically review suggestions and decide which changes to implement to help maintain your own voice, because the work is a reflection of you. Transparently acknowledge the use of GenAI for this purpose in your work and keep a record of your interactions with the tool. 
+
+**How GenAI can pose risks (poor practice):** Rewriting with GenAI can change original meaning and source attribution with in-text citations, leading to unintended inaccuracies. Submitting large sections of text rewritten by GenAI without proper review and/or without acknowledging GenAI transparently, places you at risk for suspected misconduct.  Over-reliance can lead to loss of your own voice, weaker development as a writer, and less effective communication over time.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Invigilated exam or test, Peer review, Proposal, Dissertation,
+
+**Example Assessments:** Presentations (script), Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+
+---
+ 
+## Science Communication and Blogging
+
+**Gold standard for Professional Practice:** Translating complex scientific concepts for a general audience, such as writing blog posts, news articles, or public-facing summaries. This requires clarity, accuracy, and engagement. The gold standard is to write content yourself, ensuring it is factually correct, well-structured, and accessible, while demonstrating subject expertise. Support is available through communication workshops, writing guides, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** Keep ownership of the content and use GenAI to help you experiment with tone, structure, or alternative ways of framing your explanation for different audiences. You can also ask GenAI to show you examples of how scientific ideas are presented in public-facing contexts, then adapt these approaches in your own words. Always fact-check, cite genuine sources, and edit outputs so that your writing reflects your own understanding and voice. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate blog posts, articles, or summaries without fact-checking or editing risks plagiarism, inaccuracies, and misconduct. Over-reliance prevents you from developing subject expertise and from practising how to adapt your knowledge for different audiences. Ignoring accuracy or passing off GenAI-generated content as your own undermines both academic and professional credibility.
+
+**Assessment Type:** Essay or similar,
+
+**Example Assessments:** Blog assignment, News article, Science communication
+
+---
+ 
+## Abstract and Summary Writing
+
+**Gold standard for Professional Practice:** Condensing a longer report, project, or dissertation into a concise summary highlighting objectives, methods, results, and conclusions. The gold standard is for students to synthesise their own key points, capture the significance of their work accurately, and present a balanced overview without omitting critical information. Support is available through writing workshops, study guides, and staff or peer feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI to review example abstracts or summary structures, or to suggest different ways of ordering key points, helping you check clarity and balance. You can also ask GenAI to highlight jargon or overly complex sentences so you can refine your own wording. Always ensure the abstract or summary is written by you, based on your actual work, and reflects your own interpretation of what is most important. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to draft an abstract or summary on your behalf, or copying generated text, risks inaccuracies and misconduct. Poor practice also includes failing to verify whether GenAI has omitted key points, introduced errors, or misrepresented your work. Over-reliance denies you the chance to develop the essential skill of condensing complex research into accurate, accessible summaries for academic and professional contexts.
+
+**Assessment Type:** Essay or similar, Presentation, Proposal, Dissertation,
+
+**Example Assessments:** Research report, Grant proposal, Lab report, Poster, Conference submission
+
+---

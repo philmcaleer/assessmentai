@@ -33,10 +33,22 @@ book:
   repo-actions: [issue, source]
   chapters:
     - index.qmd
-    - ASW.qmd
-    - PBL.qmd
-    - PST.qmd
-    - references.qmd
+    
+    - part: "Main Skill"
+      chapters: 
+      - COMMUNICATION.qmd
+      - CRITICAL THINKING.qmd
+      - DATA ANALYSES.qmd
+      - LITERATURE REVIEW.qmd
+      - METHODOLOGY.qmd
+      - PERSONAL DEVELOPMENT.qmd
+      - PROFESSIONALISM.qmd
+      - SCIENTIFIC METHOD.qmd
+      - WRITING.qmd
+      
+    - part: "End Matter"
+      chapters: 
+      - references.qmd
   sidebar:
       title: AI Assessment
   page-footer:
