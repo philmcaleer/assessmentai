@@ -36,15 +36,15 @@ book:
     
     - part: "Main Skill"
       chapters: 
-      - COMMUNICATION.qmd
-      - CRITICAL THINKING.qmd
-      - DATA ANALYSES.qmd
-      - LITERATURE REVIEW.qmd
-      - METHODOLOGY.qmd
-      - PERSONAL DEVELOPMENT.qmd
-      - PROFESSIONALISM.qmd
-      - SCIENTIFIC METHOD.qmd
-      - WRITING.qmd
+      - Communication.qmd
+      - Critical thinking.qmd
+      - Data analyses.qmd
+      - Literature review.qmd
+      - Methodology.qmd
+      - Personal development.qmd
+      - Professionalism.qmd
+      - Scientific method.qmd
+      - Writing.qmd
       
     - part: "End Matter"
       chapters: 

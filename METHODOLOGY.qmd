@@ -1,4 +1,4 @@
-#  METHODOLOGY 
+#  Methodology 
  
 ## Designing Experiments and Methodologies
 

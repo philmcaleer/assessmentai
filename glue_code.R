@@ -8,7 +8,7 @@ dat <- read_xlsx("genai_activity_guidance_table.xlsx", sheet = 1) %>%
 
 # get first letter of each term 
 dat <- dat %>% 
-  mutate(first_letter = toupper(substr(terms, 0, nchar(terms))), # capitalise first letter of term
+  mutate(first_letter = substr(terms, 0, nchar(terms)), # capitalise first letter of term
          entry = "") %>%  # blank column for later
   arrange(first_letter, terms) # organise by first letter then term for entries in alphabetical order
 
