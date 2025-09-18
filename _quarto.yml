@@ -9,6 +9,7 @@ book:
   cover-image: images/logo.png
   image: images/logo.png
   favicon: images/favicon.ico
+  open-graph: true
   author: 
   - orcid: 0000-0002-5748-693X
     name:
