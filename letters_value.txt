@@ -1,0 +1,66 @@
+     -  Blog.qmd
+     -  Case-based activities.qmd
+     -  Class problems.qmd
+     -  Communication project.qmd
+     -  Conference submission.qmd
+     -  Creative task.qmd
+     -  Critical review assignment.qmd
+     -  Data analysis.qmd
+     -  Data analysis assignment.qmd
+     -  Data analysis report.qmd
+     -  Data interpretation tasks.qmd
+     -  Disseration.qmd
+     -  dissertation.qmd
+     -  Essay.qmd
+     -  Field report.qmd
+     -  Grant proposal.qmd
+     -  Group pitch.qmd
+     -  Group presentation.qmd
+     -  Infographic.qmd
+     -  Lab report.qmd
+     -  MCQs with rationale.qmd
+     -  News article.qmd
+     -  Oral presentation.qmd
+     -  PBL portfolio.qmd
+     -  Peer review exercises.qmd
+     -  Personal reflection.qmd
+     -  Portfolio.qmd
+     -  Poster.qmd
+     -  Poster group work.qmd
+     -  Poster presentation.qmd
+     -  Problem‑solving assessment.qmd
+     -  Project report.qmd
+     -  Quiz.qmd
+     -  Reflective write-ups.qmd
+     -  Reflective writing.qmd
+     -  Research paper.qmd
+     -  Research Proposal.qmd
+     -  Results section.qmd
+     -  Results sections.qmd
+     -  Science communication.qmd
+     -  Set exercises.qmd
+     -  Skills in science.qmd
+     -  systematic review.qmd
+     -  Systematic review.qmd
+     -  Video pitch.qmd
+     -  Viva.qmd
+     -  Written exam.qmd
+     - All.qmd
+     - Blog assignment.qmd
+     - Essay.qmd
+     - Group project.qmd
+     - Journal club.qmd
+     - Lab report.qmd
+     - Oral assessment and presentation.qmd
+     - PBL portfolio.qmd
+     - Poster.qmd
+     - Practical skills assessment.qmd
+     - Presentation.qmd
+     - Presentations (script).qmd
+     - Reflective journal.qmd
+     - Research Proposal.qmd
+     - Research report.qmd
+     - Set exercise.qmd
+     - Set exercises.qmd
+     - Statistical lab report.qmd
+     - Video assignment.qmd

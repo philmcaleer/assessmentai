@@ -1,0 +1,29 @@
+#  Practical skills assessment 
+ 
+## Data Collection and Laboratory Techniques
+
+**Gold standard for Professional Practice:** Carrying out experiments or fieldwork yourself to gather raw data. This includes following protocols, operating equipment, recording observations, and ensuring safety and ethical compliance. Because this develops practical and professional skills, the gold standard is to conduct all hands-on work yourself, keeping clear and accurate records, and reporting outcomes ethically. Support is available through lab manuals, safety training, and supervision.
+
+**How GenAI can be helpful (good practice):** Use GenAI to simulate what your dataset might look like for your planned method, or to rehearse methodology, helping you prepare for hands-on work and refine approaches. Practise troubleshooting by asking GenAI to explain protocols or predict common issues, but always consult trusted resources, be critical of AI outputs, and test or apply solutions yourself. Some unique GenAI features may be useful as assistive technology to record or reformat inputs, but check accuracy carefully and remain aware of data protection and sharing rules. Keep clear records of your activities and maintain hardcopy backups where appropriate. 
+
+**How GenAI can pose risks (poor practice):** GenAI should not be used to fabricate data or lab results. Submitting simulated data as real, or using GenAI outputs without verification and acknowledgement, constitutes misconduct. Avoid replacing hands-on practice with GenAI simulations, as this hinders development of essential lab and fieldwork skills.
+
+**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+
+**Main Skills Category:** Methodology
+
+---
+ 
+## Designing Experiments and Methodologies
+
+**Gold standard for Professional Practice:** Planning experimental or analytical procedures, including formulating hypotheses, choosing methods, selecting controls, determining sample sizes, and considering ethics. The gold standard is to design robust and ethical studies, guided by protocols, best practice guidelines, and supervisor input.
+
+**How GenAI can be helpful (good practice):** Use GenAI to rehearse methodological options, clarify unfamiliar steps, or suggest potential considerations (e.g., controls, sample size factors). Good practice means using GenAI as a prompt to check completeness, then confirming accuracy against disciplinary standards and ethical guidelines. 
+
+**How GenAI can pose risks (poor practice):** Outsourcing your design to GenAI without critical evaluation risks invalid, unethical, or unworkable methods. Poor practice undermines your ability to justify decisions and prevents you from developing expertise as a subject specialist.
+
+**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+
+**Main Skills Category:** Methodology
+
+---

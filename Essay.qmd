@@ -1,0 +1,99 @@
+#  Essay 
+ 
+## Developing Research Questions and Hypotheses
+
+**Gold standard for Professional Practice:** Formulating clear research questions and hypotheses based on initial reading and understanding. The gold standard is to identify gaps in knowledge and propose testable ideas through critical analysis of literature. Support is available through research skills training, peer support, and supervisor feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI to brainstorm possible angles or phrasing, or to test how clearly a question is worded. You can also ask GenAI to generate potential variables or hypotheses for comparison, but you must critically refine, justify, and select your own. Good practice means using GenAI as a thinking partner to spark ideas while keeping ownership of your research focus. 
+
+**How GenAI can pose risks (poor practice):** Letting GenAI define your research question or hypothesis with minimal reflection undermines your understanding. Over-reliance risks shallow framing, misaligned questions, or gaps in logic, preventing you from developing expertise in your subject area.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Practical skills, Proposal, Dissertation,
+
+**Main Skills Category:** Critical thinking
+
+---
+ 
+## Drafting and Writing
+
+**Gold standard for Professional Practice:** Produce the first full version of your assignment, or a large portion of it, by synthesising information from selected sources in your own words and constructing a logical argument or narrative. This includes structuring sections, writing introductions, and integrating evidence. Drafting is where you demonstrate understanding and decision-making, so it must be done by you, with encouragement to develop your own academic voice. Make use of peer support, teaching provisions, and writing guides.
+
+**How GenAI can be helpful (good practice):** You must synthesise your work yourself to meet this learning objective. GenAI may be used as support tool to seek advice from, to develop structuring outlines (i.e. headings) or revise sentences after initial drafting. Always check the accuracy and relevance if you use GenAI suggestions. Keep a record of your interactions with GenAI to be transparent in your process and acknowledge the tool appropriately. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate content for any part of your draft — including collecting information and writing it up on your behalf — places you at risk for suspected misconduct. Over-reliance on GenAI risks not meeting assessment criteria, becoming less resourceful, not developing your own academic voice, and failing to build confidence in your ideas, methods, and words.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Invigilated exam or test, Peer review, Proposal, Dissertation,
+
+**Main Skills Category:** Writing
+
+---
+ 
+## Ethical and Professional Responsibility
+
+**Gold standard for Professional Practice:** Understanding and applying ethical principles, institutional policies, and national legal frameworks in academic and professional practice. This includes responsibilities such as completing risk assessments, protecting sensitive data, gaining informed consent, reporting misconduct or harassment, and upholding academic integrity. The gold standard is to know the relevant frameworks and act responsibly in real situations, ensuring compliance with institutional and legal requirements. Support is available through ethics training, codes of conduct, legal guidance, and supervision.
+
+**How GenAI can be helpful (good practice):** Use GenAI to help locate and summarise relevant institutional policies, codes of practice, or national legal requirements, but always cross-check with official sources. You can ask GenAI to clarify terminology, compare overlapping policies, or outline compliance steps, while you remain responsible for correct application. Good practice also means being proactive in seeking advice when unsure, keeping records of your decisions, and ensuring your conduct consistently aligns with institutional and legal standards. 
+
+**How GenAI can pose risks (poor practice):** Relying on GenAI to interpret or apply ethical rules without verifying against official documentation risks misconduct. Ignoring regulations, failing to complete required processes (e.g. risk assessments, consent forms), or treating GenAI’s outputs as authoritative undermines your accountability. Poor practice also includes neglecting to act when you witness unacceptable behaviour, copying policy text without understanding it, or failing to engage critically with institutional and legal expectations.
+
+**Assessment Type:** Proposal, Dissertation, Group work,
+
+**Main Skills Category:** Professionalism
+
+---
+ 
+## Finalisation and Submission Preparation
+
+**Gold standard for Professional Practice:** Preparing the final version of your work for submission through effective time management, checking formatting, file naming conventions, word counts, and technical requirements (e.g. file type, size). This may involve converting documents to PDF, ensuring that all sections and appendices are included, and uploading files to the submission platform.
+
+**How GenAI can be helpful (good practice):** Engage directly with your material and apply study strategies relevant to your discipline, using GenAI only as a support tool while taking personal responsibility for the accuracy of the submission. GenAI can provide checklists and reminders to double-check formatting and technical requirements, but you must complete final checks yourself. It can also be used to help structure a step-by-step breakdown of your work process. 
+
+**How GenAI can pose risks (poor practice):** Over-relying on GenAI at this stage places you at risk of shortcutting your reasoning process, failing to notice errors that affect your submission, and neglecting the development of project management skills, such as checking requirements yourself and aligning your work correctly with the submission criteria.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Peer review, Proposal, Dissertation, Group work,
+
+**Main Skills Category:** Personal development
+
+---
+ 
+## Identifying Gaps and Critical Evaluation
+
+**Gold standard for Professional Practice:** Assessing the literature to identify missing information, conflicting evidence, or unanswered questions. The gold standard is to apply intellectual judgement, analyse strengths and limitations, and synthesise insights into a critical evaluation. Support includes tutorials on literature reviews, critical appraisal checklists, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** Use GenAI to practise evaluation skills by asking it to highlight potential strengths and weaknesses in a study or suggest frameworks for critical appraisal. You can then compare these prompts against your own reading and apply validity checks. Good practice means attempting evaluation yourself first, then using GenAI to refine or deepen your approach. 
+
+**How GenAI can pose risks (poor practice):** Delegating the task of evaluation to GenAI undermines your ability to think critically. Accepting GenAI’s judgements without checking the original studies risks errors, bias, and academic misconduct. Over-reliance prevents you from building essential metacognitive skills in evaluation.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Peer review, Proposal, Dissertation,
+
+**Main Skills Category:** Critical thinking
+
+---
+ 
+## Literature Search and Source Evaluation
+
+**Gold standard for Professional Practice:** Carry out a structured search of relevant databases and other credible sources (e.g. academic databases such as Scopus, Web of Science, PubMed, or trusted professional/organisational sites). Use clear keywords and filters to find reliable information, then evaluate sources for relevance, currency, and credibility.
+
+**How GenAI can be helpful (good practice):** GenAI can support your process by suggesting search strategies (e.g. assisting with keywords, Boolean operators, or filters) or by explaining how to use different databases or tools. Some databases include GenAI-embedded functions, and specialist GenAI tools can also help. Take time to understand the strengths and limitations of the GenAI tool you use, for example if it only has access to metadata such as titles and abstracts. Good practice means using GenAI-powered tools as complements, not replacements, by running them in parallel with traditional searching and applying checkpoints at critical decision-making steps to ensure accuracy, coverage, and rigour. Follow copyright and third-party software rules: do not upload full journal articles or subscription-only content into GenAI tools. 
+
+**How GenAI can pose risks (poor practice):** Avoid using a general-purpose GenAI-tool like a database search - this may introduce bias, lead to false attribution or fabricated sources - instead see it as 'general reading and broadening understanding'. Avoid using GenAI to read and select papers on your behalf - this means you only engage with literature superficially and therefore have not found, evaluated and selected sources yourself. Over-relying on GenAI risks that you develop a partial view of the topic and miss out on developing skills to be resourceful, objective and critical in your discipline.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Proposal, Dissertation,
+
+**Main Skills Category:** Literature review
+
+---
+ 
+## Managing References and Citations
+
+**Gold standard for Professional Practice:** Tracking bibliographic details for every source you consult and format citations correctly (e.g. APA, Harvard). Keep notes on which information comes from which source, use reference management tools such as EndNote, Mendeley or Zotero, and checking formatting. Always ensure the corect source is credited for each idea in your work.
+
+**How GenAI can be helpful (good practice):** GenAI may be used as a support tool to check formatting style, highlight possible errors, or flag places where citations are missing or unsupported. You must critically review its suggestions, confirm the accuracy of sources, and remain responsible for correct attribution. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to insert citations or build a reference list can lead to fabricated sources and mismatched attributions, creating inaccuracies that may amount to misconduct. Relying on GenAI too heavily can also mean you fail to learn the purpose of citations, or your field’s referencing style to substantiate arguments, leaving you unprepared for larger projects such as a dissertation.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Proposal, Dissertation,
+
+**Main Skills Category:** Literature review
+
+---

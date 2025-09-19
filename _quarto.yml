@@ -47,6 +47,14 @@ book:
       - Scientific method.qmd
       - Writing.qmd
       
+    - part: "Assessment Type"
+      chapters:
+      - Blog assignment.qmd
+      - Essay.qmd
+      - Group Project.qmd
+      - Journal Club.qmd
+      - Practical skills assessment.qmd
+
     - part: "End Matter"
       chapters: 
       - references.qmd

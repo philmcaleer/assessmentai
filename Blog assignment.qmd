@@ -1,0 +1,15 @@
+#  Blog assignment 
+ 
+## Science Communication and Blogging
+
+**Gold standard for Professional Practice:** Translating complex scientific concepts for a general audience, such as writing blog posts, news articles, or public-facing summaries. This requires clarity, accuracy, and engagement. The gold standard is to write content yourself, ensuring it is factually correct, well-structured, and accessible, while demonstrating subject expertise. Support is available through communication workshops, writing guides, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** Keep ownership of the content and use GenAI to help you experiment with tone, structure, or alternative ways of framing your explanation for different audiences. You can also ask GenAI to show you examples of how scientific ideas are presented in public-facing contexts, then adapt these approaches in your own words. Always fact-check, cite genuine sources, and edit outputs so that your writing reflects your own understanding and voice. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate blog posts, articles, or summaries without fact-checking or editing risks plagiarism, inaccuracies, and misconduct. Over-reliance prevents you from developing subject expertise and from practising how to adapt your knowledge for different audiences. Ignoring accuracy or passing off GenAI-generated content as your own undermines both academic and professional credibility.
+
+**Assessment Type:** Essay or similar,
+
+**Main Skills Category:** Writing
+
+---
