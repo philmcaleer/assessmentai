@@ -1,0 +1,85 @@
+#  Critical thinking 
+ 
+## Developing Research Questions and Hypotheses
+
+**Gold standard for Professional Practice:** Formulating clear research questions and hypotheses based on initial reading and understanding. The gold standard is to identify gaps in knowledge and propose testable ideas through critical analysis of literature. Support is available through research skills training, peer support, and supervisor feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI to brainstorm possible angles or phrasing, or to test how clearly a question is worded. You can also ask GenAI to generate potential variables or hypotheses for comparison, but you must critically refine, justify, and select your own. Good practice means using GenAI as a thinking partner to spark ideas while keeping ownership of your research focus. 
+
+**How GenAI can pose risks (poor practice):** Letting GenAI define your research question or hypothesis with minimal reflection undermines your understanding. Over-reliance risks shallow framing, misaligned questions, or gaps in logic, preventing you from developing expertise in your subject area.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Practical skills, Proposal, Dissertation,
+
+**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+
+---
+ 
+## Identifying Gaps and Critical Evaluation
+
+**Gold standard for Professional Practice:** Assessing the literature to identify missing information, conflicting evidence, or unanswered questions. The gold standard is to apply intellectual judgement, analyse strengths and limitations, and synthesise insights into a critical evaluation. Support includes tutorials on literature reviews, critical appraisal checklists, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** Use GenAI to practise evaluation skills by asking it to highlight potential strengths and weaknesses in a study or suggest frameworks for critical appraisal. You can then compare these prompts against your own reading and apply validity checks. Good practice means attempting evaluation yourself first, then using GenAI to refine or deepen your approach. 
+
+**How GenAI can pose risks (poor practice):** Delegating the task of evaluation to GenAI undermines your ability to think critically. Accepting GenAI’s judgements without checking the original studies risks errors, bias, and academic misconduct. Over-reliance prevents you from building essential metacognitive skills in evaluation.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Peer review, Proposal, Dissertation,
+
+**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+
+---
+ 
+## Peer Review and Journal Club
+
+**Gold standard for Professional Practice:** Critically reviewing research papers or peers’ work, summarising findings, evaluating strengths and weaknesses, and discussing implications. The gold standard is to read and interpret the original texts, verify accuracy, and engage in constructive critique. Support is available through journal clubs, peer discussions, and feedback from staff.
+
+**How GenAI can be helpful (good practice):** Use GenAI to generate practice summaries, propose counterarguments, or highlight points you may have missed, then check these against the original source. Good practice means using GenAI as a rehearsal tool for critical discussion while ensuring your critique reflects your own reading and judgement. 
+
+**How GenAI can pose risks (poor practice):** Submitting GenAI summaries as your own or failing to engage with the original work risks misrepresentation, plagiarism, and failure to develop critical thinking. Uploading peers’ unpublished work into GenAI tools also breaches copyright and confidentiality.
+
+**Assessment Type:** Peer review,
+
+**Example Assessments:** Journal club, Peer review exercises, Critical review assignment
+
+---
+ 
+## Results Interpretation and Reporting
+
+**Gold standard for Professional Practice:** Explaining the significance of your data or experimental results in the context of existing literature and relevant frameworks. This includes identifying patterns and trends, discussing unexpected findings, and highlighting limitations and implications. The gold standard is to interpret results in your own words, showing critical insight and linking to relevant research. Support is available through lectures, tutorials, writing guides, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** First interpret your results yourself, then use available resources to improve clarity and depth, which may include GenAI. Use GenAI to practise communicating your findings by generating alternative phrasings, asking it to highlight unclear sections, or drafting practice questions that test your reasoning. You can also use GenAI to simulate counterarguments or alternative explanations, which you must then address in your own words. These uses can help refine your ability to express your interpretation clearly and critically. 
+
+**How GenAI can pose risks (poor practice):** Allowing GenAI to interpret your results or generate conclusions on your behalf undermines your understanding and constitutes poor practice. Copying or relying on GenAI explanations risks inaccuracies, misrepresentation of data, and possible misconduct. Over-reliance also prevents you from gaining practice in analysing results and building confidence in your own reasoning, which are essential for developing critical thinking and independent judgement.
+
+**Assessment Type:** Report with data analyses, Presentation, Dissertation,
+
+**Example Assessments:** Lab report, Data analysis report, Research paper, Project report
+
+---
+ 
+## Problem-based learning
+
+**Gold standard for Professional Practice:** In structured PBL scenarios, students explore open-ended scientific questions or case studies. The gold standard is to use this process to deepen reasoning, integrate knowledge, and develop collaborative problem-solving skills. It is not about finding a single correct answer but about building your capacity to investigate and justify different approaches. Support is available through group discussions, facilitator guidance, and case study resources.
+
+**How GenAI can be helpful (good practice):** Use GenAI to enhance reflection and broaden perspectives, for example by generating possible frameworks, surfacing overlooked angles, or posing counterarguments to test your reasoning. Good practice means first engaging actively with peers and course resources, then using GenAI to refine or stress-test your ideas while ensuring your analysis remains your own. 
+
+**How GenAI can pose risks (poor practice):** Allowing GenAI to propose full solutions or carry out the analysis for you undermines the purpose of PBL and constitutes misconduct. Over-relying on GenAI discourages critical engagement with peers and tutors, limits your ability to practise reasoning skills, and risks presenting GenAI’s suggestions as your own work without evaluation.
+
+**Assessment Type:** Reflection, PBL and Problem-solving,
+
+**Example Assessments:** PBL portfolio, Reflective write-ups, Case-based activities
+
+---
+ 
+## Problem-Solving tasks
+
+**Gold standard for Professional Practice:** In defined exercises (e.g. calculating rates, deriving a formula, optimising a protocol), the focus is on applying knowledge and demonstrating mastery of methods. The gold standard is to show your reasoning clearly, follow the solution path independently, and verify your answer. Support is available through worked examples, tutorials, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** Use GenAI for hints, worked examples, or to identify logical errors in your reasoning, but ensure you complete all problem-solving steps yourself. You might ask GenAI to explain why a method works or to suggest alternative approaches, then apply and check these independently. Good practice means using GenAI as a tutor to clarify concepts while taking responsibility for the solution. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to provide answers or complete calculations on your behalf prevents you from developing the problem-solving skills being assessed,  and therefore constitutes misconduct. Poor practice includes copying solutions without understanding, skipping the reasoning steps, or failing to check accuracy. Over-reliance undermines your ability to justify and apply solutions in future contexts.
+
+**Assessment Type:** Invigilated exam or test, PBL and Problem-solving,
+
+**Example Assessments:** Set exercises, Class problems, MCQs with rationale
+
+---

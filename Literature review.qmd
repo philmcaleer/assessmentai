@@ -1,0 +1,29 @@
+#  Literature review 
+ 
+## Literature Search and Source Evaluation
+
+**Gold standard for Professional Practice:** Carry out a structured search of relevant databases and other credible sources (e.g. academic databases such as Scopus, Web of Science, PubMed, or trusted professional/organisational sites). Use clear keywords and filters to find reliable information, then evaluate sources for relevance, currency, and credibility.
+
+**How GenAI can be helpful (good practice):** GenAI can support your process by suggesting search strategies (e.g. assisting with keywords, Boolean operators, or filters) or by explaining how to use different databases or tools. Some databases include GenAI-embedded functions, and specialist GenAI tools can also help. Take time to understand the strengths and limitations of the GenAI tool you use, for example if it only has access to metadata such as titles and abstracts. Good practice means using GenAI-powered tools as complements, not replacements, by running them in parallel with traditional searching and applying checkpoints at critical decision-making steps to ensure accuracy, coverage, and rigour. Follow copyright and third-party software rules: do not upload full journal articles or subscription-only content into GenAI tools. 
+
+**How GenAI can pose risks (poor practice):** Avoid using a general-purpose GenAI-tool like a database search - this may introduce bias, lead to false attribution or fabricated sources - instead see it as 'general reading and broadening understanding'. Avoid using GenAI to read and select papers on your behalf - this means you only engage with literature superficially and therefore have not found, evaluated and selected sources yourself. Over-relying on GenAI risks that you develop a partial view of the topic and miss out on developing skills to be resourceful, objective and critical in your discipline.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Proposal, Dissertation,
+
+**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+
+---
+ 
+## Managing References and Citations
+
+**Gold standard for Professional Practice:** Tracking bibliographic details for every source you consult and format citations correctly (e.g. APA, Harvard). Keep notes on which information comes from which source, use reference management tools such as EndNote, Mendeley or Zotero, and checking formatting. Always ensure the corect source is credited for each idea in your work.
+
+**How GenAI can be helpful (good practice):** GenAI may be used as a support tool to check formatting style, highlight possible errors, or flag places where citations are missing or unsupported. You must critically review its suggestions, confirm the accuracy of sources, and remain responsible for correct attribution. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to insert citations or build a reference list can lead to fabricated sources and mismatched attributions, creating inaccuracies that may amount to misconduct. Relying on GenAI too heavily can also mean you fail to learn the purpose of citations, or your field’s referencing style to substantiate arguments, leaving you unprepared for larger projects such as a dissertation.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Proposal, Dissertation,
+
+**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+
+---

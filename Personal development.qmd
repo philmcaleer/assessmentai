@@ -1,0 +1,57 @@
+#  Personal development 
+ 
+## Brainstorming and Broadening Understanding
+
+**Gold standard for Professional Practice:** Exploratory stage where you gather general background information about a topic, read widely, refine your ideas and explore solutions or approaches to a task. This includes using textbooks, study materials, blogs, scholarly overviews, and conversations with peers or experts. The goal is to explore and learn rather than generate final arguments. Always distinguish this exploratory phase from a formal literature search. You are not expected to reference every source you explore at this stage, but you should acknowledge any people, tools, or services that made a significant contribution to shaping your thinking or work process.
+
+**How GenAI can be helpful (good practice):** Don't let consultation with GenAI become your default behaviour. Instead, first try making use of signposted support and actively engage with course resources and discussions with people. GenAI could help brainstorm ideas, summarise broad topics, or suggest concept maps, but always use alongside reliable resources and be mindful of the confirmation bias of GenAI, as it will tend to agree with your viewpoints and might not challenge you enough. Keep a record of how GenAI or any other resources shaped your ideas. 
+
+**How GenAI can pose risks (poor practice):** Defaulting to GenAI as your first and only source of input at this stage might reduce your ability to be resourceful, limit critical engagement with your subject, and take away the opportunity to develop interpersonal skills by discussing work-related topics, which could lead to lower performance in your profession in the long run. It is unethical to present ideas as entirely your own if it was wholly or partially produced by another person or tool - always acknowledge contributions from elsewhere.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Practical skills, Peer review, Proposal, Dissertation,
+
+**Example Assessments:** All
+
+---
+ 
+## Finalisation and Submission Preparation
+
+**Gold standard for Professional Practice:** Preparing the final version of your work for submission through effective time management, checking formatting, file naming conventions, word counts, and technical requirements (e.g. file type, size). This may involve converting documents to PDF, ensuring that all sections and appendices are included, and uploading files to the submission platform.
+
+**How GenAI can be helpful (good practice):** Engage directly with your material and apply study strategies relevant to your discipline, using GenAI only as a support tool while taking personal responsibility for the accuracy of the submission. GenAI can provide checklists and reminders to double-check formatting and technical requirements, but you must complete final checks yourself. It can also be used to help structure a step-by-step breakdown of your work process. 
+
+**How GenAI can pose risks (poor practice):** Over-relying on GenAI at this stage places you at risk of shortcutting your reasoning process, failing to notice errors that affect your submission, and neglecting the development of project management skills, such as checking requirements yourself and aligning your work correctly with the submission criteria.
+
+**Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Peer review, Proposal, Dissertation, Group work,
+
+**Example Assessments:** Essay
+
+---
+ 
+## Reflective and Personal Writing
+
+**Gold standard for Professional Practice:** Writing reflective essays or journals that describe your own personal experiences, development, and learning. This requires honest introspection, critical self-analysis, and connecting your experiences to relevant theory. The content must come from your own thinking and perspective, not from literature summaries or external sources. In your work, you should demonstrate how you interpret, evaluate, and learn from your experiences, and how this shapes your development, rather than simply listing what you did, when, where, and how.
+
+**How GenAI can be helpful (good practice):** Reflections should always be written by you. Start by making use of signposted support and reflective frameworks to develop meaningful self-analysis strategies and draft your initial ideas, before turning to GenAI. You can then use GenAI as a supporting tool to help structure your ideas or proofread your work. It may also be used to clarify your understanding in a structured way, for example by asking a set of questions, but the personal meaning and connections must come from you. Good practice means engaging directly with your experiences and applying reflective strategies relevant to your discipline. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate or rewrite a reflection on your behalf places you at risk of suspected misconduct, even if you acknowledge its use. It also prevents you from showing genuine personal insight or meeting assessment criteria, and causes you to miss the chance to practise self-analysis, link experiences to theory in your own words, and develop reflective skills essential for academic and professional growth.
+
+**Assessment Type:** Reflection, Peer review,
+
+**Example Assessments:** Reflective journal, Portfolio, Personal reflection, Skills in science
+
+---
+ 
+## Self‑Assessment and Practice Questions
+
+**Gold standard for Professional Practice:** Testing your knowledge and understanding by creating and practising questions similar to those that may appear in examinations or tests. This may involve designing short-answer or essay-style questions, producing answer keys, or making definitions of key terms for flashcards. The gold standard is to actively design and attempt these yourself to reveal gaps in understanding, strengthen recall, and practise applying knowledge. Support is available through revision resources, peer study groups, and staff feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI to generate practice questions, flashcards, or typical problems after you have first attempted to think of some yourself. Compare GenAI’s suggestions with your own to identify overlooked areas or alternative question styles. You can also use GenAI to test your recall by generating variations on your questions, but you must write and check the answers yourself. Good practice means using GenAI as a supplement to broaden revision, not as a substitute for self-testing. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to produce and answer all your practice questions for you prevents you from learning effectively and risks building poor habits, such as defaulting to GenAI even for simple tasks you could do yourself. Relying on GenAI instead of forming study groups or engaging with peers removes valuable opportunities for collaboration and feedback, which may also lead to isolation. Submitting or depending on unvetted GenAI-generated materials without oversight risks inaccuracies and misconduct. Overuse also ignores the environmental cost of unnecessary GenAI use.
+
+**Assessment Type:** Invigilated exam or test, Practical skills,
+
+**Example Assessments:** Set exercise, Written exam, Quiz, Problem‑solving assessment
+
+---
