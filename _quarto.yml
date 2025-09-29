@@ -35,7 +35,7 @@ book:
   chapters:
     - index.qmd
     
-    - part: "Main Skill"
+    - part: "Skill Directory"
       chapters: 
       - Communication.qmd
       - Critical thinking.qmd
@@ -47,13 +47,17 @@ book:
       - Scientific method.qmd
       - Writing.qmd
       
-    - part: "Assessment Type"
+    - part: "Assessment Directory"
       chapters:
       - Blog assignment.qmd
       - Essay.qmd
       - Group Project.qmd
       - Journal Club.qmd
       - Practical skills assessment.qmd
+      
+    - part: "Case Study"
+      chapters: 
+        - CS1.qmd
 
     - part: "End Matter"
       chapters: 
