@@ -47,11 +47,17 @@ book:
       
     - part: "Assessment Directory"
       chapters:
-      - Blog assignment.qmd
-      - Essay.qmd
-      - Group Project.qmd
-      - Journal Club.qmd
-      - Practical skills assessment.qmd
+      - Dissertation.qmd
+      - Essay or similar.qmd
+      - Group work.qmd
+      - Invigilated exam or test.qmd
+      - PBL and Problem-solving.qmd
+      - Peer review.qmd
+      - Practical skills.qmd
+      - Presentation.qmd
+      - Proposal.qmd
+      - Reflection.qmd
+      - Report with data analyses.qmd
       
     - part: "Case Study"
       chapters: 

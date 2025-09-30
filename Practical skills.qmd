@@ -1,0 +1,99 @@
+#  Practical skills 
+ 
+## Brainstorming and Broadening Understanding
+
+**Gold standard for Professional Practice:** Exploratory stage where you gather general background information about a topic, read widely, refine your ideas and explore solutions or approaches to a task. This includes using textbooks, study materials, blogs, scholarly overviews, and conversations with peers or experts. The goal is to explore and learn rather than generate final arguments. Always distinguish this exploratory phase from a formal literature search. You are not expected to reference every source you explore at this stage, but you should acknowledge any people, tools, or services that made a significant contribution to shaping your thinking or work process.
+
+**How GenAI can be helpful (good practice):** Don't let consultation with GenAI become your default behaviour. Instead, first try making use of signposted support and actively engage with course resources and discussions with people. GenAI could help brainstorm ideas, summarise broad topics, or suggest concept maps, but always use alongside reliable resources and be mindful of the confirmation bias of GenAI, as it will tend to agree with your viewpoints and might not challenge you enough. Keep a record of how GenAI or any other resources shaped your ideas. 
+
+**How GenAI can pose risks (poor practice):** Defaulting to GenAI as your first and only source of input at this stage might reduce your ability to be resourceful, limit critical engagement with your subject, and take away the opportunity to develop interpersonal skills by discussing work-related topics, which could lead to lower performance in your profession in the long run. It is unethical to present ideas as entirely your own if it was wholly or partially produced by another person or tool - always reflect on your process and give credit to people, tools or services that significantly influenced your work process.
+
+**Example Assessments:** Concept mapping exercises, Group ideation sessions with reflective write-up, Rapid-fire Q&A forums or idea dumps (formative)
+
+**Main Skills Category:** Personal development
+
+---
+ 
+## Data Collection and Laboratory Techniques
+
+**Gold standard for Professional Practice:** Carrying out experiments or fieldwork yourself to gather raw data. This includes following protocols, operating equipment, recording observations, and ensuring safety and ethical compliance. Because this develops practical and professional skills, the gold standard is to conduct all hands-on work yourself, keeping clear and accurate records, and reporting outcomes ethically. Support is available through lab manuals, safety training, and supervision.
+
+**How GenAI can be helpful (good practice):** Use GenAI to simulate what your dataset might look like for your planned method, or to rehearse methodology, helping you prepare for hands-on work and refine approaches. Practise troubleshooting by asking GenAI to explain protocols or predict common issues, but always consult trusted resources, be critical of AI outputs, and test or apply solutions yourself. Some unique GenAI features may be useful as assistive technology to record or reformat inputs, but check accuracy carefully and remain aware of data protection and sharing rules. Keep clear records of your activities and maintain hardcopy backups where appropriate. 
+
+**How GenAI can pose risks (poor practice):** GenAI should not be used to fabricate data or lab results. Submitting simulated data as real, or using GenAI outputs without verification and acknowledgement, constitutes misconduct. Avoid replacing hands-on practice with GenAI simulations, as this hinders development of essential lab and fieldwork skills.
+
+**Example Assessments:** Practical skills checklist (OSCE-style), Lab notebook audit, Method reproducibility test, Fieldwork journal
+
+**Main Skills Category:** Methodology
+
+---
+ 
+## Designing Experiments and Methodologies
+
+**Gold standard for Professional Practice:** Planning experimental or analytical procedures, including formulating hypotheses, choosing methods, selecting controls, determining sample sizes, and considering ethics. The gold standard is to design robust and ethical studies, guided by protocols, best practice guidelines, and supervisor input.
+
+**How GenAI can be helpful (good practice):** Use GenAI to rehearse methodological options, clarify unfamiliar steps, or suggest potential considerations (e.g., controls, sample size factors). Good practice means using GenAI as a prompt to check completeness, then confirming accuracy against disciplinary standards and ethical guidelines. 
+
+**How GenAI can pose risks (poor practice):** Outsourcing your design to GenAI without critical evaluation risks invalid, unethical, or unworkable methods. Poor practice undermines your ability to justify decisions and prevents you from developing expertise as a subject specialist.
+
+**Example Assessments:** Experimental design justification form, Protocol writing task, Error analysis and risk mitigation plan
+
+**Main Skills Category:** Methodology
+
+---
+ 
+## Developing Research Questions and Hypotheses
+
+**Gold standard for Professional Practice:** Formulating clear research questions and hypotheses based on initial reading and understanding. The gold standard is to identify gaps in knowledge and propose testable ideas through critical analysis of literature. Support is available through research skills training, peer support, and supervisor feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI to brainstorm possible angles or phrasing, or to test how clearly a question is worded. You can also ask GenAI to generate potential variables or hypotheses for comparison, but you must critically refine, justify, and select your own. Good practice means using GenAI as a thinking partner to spark ideas while keeping ownership of your research focus. 
+
+**How GenAI can pose risks (poor practice):** Letting GenAI define your research question or hypothesis with minimal reflection undermines your understanding. Over-reliance risks shallow framing, misaligned questions, or gaps in logic, preventing you from developing expertise in your subject area.
+
+**Example Assessments:** Submission of hypothesis with justification, Research question refinement workshop, Gap analysis task to develop question
+
+**Main Skills Category:** Reasoning
+
+---
+ 
+## Self‑Assessment and Practice Questions
+
+**Gold standard for Professional Practice:** Testing your knowledge and understanding by creating and practising questions similar to those that may appear in examinations or tests. This may involve designing short-answer or essay-style questions, producing answer keys, or making definitions of key terms for flashcards. The gold standard is to actively design and attempt these yourself to reveal gaps in understanding, strengthen recall, and practise applying knowledge. Support is available through revision resources, peer study groups, and staff feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI to generate practice questions, flashcards, or typical problems after you have first attempted to think of some yourself. Compare GenAI’s suggestions with your own to identify overlooked areas or alternative question styles. You can also use GenAI to test your recall by generating variations on your questions, but you must write and check the answers yourself. Good practice means using GenAI as a supplement to broaden revision, not as a substitute for self-testing. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to produce and answer all your practice questions for you prevents you from learning effectively and risks building poor habits, such as defaulting to GenAI even for simple tasks you could do yourself. Relying on GenAI instead of forming study groups or engaging with peers removes valuable opportunities for collaboration and feedback, which may also lead to isolation. Submitting or depending on unvetted GenAI-generated materials without oversight risks inaccuracies and misconduct. Overuse also ignores the environmental cost of unnecessary GenAI use.
+
+**Example Assessments:** Online formative quizzes with rationale, Confidence rating alongside answers, Self-generated MCQs with explanations
+
+**Main Skills Category:** Personal development
+
+---
+ 
+## Statistical Analysis
+
+**Gold standard for Professional Practice:** This involves selecting and applying appropriate statistical tests to analyse raw data (e.g. t-tests, generalised linear models, ANOVA, chi-square), checking assumptions (e.g normality, variance), and interpreting results in context using tools such as R, SPSS, or Python. The gold standard is for students to justify their choice of test, apply it correctly, and interpret outcomes appropriately in relation to the research question. Support is available through statistics workshops, study guides, and staff or peer feedback.
+
+**How GenAI can be helpful (good practice):** You should never provide your data to a GenAI tool to perform statistical analyses. Use GenAI to clarify statistical concepts, explore test assumptions, or work through example problems step by step. You can also ask GenAI to explain what different test outputs mean or to review your reasoning process. Good practice means applying this knowledge yourself to select, run, and interpret tests in specialist software, ensuring outputs are accurate, transparent, and relevant to your research question. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to choose tests or run analyses on your behalf without understanding why they are used creates risks of misinterpretation and potential misconduct. Poor practice includes copying GenAI outputs directly into your work, misreporting results, or failing to check assumptions. Relying on GenAI in place of developing your own statistical reasoning prevents you from building essential expertise for research and professional practice.
+
+**Example Assessments:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
+
+**Main Skills Category:** Data analyses
+
+---
+ 
+## Technology-assisted data collection and transformation
+
+**Gold standard for Professional Practice:** Using digital tools to automate or speed up data collection from an existing source (e.g. images, texts, signals, databases) or to convert and clean data into a usable format. The gold standard is to design clear extraction protocols, validate outputs at predefined checkpoints, and follow copyright, data-protection, and third-party software regulations. Teaching resources, methods guides, and peer support can help you apply appropriate quality assurance.
+
+**How GenAI can be helpful (good practice):** Use GenAI to design and rehearse data extraction workflows, generate example scripts, or clarify transformation steps before applying them to real data. Practise validating GenAI outputs against your protocols and document checkpoints for quality assurance. GenAI can also help compare approaches or highlight potential limitations, but you must remain in control of the process. Always follow copyright rules and protect sensitive or personal data when using GenAI tools. 
+
+**How GenAI can pose risks (poor practice):** Avoid over-relying on GenAI to extract or transform data without validation leading to inaccurate or fabricated outputs. Using GenAI to drive your process encourages questionable research practices such as HARKing, p-hacking, or unprincipled data dredging (cherry-picking). Uploading copyrighted, confidential, or personal material into GenAI tools without permission breaches regulations and ethics. Avoid skipping validity checks or presenting GenAI outputs as final results without independent review.
+
+**Example Assessments:** Use of sensors/software with data log submission, Workflow documentation log, Data pipeline transformation task
+
+**Main Skills Category:** Methodology
+
+---

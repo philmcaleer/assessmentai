@@ -3,11 +3,13 @@ library(readxl)
 library(tidyverse)
 
 dat <- read_xlsx("genai_activity_guidance_table.xlsx", sheet = 1) %>%
-  separate(`Example assessments`, into = letters, sep = ",") %>%
+  separate(`Assessment type`, into = letters, sep = ",") %>%
   pivot_longer(cols = a:z, names_to = "assessment") %>%
   filter(!is.na(value)) %>%
+  filter(value != "") %>%
   select(-assessment) %>%
-  arrange(value, Activity)
+  arrange(value, Activity) %>%
+  mutate(value = trimws(value, which = "both", whitespace = "[\\h\\v]"))
 
 dat <- dat %>% 
   mutate(first_letter = substr(value, 0, nchar(value)), # capitalise first letter of term
@@ -29,7 +31,7 @@ make_entry <- function(dat){
 
 **How GenAI can pose risks (poor practice):** {dat$`How GenAI can pose risks (poor practice)`}
 
-**Assessment Type:** {dat$`Assessment type`}
+**Example Assessments:** {dat$`Example assessments`}
 
 **Main Skills Category:** {dat$`Main Skills Category`}
 

@@ -1,0 +1,43 @@
+#  Group work 
+ 
+## Collaborative Project Management
+
+**Gold standard for Professional Practice:** Coordinating tasks within a group project, scheduling meetings, delegating responsibilities, and synthesising contributions. The gold standard is to communicate effectively and make joint decisions that reflect shared responsibility. Support is available through group discussions, project management tools, teamwork workshops, and supervisor mediation.
+
+**How GenAI can be helpful (good practice):** Use GenAI to generate task lists, draft timelines, or suggest meeting agendas, helping the group stay organised. Good practice means using these features to support coordination while all members actively contribute and make decisions collectively. 
+
+**How GenAI can pose risks (poor practice):** Relying on GenAI to manage projects or make decisions removes accountability and prevents development of essential teamwork skills. Poor practice includes outsourcing group contributions or disengaging from collaborative processes.
+
+**Example Assessments:** Group project, Peer evaluations of contribution, Group charter and timeline submission, Progress reports with task allocation logs
+
+**Main Skills Category:** Methodology
+
+---
+ 
+## Ethical and Professional Responsibility
+
+**Gold standard for Professional Practice:** Understanding and applying ethical principles, institutional policies, and national legal frameworks in academic and professional practice. This includes responsibilities such as completing risk assessments, protecting sensitive data, gaining informed consent, reporting misconduct or harassment, and upholding academic integrity. The gold standard is to know the relevant frameworks and act responsibly in real situations, ensuring compliance with institutional and legal requirements. Support is available through ethics training, codes of conduct, legal guidance, and supervision.
+
+**How GenAI can be helpful (good practice):** Use GenAI to help locate and summarise relevant institutional policies, codes of practice, or national legal requirements, but always cross-check with official sources. You can ask GenAI to clarify terminology, compare overlapping policies, or outline compliance steps, while you remain responsible for correct application. Good practice also means being proactive in seeking advice when unsure, keeping records of your decisions, and ensuring your conduct consistently aligns with institutional and legal standards. 
+
+**How GenAI can pose risks (poor practice):** Relying on GenAI to interpret or apply ethical rules without verifying against official documentation risks misconduct. Ignoring regulations, failing to complete required processes (e.g. risk assessments, consent forms), or treating GenAI’s outputs as authoritative undermines your accountability. Poor practice also includes neglecting to act when you witness unacceptable behaviour, copying policy text without understanding it, or failing to engage critically with institutional and legal expectations.  GenAI also has inherent cultural and other stereotypical biases due to mis- or under-representation in training databases.
+
+**Example Assessments:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
+
+**Main Skills Category:** Methodology
+
+---
+ 
+## Finalisation and Submission Preparation
+
+**Gold standard for Professional Practice:** Preparing the final version of your work for submission through effective time management, checking formatting, file naming conventions, word counts, and technical requirements (e.g. file type, size, formatting). This may involve converting documents to PDF, ensuring that all sections and appendices are included, and uploading files to the submission platform.
+
+**How GenAI can be helpful (good practice):** Engage directly with your material and apply study strategies relevant to your discipline, using GenAI only as a support tool while taking personal responsibility for the accuracy of the submission. GenAI can provide checklists and reminders to double-check formatting and technical requirements, but you must complete final checks yourself. It can also be used to help structure a step-by-step breakdown of your work process. 
+
+**How GenAI can pose risks (poor practice):** Over-relying on GenAI at this stage places you at risk of shortcutting your reasoning process, failing to notice errors that affect your submission, and neglecting the development of project management skills, such as checking requirements yourself and aligning your work correctly with the submission criteria.
+
+**Example Assessments:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
+
+**Main Skills Category:** Personal development
+
+---

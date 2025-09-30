@@ -1,0 +1,85 @@
+#  Reflection 
+ 
+## Brainstorming and Broadening Understanding
+
+**Gold standard for Professional Practice:** Exploratory stage where you gather general background information about a topic, read widely, refine your ideas and explore solutions or approaches to a task. This includes using textbooks, study materials, blogs, scholarly overviews, and conversations with peers or experts. The goal is to explore and learn rather than generate final arguments. Always distinguish this exploratory phase from a formal literature search. You are not expected to reference every source you explore at this stage, but you should acknowledge any people, tools, or services that made a significant contribution to shaping your thinking or work process.
+
+**How GenAI can be helpful (good practice):** Don't let consultation with GenAI become your default behaviour. Instead, first try making use of signposted support and actively engage with course resources and discussions with people. GenAI could help brainstorm ideas, summarise broad topics, or suggest concept maps, but always use alongside reliable resources and be mindful of the confirmation bias of GenAI, as it will tend to agree with your viewpoints and might not challenge you enough. Keep a record of how GenAI or any other resources shaped your ideas. 
+
+**How GenAI can pose risks (poor practice):** Defaulting to GenAI as your first and only source of input at this stage might reduce your ability to be resourceful, limit critical engagement with your subject, and take away the opportunity to develop interpersonal skills by discussing work-related topics, which could lead to lower performance in your profession in the long run. It is unethical to present ideas as entirely your own if it was wholly or partially produced by another person or tool - always reflect on your process and give credit to people, tools or services that significantly influenced your work process.
+
+**Example Assessments:** Concept mapping exercises, Group ideation sessions with reflective write-up, Rapid-fire Q&A forums or idea dumps (formative)
+
+**Main Skills Category:** Personal development
+
+---
+ 
+## Drafting and Writing
+
+**Gold standard for Professional Practice:** Produce the first full version of your assignment, or a large portion of it, by synthesising information from selected sources in your own words and constructing a logical argument or narrative. This includes structuring sections, writing introductions, and integrating evidence. Drafting is where you demonstrate understanding and decision-making, so it must be done by you, with encouragement to develop your own academic voice. Make use of peer support, teaching provisions, and writing guides.
+
+**How GenAI can be helpful (good practice):** You must synthesise your work yourself to meet this learning objective. GenAI may be used as support tool to seek advice from, to develop structuring outlines (i.e. headings) or revise sentences after initial drafting. Always check the accuracy and relevance if you use GenAI suggestions. Keep a record of your interactions with GenAI to be transparent in your process and acknowledge the tool appropriately. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate content for any part of your draft — including collecting information and writing it up on your behalf — places you at risk for suspected misconduct. Over-reliance on GenAI risks not meeting assessment criteria, becoming less resourceful, not developing your own academic voice, and failing to build confidence in your ideas, methods, and words.
+
+**Example Assessments:** Partial manuscript submissions (e.g., Introduction or Methods only), Writing workshops with iterative drafts, Peer-to-peer writing feedback with rubric
+
+**Main Skills Category:** Writing
+
+---
+ 
+## Finalisation and Submission Preparation
+
+**Gold standard for Professional Practice:** Preparing the final version of your work for submission through effective time management, checking formatting, file naming conventions, word counts, and technical requirements (e.g. file type, size, formatting). This may involve converting documents to PDF, ensuring that all sections and appendices are included, and uploading files to the submission platform.
+
+**How GenAI can be helpful (good practice):** Engage directly with your material and apply study strategies relevant to your discipline, using GenAI only as a support tool while taking personal responsibility for the accuracy of the submission. GenAI can provide checklists and reminders to double-check formatting and technical requirements, but you must complete final checks yourself. It can also be used to help structure a step-by-step breakdown of your work process. 
+
+**How GenAI can pose risks (poor practice):** Over-relying on GenAI at this stage places you at risk of shortcutting your reasoning process, failing to notice errors that affect your submission, and neglecting the development of project management skills, such as checking requirements yourself and aligning your work correctly with the submission criteria.
+
+**Example Assessments:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
+
+**Main Skills Category:** Personal development
+
+---
+ 
+## Structuring, Editing and Proofreading
+
+**Gold standard for Professional Practice:** Review and refine your own draft to improve clarity, coherence, grammar, tone and flow of arguments. Identify sections that need further development, reorganise or rewrite sections where needed, ensure each section has a purpose, and check citation accuracy. Strengthen your work with peer feedback, writing guides and other provided teaching support.
+
+**How GenAI can be helpful (good practice):** Use GenAI as a support tool to provide feedback on your own draft, such as highlighting errors, outlining shortcomings and suggesting alternatives. Critically review suggestions and decide which changes to implement to help maintain your own voice, because the work is a reflection of you. Transparently acknowledge the use of GenAI for this purpose in your work and keep a record of your interactions with the tool. 
+
+**How GenAI can pose risks (poor practice):** Rewriting with GenAI can change original meaning and source attribution with in-text citations, leading to unintended inaccuracies. Submitting large sections of text rewritten by GenAI without proper review and/or without acknowledging GenAI transparently, places you at risk for suspected misconduct.  Over-reliance can lead to loss of your own voice, weaker development as a writer, and less effective communication over time.
+
+**Example Assessments:** Rewriting poorly structured text, Structural editing task with rationale, Peer-editing assignment
+
+**Main Skills Category:** Writing
+
+---
+ 
+## Problem-based learning
+
+**Gold standard for Professional Practice:** In structured PBL scenarios, students explore open-ended scientific questions or case studies. The gold standard is to use this process to deepen reasoning, integrate knowledge, and develop collaborative problem-solving skills. It is not about finding a single correct answer but about building your capacity to investigate and justify different approaches. Support is available through group discussions, facilitator guidance, and case study resources.
+
+**How GenAI can be helpful (good practice):** Use GenAI to enhance reflection and broaden perspectives, for example by generating possible frameworks, surfacing overlooked angles, or posing counterarguments to test your reasoning. Good practice means first engaging actively with peers and course resources, then using GenAI to refine or stress-test your ideas while ensuring your analysis remains your own. 
+
+**How GenAI can pose risks (poor practice):** Allowing GenAI to propose full solutions or carry out the analysis for you undermines the purpose of PBL and constitutes misconduct. Over-relying on GenAI discourages critical engagement with peers and tutors, limits your ability to practise reasoning skills, and risks presenting GenAI’s suggestions as your own work without evaluation.
+
+**Example Assessments:** Case study portfolio, Group problem resolution report, Self-assessed role in PBL cycle
+
+**Main Skills Category:** Reasoning
+
+---
+ 
+## Reflective and Personal Writing
+
+**Gold standard for Professional Practice:** Writing reflective essays or journals that describe your own personal experiences, development, and learning. This requires honest introspection, critical self-analysis, and connecting your experiences to relevant theory. The content must come from your own thinking and perspective, not from literature summaries or external sources. In your work, you should demonstrate how you interpret, evaluate, and learn from your experiences, and how this shapes your development, rather than simply listing what you did, when, where, and how.
+
+**How GenAI can be helpful (good practice):** Reflections should always be written by you. Start by making use of signposted support and reflective frameworks to develop meaningful self-analysis strategies and draft your initial ideas, before turning to GenAI. You can then use GenAI as a supporting tool to help structure your ideas or proofread your work. It may also be used to clarify your understanding in a structured way, for example by asking a set of questions, but the personal meaning and connections must come from you. Good practice means engaging directly with your experiences and applying reflective strategies relevant to your discipline. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate or rewrite a reflection on your behalf places you at risk of suspected misconduct, even if you acknowledge its use. It also prevents you from showing genuine personal insight or meeting assessment criteria, and causes you to miss the chance to practise self-analysis, link experiences to theory in your own words, and develop reflective skills essential for academic and professional growth.
+
+**Example Assessments:** Reflective journal entries, Professional development narrative, Critical incident reflection
+
+**Main Skills Category:** Writing
+
+---
