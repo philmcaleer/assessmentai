@@ -1,0 +1,858 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.6.42">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="description" content="An online resource for good practice of AI usage in assessment.">
+
+<title>Case Study A – AI in Assessment</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./references.html" rel="next">
+<link href="./Practical skills assessment.html" rel="prev">
+<link href="./images/favicon.ico" rel="icon">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-03540c99dd1a34af77b4c54761d366e2.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<link href="site_libs/tabwid-1.1.3/tabwid.css" rel="stylesheet">
+
+<script src="site_libs/tabwid-1.1.3/tabwid.js"></script>
+
+
+
+<link rel="stylesheet" href="style.css">
+<meta property="og:title" content="Case Study A – AI in Assessment">
+<meta property="og:description" content="An online resource for good practice of AI usage in assessment.">
+<meta property="og:image" content="images/logo.png">
+<meta property="og:site_name" content="AI in Assessment">
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Case Study A.html">Case Study</a></li><li class="breadcrumb-item"><a href="./Case Study A.html"><span class="chapter-title">Case Study A</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">AI Assessment</a> 
+        <div class="sidebar-tools-main">
+    <a href="https://github.com/philmcaleer/assessmentai" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
+    <a href="https://www.linkedin.com/sharing/share-offsite/?url=|url|" title="LinkedIn" class="quarto-navigation-tool px-1" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Overview</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true">
+ <span class="menu-text">Skill Directory</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Communication.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Communication</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Critical thinking.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Critical thinking</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Data analyses.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Data analyses</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Literature review.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Literature review</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Methodology.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Methodology</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Personal development.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Personal development</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Professionalism.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Professionalism</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Scientific method.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Scientific method</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Writing.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Writing</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true">
+ <span class="menu-text">Assessment Directory</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Blog assignment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Blog assignment</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Essay.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Essay</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Group Project.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Group project</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Journal Club.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Journal club</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Practical skills assessment.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Practical skills assessment</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true">
+ <span class="menu-text">Case Study</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./Case Study A.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Case Study A</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true">
+ <span class="menu-text">End Matter</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#components" id="toc-components" class="nav-link active" data-scroll-target="#components">Components:</a>
+  <ul class="collapse">
+  <li><a href="#literature-review-to-set-background-context" id="toc-literature-review-to-set-background-context" class="nav-link" data-scroll-target="#literature-review-to-set-background-context">Literature review to set background context</a></li>
+  <li><a href="#generating-hypothesesobjectives" id="toc-generating-hypothesesobjectives" class="nav-link" data-scroll-target="#generating-hypothesesobjectives">Generating hypotheses/objectives</a></li>
+  <li><a href="#experimental-design" id="toc-experimental-design" class="nav-link" data-scroll-target="#experimental-design">Experimental Design</a></li>
+  <li><a href="#developing-methods" id="toc-developing-methods" class="nav-link" data-scroll-target="#developing-methods">Developing Methods</a></li>
+  <li><a href="#data-generation" id="toc-data-generation" class="nav-link" data-scroll-target="#data-generation">Data Generation</a></li>
+  <li><a href="#writing-up-methods" id="toc-writing-up-methods" class="nav-link" data-scroll-target="#writing-up-methods">Writing Up Methods</a></li>
+  <li><a href="#data-visualisation" id="toc-data-visualisation" class="nav-link" data-scroll-target="#data-visualisation">Data Visualisation</a></li>
+  <li><a href="#analysing-results" id="toc-analysing-results" class="nav-link" data-scroll-target="#analysing-results">Analysing Results</a></li>
+  <li><a href="#writing-up-results" id="toc-writing-up-results" class="nav-link" data-scroll-target="#writing-up-results">Writing Up Results</a></li>
+  <li><a href="#interpreting-results" id="toc-interpreting-results" class="nav-link" data-scroll-target="#interpreting-results">Interpreting Results</a></li>
+  <li><a href="#critical-analysis-in-the-context-of-literature" id="toc-critical-analysis-in-the-context-of-literature" class="nav-link" data-scroll-target="#critical-analysis-in-the-context-of-literature">Critical Analysis in the Context of Literature</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/philmcaleer/assessmentai/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li><li><a href="https://github.com/philmcaleer/assessmentai/blob/main/Case Study A.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./Case Study A.html">Case Study</a></li><li class="breadcrumb-item"><a href="./Case Study A.html"><span class="chapter-title">Case Study A</span></a></li></ol></nav>
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-title">Case Study A</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<p>Example of progression in skills related to teaching experimental research methods and the role that GenAI might play. This example is based on progression of skills from laboratory-based experimental practicals in Levels 1 and 2, a group mini-project in Level 3 and independent research project in the honours year.</p>
+<ul>
+<li>In year 1, tasks might be broken down across the year, rather than expecting a single written lab report.<br>
+</li>
+<li>In year 2, a complete lab report is expected, that includes most elements but some elements may be based on separate experiments.<br>
+</li>
+<li>In year 3, a group miniproject is used to reinforce learning by having students design their own simple experiment (over the time-frame of 2 weeks), analyse the data and write up a repor t in the format of a journal article.</li>
+<li>In year 4, skills are further refined in an independent research project expected to involve a more multi-faceted experiment.<br>
+</li>
+<li>At master’s level, skills are further reinforced but students are expected to take more ownership of choosing a supervisor and topic than at undergraduate level.</li>
+</ul>
+<p>The use of GenAI would be expected to increase over the years, as students gain the knowledge and experience to interpret and critically assess suggestions generated. Throughout, students should be provided with clear guidance on how to appropriately acknowledge use of GenAI, including declarations that the work is their own, even if GenAI was consulted.</p>
+<section id="components" class="level2">
+<h2 class="anchored" data-anchor-id="components">Components:</h2>
+<section id="literature-review-to-set-background-context" class="level3">
+<h3 class="anchored" data-anchor-id="literature-review-to-set-background-context">Literature review to set background context</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d234be76{table-layout:auto;width:100%;}.cl-d22aa166{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d22aa170{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d22e9e9c{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d22ec160{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d234be76"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166"> </span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Year 1</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Year 2</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Year 3</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Skills Level</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Understanding  background motivation to experimental study</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Critical analysis of literature to write background to experimental study</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Elementary critical analysis of literature to justify choice of study system and highlight gaps in knowledge</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">DetGenAIled critical analysis of literature to identify gaps in knowledge</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Student Tasks</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Students provided with background context  to the topic of the study but asked to critique  one primary reference that explGenAIns background gap in knowledge.  Students asked to summarise the key findings of the paper and highlight a specific gap in knowledge that relates to the experiment to be conducted.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Students asked to write a short introduction to experimental study, including citations to small number of primary research papers, in order to set background motivation and identify gaps in knowledge. Citations should be referred to in text and summarised in a formatted bibliography.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Group asked to identify appropriate literature as starting point to motivate study but each member asked to independently write up introduction to project, using primary literature and specific written guidelines for expectations</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Independent literature searching to provide in-depth analysis of what is and isn't known on the topic</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">GenAI Best Practice</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Could be used to identify possible references but students should download and read the original source to check that the resource is appropriate to explGenAIn the topic. Students  encouraged to summarise the paper and  identify the gap themselves, rather than using GenAI, to develop critical analysis skills</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Could be used to identify possible references but students encouraged to  read the original sources in detGenAIl and  check they are from primary peer-reviewed literature. Students  encouraged to draft the introduction themselves but could use GenAI to check grammar and clarity. Students should not directly copy from GenAI suggestions.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Inspiration for choice of topic; starting point for literature searching; grammar checking and writing improvement; students expected to verify any literature used.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Inspiration as starting point for literature searching on topic of interest  but should not be relied on as accurate source.  Could be used to summarise relevant informGenAIton in papers but accuracy should be checked by thorough reading of the papers by students.  Students should organise references using a reference manager.  Could be used for grammar checking and writing improvement.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Risks</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Relying on GenAI for advice on literature can be misleading and miss critical literature. Relying on GenAI for summarising paper content reduces development of critical analysis skills</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">GenAI generated reference lists can take more time to check for accuracy than searches such as Web of Science and Google Scholar because hallucinations can take multiple forms: 1) completely invented reference; j2) invented digital object identifier even if the rest of the reference is correct; 3) some detGenAIls of the citation correct but others invented (e.g. wrong journal); 4) improper formatting of citations or bibliography.    Directly copying whole sentences and paragraphs of an GenAI-assisted introduction is a form of academic misconduct, even if the tool used is cited.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">GenAI generated reference lists can take more time to check for accuracy than searches such as Web of Science and Google Scholar because hallucinations can take multiple forms: 1) completely invented reference; j2) invented digital object identifier even if the rest of the reference is correct; 3) some detGenAIls of the citation correct but others invented (e.g. wrong journal); 4) improper formatting of citations or bibliography.    Directly copying whole sentences and paragraphs of an GenAI-assisted introduction is a form of academic misconduct, even if the tool used is cited.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">GenAI generated reference lists can take more time to check for accuracy than searches such as Web of Science and Google Scholar because hallucinations can take multiple forms: 1) completely invented reference; j2) invented digital object identifier even if the rest of the reference is correct; 3) some detGenAIls of the citation correct but others invented (e.g. wrong journal); 4) improper formatting of citations or bibliography.    Directly copying whole sentences and paragraphs of an GenAI-assisted introduction is a form of academic misconduct, even if the tool used is cited.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa166">Citation Required</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Yes, if used to identify gap</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Yes, if used for writing improvement.  Students should provide evidence that they have verified any literature used and sign declaration that the writing is their own work.</span></p></td><td class="cl-d22ec160"><p class="cl-d22e9e9c"><span class="cl-d22aa170">Not if just used for inspiration but should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="generating-hypothesesobjectives" class="level3">
+<h3 class="anchored" data-anchor-id="generating-hypothesesobjectives">Generating hypotheses/objectives</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d25a191e{table-layout:auto;width:100%;}.cl-d2517584{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d251758e{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d254d71a{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d254f178{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d25a191e"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584"> </span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Year 1</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Year 2</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Year 3</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Skills Level</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Introduction to scientific reasoning</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Critical assessment of study GenAIms and potential outcomes</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Generation of specific objectives that can be achieved in  timeframe of  project</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">DetGenAIled critical analysis of literature to motivate specific objectives</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Student Tasks</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Students provided with a scenario of observations and asked to provide a hypothesis to explGenAIn the pattern, based on background information provided</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Students asked to paraphrase objectives of study provided in instructions to experiment and asked to propose hypotheses about predicted outcomes, based on background reading</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Group asked to generate specific objectives to be addressed in the timeframe of the project and generate hypotheses to predict outcomes</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Independent generation of objectives/hypotheses, based on evidence from primary literature</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">GenAI Best Practice</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Could be used for inspiriation about hypothesis but students should write in their own words</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Could be used for inspriation about hypotheses but students should write in their own words and include references to support hypotheses</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Inspiration for objectives and hypotheses; assistance with organising objectives and clarity of expression.</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Inspiration for questions to ask supervisor or possible hypotheses to test on the topic of interest. Students should formulate their own objectives and hypotheses but could consult GenAI for improvement in clarity (but avoiding direcly copying advice).</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Risks</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">GenAI generated hypotheses may not accurately explGenAIn the observed patterns.  Relying on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">GenAI generated hypotheses may not be directly relevant to the specific objectives.  Over-reliance on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">GenAI generated hypotheses may not be directly suitable for objectives that can be achieved within the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">GenAI generated objectives may not be directly suitable for the scope and data avGenAIlable or that can be generated in the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d2517584">Citation Required</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">No</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Not if only used for inspiration</span></p></td><td class="cl-d254f178"><p class="cl-d254d71a"><span class="cl-d251758e">Not if just used for inspiration but should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="experimental-design" class="level3">
+<h3 class="anchored" data-anchor-id="experimental-design">Experimental Design</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d272243c{table-layout:auto;width:100%;}.cl-d268d648{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d268d652{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d26bef2c{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d26c09c6{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d272243c"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648"> </span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Year 1</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Year 2</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Year 3</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Skills Level</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Understanding controls and experimental set up</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Interpretation of multi-component experimental design</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Independent experimental design by group</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Design of independent project, based on existing literature</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Student Tasks</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Students provided with written description of experimental design, specifying  treatments, replicates, sample sizes and use of controls.   Students asked to comment on the appropriateness of the controls and sample sizes to test the hypotheses.</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Students provided with detGenAIls about the experimental design and asked to explGenAIn it in their own words</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">In a group setting and in consultation with tutor, students asked to decide on topic and design  experiment, including sample sizes, controls, replicates; refinement of approach after oral presentation of proposal by group</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">In consulation with supervisor, independent design of experiment on given topic</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">GenAI Best Practice</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Could be used to  explGenAIn basic concepts about good experimental design practice.</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Could be used to explGenAIn background theory or to provide pointers about good experimental design</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Inspiration for choice of topic; inspiration for experimental planning and advice on potential pitfalls</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Inspiration for questions to ask supervisor; advice on experimental design.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Risks</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">GenAI will not have the appropriate information to inform best practice in experimental design for the particular subject area</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">GenAI might provide inaccurate definitions or explanations of methods.   Over-reliance on GenAI reduces development of experimental design skills and comprehension of specific methods used.</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">GenAI might provide inaccurate definitions or explanations of methods.   Over-reliance on GenAI reduces development of experimental design skills and choice of most appropriate methods.</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">GenAI might suggest methods that are outside of the scope of the project or that are not suitable to address the stated objectives.   Over-reliance on GenAI reduces development of experimental design skills,  choice of most appropriate methods, and critical thinking.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d648">Citation Required</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">No</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Not if only used for inspiration</span></p></td><td class="cl-d26c09c6"><p class="cl-d26bef2c"><span class="cl-d268d652">Not if just used for inspiration but should acknowledge tools used to advise on specific features of experimental design</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="developing-methods" class="level3">
+<h3 class="anchored" data-anchor-id="developing-methods">Developing Methods</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d28c49de{table-layout:auto;width:100%;}.cl-d281d8fa{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d281d90e{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2864322{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d286617c{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d28c49de"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa"> </span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Year 1</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Year 2</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Year 3</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Skills Level</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Following step-by-step  instructions</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Following step-by-step instructions but based on a multicomponent experiment</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Developing  appropriate methods by group  to address study objectives in allocated timeframe and identifying appropriate statistical analyses</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Developing  and optimising appropriate methods by individual to address study objectives in allocated timeframe and identifying appropriate statistical analyses</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Student Tasks</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Students provided with detGenAIled instructions to follow or develop pre-lab skills  through videos or other trGenAIning materials</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Students provided with detGenAIled instructions to follow but involving more than one experiment</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">In consultation with tutor, group  asked to develop appropriate methods to address objectives (including identification of appropriate statistical analyses before start of experiment) and list of resources required; ; refinement of approach after oral presentation of proposal by group</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Generation of  own data, using appropriate methodology, collected with consideration of analytical framework and a priori hypotheses</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">GenAI Best Practice</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Could be used to explGenAIn technical terminology or for translation.</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Could be used to explGenAIn technical terminology or for translation.</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Inspiration for basic methods/ resources but detGenAIled methodology should be derived from peer-reviewed literature; could be consulted for advice on statistics but students expected to apply the particular approaches to data analysis that they have learned in their programme</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Inspiration for appropriate methods but sources should be verified and appropriate references provided for methodology used.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Risks</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">GenAI could provide inaccurate definitions or definitions that have a different meaning in the focal study area</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">GenAI might not be able to integrate different components of multi-task experiment.   Over-reliance on GenAI reduces development of critical skills in subject-specific methods.</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">GenAI might suggest methods that are not appropriate within the timeframe of the project or that do not use the specific approaches to data analysis taught in classes.   Over-reliance on GenAI reduces development of critical skills in subject-specific methods.</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">GenAI might suggest inappropriate or inaccurate sources for the particular methods used.  Statistical analyses suggested may not be consistent with approaches learned in programme.  Over-reliance on GenAI reduces development of critical skills in optimisation of methods and choice of statistical analyses appropriate to specific data collected and planned objectives.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d8fa">Citation Required</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">No</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">No</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">Not if only used for inspiration</span></p></td><td class="cl-d286617c"><p class="cl-d2864322"><span class="cl-d281d90e">No, as methods should be verified based on primary literature</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="data-generation" class="level3">
+<h3 class="anchored" data-anchor-id="data-generation">Data Generation</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d2a232d0{table-layout:auto;width:100%;}.cl-d2999968{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2999972{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d29ce33e{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d29cfed2{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d2a232d0"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968"> </span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Year 1</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Year 2</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Year 3</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Skills Level</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Basic measurements/observations</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Basic measurements/observations on a multi-component experiment</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Developing framework for data entry and analysis; developing  methods for data collection</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Designing framework for measuring, recording and organising multi-faceted data</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Student Tasks</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Students provided with formatted excel file to fill in own data based on measurements or observations in the practical, but analyses  to be based on larger data set provided</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Students provided with formatted excel file to fill in data but with more complex elements</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Group asked to  allocate  tasks to team members to collect data,  and design excel file to record data collected (considering the statistical analyses to be conducted)</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">In consultation with supervisor, measure and record data, in format that could be used for the type of analsyes learned during  data analysis courses</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">GenAI Best Practice</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Not useful, except for guidance on excel features</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Not useful, except for guidance on excel features</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Inspiration for specific methods or anticipated time taken for particular tasks; advice on formatting data for downstream analyses</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Not helpful, except for advice on organising datasheets for particular analyes</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Risks</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">GenAI could suggest formatting in a way that is not appropriate for downstream analyses, resulting in additional effort by the student later</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">GenAI could suggest formatting in a way that is not appropriate for downstream analyses, resulting in additional effort by the student later</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">GenAI could suggest formatting in a way that is not appropriate for downstream analyses, resulting in additional effort by the student later.</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">GenAI could suggest formatting in a way that is not appropriate for downstream analyses, resulting in additional effort by the student later.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999968">Citation Required</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">N/A</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">N/A</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">Not if only used for inspiration</span></p></td><td class="cl-d29cfed2"><p class="cl-d29ce33e"><span class="cl-d2999972">No</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="writing-up-methods" class="level3">
+<h3 class="anchored" data-anchor-id="writing-up-methods">Writing Up Methods</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d2b816a4{table-layout:auto;width:100%;}.cl-d2af52d0{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2af52d1{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2b2bd8a{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d2b2d900{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d2b816a4"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0"> </span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Year 1</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Year 2</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Year 3</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Skills Level</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Paraphrasing instructions</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Writing methods in detGenAIl, including describing statistical analyses</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Independent writing of experimental methods and statistical analyses</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Independent writing of multi-faceted experimental methods and statistical analyses</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Student Tasks</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Students asked to paraphrase instructions in their own words.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Students provided with a presentation to explGenAIn the methods but asked to write up in their own words and add detGenAIls of the data collection and analyses that they performed</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Individuals asked to independently write up methods  to explGenAIn experimental design, data collection and statistical analyses with level of detGenAIl that others could repeat</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Independent writing of detGenAIled methods, in style appropriate for a journal article, using subheadings and structure that map onto specific objectives</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">GenAI Best Practice</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Best practice would be to put in  own words but GenAI could be used to check writing.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Could be consulted for accurate reporting of statistics; could be used to improve wording of description of experimental design.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Could be consulted for accurate description  of statistics but should use specific guidance from previous data analysis taught in programme; could be used to improve wording of description of experimental design.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Could be used for advice on paper structuring and how to report particular types of methods and statistics, but should apply what was learned during courses. Could be used for grammar checking or writing improvement</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Risks</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">GenAI might leave out critical steps in methodology that would be necessary for someone else ot repeat the experiment</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">GenAI might not have enough information to accurately explGenAIn the specific methods.   Over-reliance on GenAI reduces development of critical skills in open and repeatable science.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">GenAI might not have enough information to accurately explGenAIn the specific methods.   Over-reliance on GenAI reduces development of critical skills in data analysis and in open and repeatable science.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">GenAI might not have enough information to accurately explGenAIn the specific methods.   Over-reliance on GenAI reduces development of critical skills in data analysis and in open and repeatable science.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d0">Citation Required</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">If GenAI is used, specific sources should be acknowledged.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">If used to improve writing, specific sources should be cited and examples of  input prompts included in appendix.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">If used to improve writing, specific sources should be cited and examples of input prompts included in appendix.</span></p></td><td class="cl-d2b2d900"><p class="cl-d2b2bd8a"><span class="cl-d2af52d1">Should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="data-visualisation" class="level3">
+<h3 class="anchored" data-anchor-id="data-visualisation">Data Visualisation</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d2cdfba4{table-layout:auto;width:100%;}.cl-d2c56c32{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2c56c46{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2c8b176{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d2c8cd6e{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d2cdfba4"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32"> </span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Year 1</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Year 2</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Year 3</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Skills Level</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Basic data plotting, comparing tools</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Using R to plot data</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Choosing appropriate approaches for data visualisation</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Optimising approaches to data visualisation</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Student Tasks</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Students provided with table of results and asked to compare different graphing styles by drawing  graphs by hand on paper, using excel  or provided with annotated R script that generates different graphing outputs.  Students asked to comment on which are most effective for presenting the data.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Students given R code to plot data, based on class data,  but asked  to annotate R script to explGenAIn the type of graphs used and add references to specific R packages used.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Individuals asked to decide on most apppropriate graphics to visualise results; in consultation with course organisers and examples, students asked to develop R code for data visualisation</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Independent choice of best approaches to visualise data and generation of high-quality figures in R or another appropriate software package</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">GenAI Best Practice</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Not useful for manual graphs, except for advice on options for graphing styles;  could be used to learn how to use graphing features in excel; could be used for troubleshooting for importing data or running R script.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Could be consulted for issues with importing data file or managing working directories; could be used to improve graphics</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Could be consulted for inspiration on most appopriate visualisation,  for assistance with generating R code to produce plots and for trouble-shooting.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Inspiration for different approaches to data visualisation. If using R, could  be used for troubleshooting and/or  example scripts for producing different types of plots.  Should verify that the code works and ideally, track down original sources of the code suggested.  Annotations on R scripts should be written independently.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Risks</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">GenAI might not suggest the types of data presentation learned in class.  Caution should always be employed when using GenAI-generated coding advice, as errors can be made or packages/ functions can be hallucinated.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Caution should always be employed when using GenAI-generated coding advice, as errors can be made or packages/ functions can be hallucinated.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Caution should always be employed when using GenAI-generated coding advice, as errors can be made or packages/ functions can be hallucinated.   GenAI might suggest analyses that are not consistent with specific data visualisation skills learned in programme.  Over-reliance on GenAI reduces development of critical skills in data visualisation and in open and repeatable science.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Caution should always be employed when using GenAI-generated coding advice, as errors can be made or packages/ functions can be hallucinated.   GenAI might suggest analyses that are not consistent with specific data visualisation skills learned in programme.  Over-reliance on GenAI reduces development of critical skills in data visualisation and in open and repeatable science.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c32">Citation Required</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Best practice is to cite sources if used to help with coding but not for error checking or "how to"</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Any sources used for improving graphics  should be cited in R script but not necessary if just used for troubleshooting; students should sign declaration that they have not directly copied anotations from another source</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Yes, all external sources of R code (i.e. outside of  taught examples) should be cited, including GenAI tools if relevant.</span></p></td><td class="cl-d2c8cd6e"><p class="cl-d2c8b176"><span class="cl-d2c56c46">Should acknowledge tools used to assist with coding</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="analysing-results" class="level3">
+<h3 class="anchored" data-anchor-id="analysing-results">Analysing Results</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d2e47d34{table-layout:auto;width:100%;}.cl-d2dbacb8{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2dbacc2{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2df4a12{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d2df64b6{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d2e47d34"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8"> </span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Year 1</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Year 2</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Year 3</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Skills Level</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Introduction to scientific reasoning</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Critical assessment of study GenAIms and potential outcomes</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Generation of specific objectives that can be achieved in  timeframe of  project</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">DetGenAIled critical analysis of literature to motivate specific objectives</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Student Tasks</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Students provided with a scenario of observations and asked to provide a hypothesis to explGenAIn the pattern, based on background information provided</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Students asked to paraphrase objectives of study provided in instructions to experiment and asked to propose hypotheses about predicted outcomes, based on background reading</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Group asked to generate specific objectives to be addressed in the timeframe of the project and generate hypotheses to predict outcomes</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Independent generation of objectives/hypotheses, based on evidence from primary literature</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">GenAI Best Practice</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Could be used for inspiriation about hypothesis but students should write in their own words</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Could be used for inspriation about hypotheses but students should write in their own words and include references to support hypotheses</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Inspiration for objectives and hypotheses; assistance with organising objectives and clarity of expression.</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Inspiration for questions to ask supervisor or possible hypotheses to test on the topic of interest. Students should formulate their own objectives and hypotheses but could consult GenAI for improvement in clarity (but avoiding direcly copying advice).</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Risks</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">GenAI generated hypotheses may not accurately explGenAIn the observed patterns.  Relying on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">GenAI generated hypotheses may not be directly relevant to the specific objectives.  Over-reliance on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">GenAI generated hypotheses may not be directly suitable for objectives that can be achieved within the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">GenAI generated objectives may not be directly suitable for the scope and data avGenAIlable or that can be generated in the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacb8">Citation Required</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">No</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Not if only used for inspiration</span></p></td><td class="cl-d2df64b6"><p class="cl-d2df4a12"><span class="cl-d2dbacc2">Not if just used for inspiration but should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="writing-up-results" class="level3">
+<h3 class="anchored" data-anchor-id="writing-up-results">Writing Up Results</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d2f9e76e{table-layout:auto;width:100%;}.cl-d2f12002{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2f1200c{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d2f4d0d0{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d2f4eb06{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d2f9e76e"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002"> </span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Year 1</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Year 2</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Year 3</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Skills Level</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Introduction to scientific reasoning</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Critical assessment of study GenAIms and potential outcomes</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Generation of specific objectives that can be achieved in  timeframe of  project</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">DetGenAIled critical analysis of literature to motivate specific objectives</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Student Tasks</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Students provided with a scenario of observations and asked to provide a hypothesis to explGenAIn the pattern, based on background information provided</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Students asked to paraphrase objectives of study provided in instructions to experiment and asked to propose hypotheses about predicted outcomes, based on background reading</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Group asked to generate specific objectives to be addressed in the timeframe of the project and generate hypotheses to predict outcomes</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Independent generation of objectives/hypotheses, based on evidence from primary literature</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">GenAI Best Practice</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Could be used for inspiriation about hypothesis but students should write in their own words</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Could be used for inspriation about hypotheses but students should write in their own words and include references to support hypotheses</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Inspiration for objectives and hypotheses; assistance with organising objectives and clarity of expression.</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Inspiration for questions to ask supervisor or possible hypotheses to test on the topic of interest. Students should formulate their own objectives and hypotheses but could consult GenAI for improvement in clarity (but avoiding direcly copying advice).</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Risks</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">GenAI generated hypotheses may not accurately explGenAIn the observed patterns.  Relying on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">GenAI generated hypotheses may not be directly relevant to the specific objectives.  Over-reliance on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">GenAI generated hypotheses may not be directly suitable for objectives that can be achieved within the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">GenAI generated objectives may not be directly suitable for the scope and data avGenAIlable or that can be generated in the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f12002">Citation Required</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">No</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Not if only used for inspiration</span></p></td><td class="cl-d2f4eb06"><p class="cl-d2f4d0d0"><span class="cl-d2f1200c">Not if just used for inspiration but should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="interpreting-results" class="level3">
+<h3 class="anchored" data-anchor-id="interpreting-results">Interpreting Results</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d30f51e4{table-layout:auto;width:100%;}.cl-d30633d4{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d30633de{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d3097288{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d3098fd4{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d30f51e4"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4"> </span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Year 1</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Year 2</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Year 3</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Skills Level</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Introduction to scientific reasoning</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Critical assessment of study GenAIms and potential outcomes</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Generation of specific objectives that can be achieved in  timeframe of  project</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">DetGenAIled critical analysis of literature to motivate specific objectives</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Student Tasks</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Students provided with a scenario of observations and asked to provide a hypothesis to explGenAIn the pattern, based on background information provided</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Students asked to paraphrase objectives of study provided in instructions to experiment and asked to propose hypotheses about predicted outcomes, based on background reading</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Group asked to generate specific objectives to be addressed in the timeframe of the project and generate hypotheses to predict outcomes</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Independent generation of objectives/hypotheses, based on evidence from primary literature</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">GenAI Best Practice</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Could be used for inspiriation about hypothesis but students should write in their own words</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Could be used for inspriation about hypotheses but students should write in their own words and include references to support hypotheses</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Inspiration for objectives and hypotheses; assistance with organising objectives and clarity of expression.</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Inspiration for questions to ask supervisor or possible hypotheses to test on the topic of interest. Students should formulate their own objectives and hypotheses but could consult GenAI for improvement in clarity (but avoiding direcly copying advice).</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Risks</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">GenAI generated hypotheses may not accurately explGenAIn the observed patterns.  Relying on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">GenAI generated hypotheses may not be directly relevant to the specific objectives.  Over-reliance on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">GenAI generated hypotheses may not be directly suitable for objectives that can be achieved within the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">GenAI generated objectives may not be directly suitable for the scope and data avGenAIlable or that can be generated in the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633d4">Citation Required</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">No</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Not if only used for inspiration</span></p></td><td class="cl-d3098fd4"><p class="cl-d3097288"><span class="cl-d30633de">Not if just used for inspiration but should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+</section>
+<section id="critical-analysis-in-the-context-of-literature" class="level3">
+<h3 class="anchored" data-anchor-id="critical-analysis-in-the-context-of-literature">Critical Analysis in the Context of Literature</h3>
+<div class="cell">
+<div class="cell-output-display">
+<div class="tabwid"><style>.cl-d3243f96{table-layout:auto;width:100%;}.cl-d31bb9c0{font-family:'Calibri';font-size:11pt;font-weight:bold;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d31bb9ca{font-family:'Calibri';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(0, 0, 0, 1.00);background-color:transparent;}.cl-d31f0382{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-d31f1e58{background-color:transparent;vertical-align: middle;border-bottom: 0.75pt solid rgba(102, 102, 102, 1.00);border-top: 0.75pt solid rgba(102, 102, 102, 1.00);border-left: 0.75pt solid rgba(102, 102, 102, 1.00);border-right: 0.75pt solid rgba(102, 102, 102, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}</style><table data-quarto-disable-processing="true" class="cl-d3243f96"><tbody><tr style="overflow-wrap:break-word;"><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0"> </span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Year 1</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Year 2</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Year 3</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Year 4</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Skills Level</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Introduction to scientific reasoning</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Critical assessment of study GenAIms and potential outcomes</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Generation of specific objectives that can be achieved in  timeframe of  project</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">DetGenAIled critical analysis of literature to motivate specific objectives</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Student Tasks</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Students provided with a scenario of observations and asked to provide a hypothesis to explGenAIn the pattern, based on background information provided</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Students asked to paraphrase objectives of study provided in instructions to experiment and asked to propose hypotheses about predicted outcomes, based on background reading</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Group asked to generate specific objectives to be addressed in the timeframe of the project and generate hypotheses to predict outcomes</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Independent generation of objectives/hypotheses, based on evidence from primary literature</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">GenAI Best Practice</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Could be used for inspiriation about hypothesis but students should write in their own words</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Could be used for inspriation about hypotheses but students should write in their own words and include references to support hypotheses</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Inspiration for objectives and hypotheses; assistance with organising objectives and clarity of expression.</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Inspiration for questions to ask supervisor or possible hypotheses to test on the topic of interest. Students should formulate their own objectives and hypotheses but could consult GenAI for improvement in clarity (but avoiding direcly copying advice).</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Risks</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">GenAI generated hypotheses may not accurately explGenAIn the observed patterns.  Relying on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">GenAI generated hypotheses may not be directly relevant to the specific objectives.  Over-reliance on GenAI to generate hypotheses reduces development of critical analysis skills.</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">GenAI generated hypotheses may not be directly suitable for objectives that can be achieved within the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">GenAI generated objectives may not be directly suitable for the scope and data avGenAIlable or that can be generated in the timeframe of the project.  Over-reliance on GenAI reduces development of  skills in information synthesis and critical analysis.</span></p></td></tr><tr style="overflow-wrap:break-word;"><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9c0">Citation Required</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">No</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Not if only used for writing improvement but students should sign declaration that they have not directly copied and that they have verified all references manually</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Not if only used for inspiration</span></p></td><td class="cl-d31f1e58"><p class="cl-d31f0382"><span class="cl-d31bb9ca">Not if just used for inspiration but should acknowledge tools used for assistance with writing</span></p></td></tr></tbody></table></div>
+</div>
+</div>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./Practical skills assessment.html" class="pagination-link" aria-label="Practical skills assessment">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Practical skills assessment</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./references.html" class="pagination-link" aria-label="References">
+        <span class="nav-page-text">References</span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>CC-BY-SA-4.0 (2025) Denise Hough, Barbara Mable, Phil McAleer &amp; Helena Paterson</p>
+</div>   
+    <div class="nav-footer-center">
+      &nbsp;
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/philmcaleer/assessmentai/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li><li><a href="https://github.com/philmcaleer/assessmentai/blob/main/Case Study A.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    <div class="nav-footer-right">
+      &nbsp;
+    </div>
+  </div>
+</footer>
+
+
+
+
+</body></html>

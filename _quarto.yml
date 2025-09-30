@@ -57,7 +57,7 @@ book:
       
     - part: "Case Study"
       chapters: 
-        - CS1.qmd
+        - Case Study A.qmd
 
     - part: "End Matter"
       chapters: 

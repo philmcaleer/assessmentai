@@ -1,0 +1,327 @@
+---
+engine: knitr
+---
+
+#  Case Study A
+
+Example of  progression in skills related to teaching experimental research methods and the role that GenAI might play.  This example is based on progression of skills from laboratory-based experimental practicals  in Levels 1 and 2, a group mini-project in Level 3 and independent research project in the honours year.  
+
+* In year 1, tasks might be broken down across the year, rather than expecting a single written lab report.  
+* In year 2, a complete lab report is expected, that includes most elements but some elements may be based on separate experiments.  
+* In year 3, a group miniproject is used to reinforce learning by having students design their own simple experiment (over the time-frame of 2 weeks), analyse the data and write up a repor t in the format of a journal article. 
+* In year 4, skills are further refined in an independent research project expected to involve a more multi-faceted experiment.  
+* At master's level, skills are further reinforced but students are expected to take more ownership of choosing a supervisor and topic than at undergraduate level.  
+
+The use of GenAI would be expected to increase over the years, as students gain the knowledge and experience to interpret and critically assess suggestions generated.  Throughout, students should be provided with clear guidance on how to appropriately acknowledge use of GenAI, including declarations that the work is their own, even if GenAI was consulted.
+
+```{r, echo=FALSE, warning=FALSE, message=FALSE}
+library(flextable)
+library(readxl)
+library(tidyverse)
+
+y1 <- read_xlsx("skillsprogressiontable_18-8-25.xlsx", sheet = 2, skip = 1) %>%
+  select(-...2) %>%
+  mutate(year = 1) %>%
+  select(year, everything())
+y2 <- read_xlsx("skillsprogressiontable_18-8-25.xlsx", sheet = 3, skip = 1) %>%
+  mutate(year = 2) %>%
+  select(year, everything())
+y3 <- read_xlsx("skillsprogressiontable_18-8-25.xlsx", sheet = 4, skip = 1) %>%
+  mutate(year = 3) %>%
+  select(year, everything())
+y4 <- read_xlsx("skillsprogressiontable_18-8-25.xlsx", sheet = 5, skip = 1) %>%
+  mutate(year = 4) %>%
+  select(year, everything())
+
+allskill <- bind_rows(y1,y2,y3,y4)
+
+```
+
+## Components:
+
+### Literature review to set background context
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[1], y1$`Student Tasks`[1], y1$`GenAI Best Practice`[1],
+               y1$Risks[1], y1$`Citation of sources required?`[1]),
+      `Y2` = c("Year 2",y2$`Skills Level`[1], y2$`Student Tasks`[1], y2$`GenAI Best Practice`[1],
+               y2$Risks[1], y2$`Citation of sources required?`[1]),
+      `Y3` = c("Year 3",y3$`Skills Level`[1], y3$`Student Tasks`[1], y3$`GenAI Best Practice`[1],
+               y3$Risks[1], y3$`Citation of sources required?`[1]),
+      `Y4` = c("Year 4",y4$`Skills Level`[1], y4$`Student Tasks`[1], y4$`GenAI Best Practice`[1],
+               y4$Risks[1], y4$`Citation of sources required?`[1])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Generating hypotheses/objectives
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[2], y1$`Student Tasks`[2], y1$`GenAI Best Practice`[2],
+               y1$Risks[2], y1$`Citation of sources required?`[2]),
+      `Y2` = c("Year 2",y2$`Skills Level`[2], y2$`Student Tasks`[2], y2$`GenAI Best Practice`[2],
+               y2$Risks[2], y2$`Citation of sources required?`[2]),
+      `Y3` = c("Year 3",y3$`Skills Level`[2], y3$`Student Tasks`[2], y3$`GenAI Best Practice`[2],
+               y3$Risks[2], y3$`Citation of sources required?`[2]),
+      `Y4` = c("Year 4",y4$`Skills Level`[2], y4$`Student Tasks`[2], y4$`GenAI Best Practice`[2],
+               y4$Risks[2], y4$`Citation of sources required?`[2])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Experimental Design
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[3], y1$`Student Tasks`[3], y1$`GenAI Best Practice`[3],
+               y1$Risks[3], y1$`Citation of sources required?`[3]),
+      `Y2` = c("Year 2",y2$`Skills Level`[3], y2$`Student Tasks`[3], y2$`GenAI Best Practice`[3],
+               y2$Risks[3], y2$`Citation of sources required?`[3]),
+      `Y3` = c("Year 3",y3$`Skills Level`[3], y3$`Student Tasks`[3], y3$`GenAI Best Practice`[3],
+               y3$Risks[3], y3$`Citation of sources required?`[3]),
+      `Y4` = c("Year 4",y4$`Skills Level`[3], y4$`Student Tasks`[3], y4$`GenAI Best Practice`[3],
+               y4$Risks[3], y4$`Citation of sources required?`[3])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Developing Methods
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[4], y1$`Student Tasks`[4], y1$`GenAI Best Practice`[4],
+               y1$Risks[4], y1$`Citation of sources required?`[4]),
+      `Y2` = c("Year 2",y2$`Skills Level`[4], y2$`Student Tasks`[4], y2$`GenAI Best Practice`[4],
+               y2$Risks[4], y2$`Citation of sources required?`[4]),
+      `Y3` = c("Year 3",y3$`Skills Level`[4], y3$`Student Tasks`[4], y3$`GenAI Best Practice`[4],
+               y3$Risks[4], y3$`Citation of sources required?`[4]),
+      `Y4` = c("Year 4",y4$`Skills Level`[4], y4$`Student Tasks`[4], y4$`GenAI Best Practice`[4],
+               y4$Risks[4], y4$`Citation of sources required?`[4])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Data Generation
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[5], y1$`Student Tasks`[5], y1$`GenAI Best Practice`[5],
+               y1$Risks[5], y1$`Citation of sources required?`[5]),
+      `Y2` = c("Year 2",y2$`Skills Level`[5], y2$`Student Tasks`[5], y2$`GenAI Best Practice`[5],
+               y2$Risks[5], y2$`Citation of sources required?`[5]),
+      `Y3` = c("Year 3",y3$`Skills Level`[5], y3$`Student Tasks`[5], y3$`GenAI Best Practice`[5],
+               y3$Risks[5], y3$`Citation of sources required?`[5]),
+      `Y4` = c("Year 4",y4$`Skills Level`[5], y4$`Student Tasks`[5], y4$`GenAI Best Practice`[5],
+               y4$Risks[5], y4$`Citation of sources required?`[5])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Writing Up Methods
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[6], y1$`Student Tasks`[6], y1$`GenAI Best Practice`[6],
+               y1$Risks[6], y1$`Citation of sources required?`[6]),
+      `Y2` = c("Year 2",y2$`Skills Level`[6], y2$`Student Tasks`[6], y2$`GenAI Best Practice`[6],
+               y2$Risks[6], y2$`Citation of sources required?`[6]),
+      `Y3` = c("Year 3",y3$`Skills Level`[6], y3$`Student Tasks`[6], y3$`GenAI Best Practice`[6],
+               y3$Risks[6], y3$`Citation of sources required?`[6]),
+      `Y4` = c("Year 4",y4$`Skills Level`[6], y4$`Student Tasks`[6], y4$`GenAI Best Practice`[6],
+               y4$Risks[6], y4$`Citation of sources required?`[6])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Data Visualisation
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[7], y1$`Student Tasks`[7], y1$`GenAI Best Practice`[7],
+               y1$Risks[7], y1$`Citation of sources required?`[7]),
+      `Y2` = c("Year 2",y2$`Skills Level`[7], y2$`Student Tasks`[7], y2$`GenAI Best Practice`[7],
+               y2$Risks[7], y2$`Citation of sources required?`[7]),
+      `Y3` = c("Year 3",y3$`Skills Level`[7], y3$`Student Tasks`[7], y3$`GenAI Best Practice`[7],
+               y3$Risks[7], y3$`Citation of sources required?`[7]),
+      `Y4` = c("Year 4",y4$`Skills Level`[7], y4$`Student Tasks`[7], y4$`GenAI Best Practice`[7],
+               y4$Risks[7], y4$`Citation of sources required?`[7])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Analysing Results
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[2], y1$`Student Tasks`[2], y1$`GenAI Best Practice`[2],
+               y1$Risks[2], y1$`Citation of sources required?`[2]),
+      `Y2` = c("Year 2",y2$`Skills Level`[2], y2$`Student Tasks`[2], y2$`GenAI Best Practice`[2],
+               y2$Risks[2], y2$`Citation of sources required?`[2]),
+      `Y3` = c("Year 3",y3$`Skills Level`[2], y3$`Student Tasks`[2], y3$`GenAI Best Practice`[2],
+               y3$Risks[2], y3$`Citation of sources required?`[2]),
+      `Y4` = c("Year 4",y4$`Skills Level`[2], y4$`Student Tasks`[2], y4$`GenAI Best Practice`[2],
+               y4$Risks[2], y4$`Citation of sources required?`[2])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Writing Up Results
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[2], y1$`Student Tasks`[2], y1$`GenAI Best Practice`[2],
+               y1$Risks[2], y1$`Citation of sources required?`[2]),
+      `Y2` = c("Year 2",y2$`Skills Level`[2], y2$`Student Tasks`[2], y2$`GenAI Best Practice`[2],
+               y2$Risks[2], y2$`Citation of sources required?`[2]),
+      `Y3` = c("Year 3",y3$`Skills Level`[2], y3$`Student Tasks`[2], y3$`GenAI Best Practice`[2],
+               y3$Risks[2], y3$`Citation of sources required?`[2]),
+      `Y4` = c("Year 4",y4$`Skills Level`[2], y4$`Student Tasks`[2], y4$`GenAI Best Practice`[2],
+               y4$Risks[2], y4$`Citation of sources required?`[2])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Interpreting Results
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[2], y1$`Student Tasks`[2], y1$`GenAI Best Practice`[2],
+               y1$Risks[2], y1$`Citation of sources required?`[2]),
+      `Y2` = c("Year 2",y2$`Skills Level`[2], y2$`Student Tasks`[2], y2$`GenAI Best Practice`[2],
+               y2$Risks[2], y2$`Citation of sources required?`[2]),
+      `Y3` = c("Year 3",y3$`Skills Level`[2], y3$`Student Tasks`[2], y3$`GenAI Best Practice`[2],
+               y3$Risks[2], y3$`Citation of sources required?`[2]),
+      `Y4` = c("Year 4",y4$`Skills Level`[2], y4$`Student Tasks`[2], y4$`GenAI Best Practice`[2],
+               y4$Risks[2], y4$`Citation of sources required?`[2])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
+### Critical Analysis in the Context of Literature
+
+```{r, echo = FALSE}
+dats <- data.frame(
+      "Components" = c(" ","Skills Level","Student Tasks","GenAI Best Practice", "Risks","Citation Required"),
+      `Y1` = c("Year 1",y1$`Skills Level`[2], y1$`Student Tasks`[2], y1$`GenAI Best Practice`[2],
+               y1$Risks[2], y1$`Citation of sources required?`[2]),
+      `Y2` = c("Year 2",y2$`Skills Level`[2], y2$`Student Tasks`[2], y2$`GenAI Best Practice`[2],
+               y2$Risks[2], y2$`Citation of sources required?`[2]),
+      `Y3` = c("Year 3",y3$`Skills Level`[2], y3$`Student Tasks`[2], y3$`GenAI Best Practice`[2],
+               y3$Risks[2], y3$`Citation of sources required?`[2]),
+      `Y4` = c("Year 4",y4$`Skills Level`[2], y4$`Student Tasks`[2], y4$`GenAI Best Practice`[2],
+               y4$Risks[2], y4$`Citation of sources required?`[2])
+)
+
+myft <- flextable(dats) %>%
+  bold(i = 1) %>%
+  bold(i = c(2:6), j = 1) %>%
+  fontsize(part = "all", size = 11) %>% 
+  font(part = "all", fontname = "Calibri") %>%
+  delete_part(part = "header") %>%
+  set_table_properties(layout = "autofit", width = 1) %>%
+  theme_box()
+myft
+```
+
