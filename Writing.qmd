@@ -1,5 +1,33 @@
 #  Writing 
  
+## Reflective and Personal Writing
+
+**Gold standard for Professional Practice:** Writing reflective essays or journals that describe your own personal experiences, development, and learning. This requires honest introspection, critical self-analysis, and connecting your experiences to relevant theory. The content must come from your own thinking and perspective, not from literature summaries or external sources. In your work, you should demonstrate how you interpret, evaluate, and learn from your experiences, and how this shapes your development, rather than simply listing what you did, when, where, and how.
+
+**How GenAI can be helpful (good practice):** Reflections should always be written by you. Start by making use of signposted support and reflective frameworks to develop meaningful self-analysis strategies and draft your initial ideas, before turning to GenAI. You can then use GenAI as a supporting tool to help structure your ideas or proofread your work. It may also be used to clarify your understanding in a structured way, for example by asking a set of questions, but the personal meaning and connections must come from you. Good practice means engaging directly with your experiences and applying reflective strategies relevant to your discipline. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to generate or rewrite a reflection on your behalf places you at risk of suspected misconduct, even if you acknowledge its use. It also prevents you from showing genuine personal insight or meeting assessment criteria, and causes you to miss the chance to practise self-analysis, link experiences to theory in your own words, and develop reflective skills essential for academic and professional growth.
+
+**Assessment Type:** Reflection, Peer review,
+
+**Example Assessments:** Reflective journal entries, Professional development narrative, Critical incident reflection
+
+---
+ 
+## Research Proposal and Grant Writing
+
+**Gold standard for Professional Practice:** Writing a structured document that outlines a proposed study or project, including objectives, background, methodology, budget, and timeline. The gold standard is to present a persuasive and feasible proposal based on your own expertise and understanding. Support is available through grant-writing workshops, exemplars, and supervisor guidance.
+
+**How GenAI can be helpful (good practice):** Use GenAI to brainstorm outlines, generate alternative structures, or test phrasing for clarity and persuasiveness. You can also ask GenAI to check readability or highlight jargon, but final decisions must reflect your own knowledge and project specifics. 
+
+**How GenAI can pose risks (poor practice):** Letting GenAI draft large parts of your proposal risks generic, inaccurate, or non-viable content, as well as potential for bias. Over-reliance prevents you from developing and demonstrating your expertise and weakens your ability to independently manage complex projects.
+
+**Assessment Type:** Proposal,
+
+**Example Assessments:** Mock grant application, Short research proposal with budget, Elevator pitch video of proposal
+
+---
+ 
 ## Drafting and Writing
 
 **Gold standard for Professional Practice:** Produce the first full version of your assignment, or a large portion of it, by synthesising information from selected sources in your own words and constructing a logical argument or narrative. This includes structuring sections, writing introductions, and integrating evidence. Drafting is where you demonstrate understanding and decision-making, so it must be done by you, with encouragement to develop your own academic voice. Make use of peer support, teaching provisions, and writing guides.
@@ -10,7 +38,7 @@
 
 **Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Invigilated exam or test, Peer review, Proposal, Dissertation,
 
-**Example Assessments:** Essay, Reflective writing, Blog, Poster presentation
+**Example Assessments:** Partial manuscript submissions (e.g., Introduction or Methods only), Writing workshops with iterative drafts, Peer-to-peer writing feedback with rubric
 
 ---
  
@@ -24,7 +52,7 @@
 
 **Assessment Type:** Report with data analyses, Essay or similar, Presentation, Reflection, Invigilated exam or test, Peer review, Proposal, Dissertation,
 
-**Example Assessments:** Presentations (script), Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+**Example Assessments:** Rewriting poorly structured text, Structural editing task with rationale, Peer-editing assignment
 
 ---
  
@@ -38,7 +66,7 @@
 
 **Assessment Type:** Essay or similar,
 
-**Example Assessments:** Blog assignment, News article, Science communication
+**Example Assessments:** Blog post for public audience, Infographic + explanatory caption, Social media thread or script writing task
 
 ---
  
@@ -52,6 +80,6 @@
 
 **Assessment Type:** Essay or similar, Presentation, Proposal, Dissertation,
 
-**Example Assessments:** Research report, Grant proposal, Lab report, Poster, Conference submission
+**Example Assessments:** Structured abstract writing exercise, Lay summary and technical summary comparison, Abstract peer-assessment task, Poster, Conference submission
 
 ---

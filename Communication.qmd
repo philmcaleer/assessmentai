@@ -10,7 +10,7 @@
 
 **Assessment Type:** Presentation,
 
-**Example Assessments:** Oral assessment and presentation, Group presentation, Video pitch
+**Example Assessments:** Recorded practice presentation with feedback, Pitch-style presentation, Peer-assessed presentation rehearsal
 
 ---
  
@@ -24,7 +24,7 @@
 
 **Assessment Type:** Presentation, Proposal, Dissertation,
 
-**Example Assessments:** Video assignment, Creative task, Communication project
+**Example Assessments:** Educational video on a scientific concept, Interactive visual explainer, Audio/podcast summary of topic
 
 ---
  
@@ -38,7 +38,7 @@
 
 **Assessment Type:** Essay or similar, Presentation, Proposal, Dissertation,
 
-**Example Assessments:** Poster, Infographic, Creative task
+**Example Assessments:** Graphical abstract creation, Figure redesign task (from poor example), Poster design with peer critique
 
 ---
  
@@ -52,6 +52,6 @@
 
 **Assessment Type:** Presentation, Proposal,
 
-**Example Assessments:** Presentation, Group pitch, Viva
+**Example Assessments:** Slide deck submission with narration plan, Visual storyboard for oral presentation, Peer-reviewed visual coherence exercise
 
 ---

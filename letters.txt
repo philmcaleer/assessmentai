@@ -1,9 +1,7 @@
      - Communication.qmd
-     - Critical thinking.qmd
      - Data analyses.qmd
      - Literature review.qmd
      - Methodology.qmd
      - Personal development.qmd
-     - Professionalism.qmd
-     - Scientific method.qmd
+     - Reasoning.qmd
      - Writing.qmd

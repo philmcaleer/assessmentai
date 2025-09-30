@@ -6,17 +6,17 @@
 
 **How GenAI can be helpful (good practice):** GenAI can support your process by suggesting search strategies (e.g. assisting with keywords, Boolean operators, or filters) or by explaining how to use different databases or tools. Some databases include GenAI-embedded functions, and specialist GenAI tools can also help. Take time to understand the strengths and limitations of the GenAI tool you use, for example if it only has access to metadata such as titles and abstracts. Good practice means using GenAI-powered tools as complements, not replacements, by running them in parallel with traditional searching and applying checkpoints at critical decision-making steps to ensure accuracy, coverage, and rigour. Follow copyright and third-party software rules: do not upload full journal articles or subscription-only content into GenAI tools. 
 
-**How GenAI can pose risks (poor practice):** Avoid using a general-purpose GenAI-tool like a database search - this may introduce bias, lead to false attribution or fabricated sources - instead see it as 'general reading and broadening understanding'. Avoid using GenAI to read and select papers on your behalf - this means you only engage with literature superficially and therefore have not found, evaluated and selected sources yourself. Over-relying on GenAI risks that you develop a partial view of the topic and miss out on developing skills to be resourceful, objective and critical in your discipline.
+**How GenAI can pose risks (poor practice):** Avoid using a general-purpose GenAI-tool like a database search - this may introduce bias, lead to false attribution or fabricated sources - instead see it as 'general reading and broadening understanding'. Avoid using GenAI to read and select papers on your behalf - this means you only engage with literature superficially and therefore have not found, evaluated and selected sources yourself. Could also increase time spent on literature searching, since all GenAI-suggested sources would need to be manually verified. Over-relying on GenAI risks that you develop a partial view of the topic and miss out on developing skills to be resourceful, objective and critical in your discipline.
 
 **Assessment Type:** Report with data analyses, Essay or similar, Presentation, Proposal, Dissertation,
 
-**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+**Example Assessments:** Annotated bibliography, Source comparison matrix, Search strategy justification report
 
 ---
  
 ## Managing References and Citations
 
-**Gold standard for Professional Practice:** Tracking bibliographic details for every source you consult and format citations correctly (e.g. APA, Harvard). Keep notes on which information comes from which source, use reference management tools such as EndNote, Mendeley or Zotero, and checking formatting. Always ensure the corect source is credited for each idea in your work.
+**Gold standard for Professional Practice:** Tracking bibliographic details for every source you consult and format citations correctly (e.g. APA, Harvard). Keep notes on which information comes from which source, use reference management tools such as EndNote, Mendeley or Zotero, and check formatting. Always ensure the corect source is credited for each idea in your work.
 
 **How GenAI can be helpful (good practice):** GenAI may be used as a support tool to check formatting style, highlight possible errors, or flag places where citations are missing or unsupported. You must critically review its suggestions, confirm the accuracy of sources, and remain responsible for correct attribution. 
 
@@ -24,6 +24,6 @@
 
 **Assessment Type:** Report with data analyses, Essay or similar, Presentation, Proposal, Dissertation,
 
-**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+**Example Assessments:** Reference list accuracy audit, Citation management software exercise, Peer-reviewed citation check activity
 
 ---

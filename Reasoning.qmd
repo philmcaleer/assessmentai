@@ -1,4 +1,4 @@
-#  Critical thinking 
+#  Reasoning 
  
 ## Developing Research Questions and Hypotheses
 
@@ -10,7 +10,7 @@
 
 **Assessment Type:** Report with data analyses, Essay or similar, Presentation, Practical skills, Proposal, Dissertation,
 
-**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+**Example Assessments:** Submission of hypothesis with justification, Research question refinement workshop, Gap analysis task to develop question
 
 ---
  
@@ -24,7 +24,7 @@
 
 **Assessment Type:** Report with data analyses, Essay or similar, Presentation, Peer review, Proposal, Dissertation,
 
-**Example Assessments:** Essay, Lab report, Oral presentation, Poster presentation, Project report, Systematic review, Disseration
+**Example Assessments:** Critical literature review, Gap identification and research need report, SWOT (Strenght, Weakness, Opportunity, Threat) analysis of existing studies
 
 ---
  
@@ -38,7 +38,7 @@
 
 **Assessment Type:** Peer review,
 
-**Example Assessments:** Journal club, Peer review exercises, Critical review assignment
+**Example Assessments:** Written peer review of a preprint article, Journal club presentation with critique, Structured review using journal guidelines
 
 ---
  
@@ -52,7 +52,7 @@
 
 **Assessment Type:** Report with data analyses, Presentation, Dissertation,
 
-**Example Assessments:** Lab report, Data analysis report, Research paper, Project report
+**Example Assessments:** Results commentary and trends analysis, Mini-report focusing on data interpretation, Discussion section draft with data visuals
 
 ---
  
@@ -66,7 +66,7 @@
 
 **Assessment Type:** Reflection, PBL and Problem-solving,
 
-**Example Assessments:** PBL portfolio, Reflective write-ups, Case-based activities
+**Example Assessments:** Case study portfolio, Group problem resolution report, Self-assessed role in PBL cycle
 
 ---
  
@@ -80,6 +80,6 @@
 
 **Assessment Type:** Invigilated exam or test, PBL and Problem-solving,
 
-**Example Assessments:** Set exercises, Class problems, MCQs with rationale
+**Example Assessments:** Scenario-based quiz or viva, Scientific challenge write-up, Structured troubleshooting workflow design
 
 ---
