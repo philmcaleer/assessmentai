@@ -5,7 +5,7 @@ project:
 book:
   title: "Assessment Skills Map for GenAI-use"
   description: "An online resource for good practice of AI usage in assessment."
-  #google-analytics: "G-PL27NX2KY8"
+  google-analytics: "G-N2VLT379PH"
   cover-image: images/logo.png
   image: images/logo.png
   favicon: images/favicon.ico
@@ -67,7 +67,7 @@ book:
       chapters: 
       - references.qmd
   sidebar:
-      title: AI Assessment
+      title: AI Assessment Map
   page-footer:
       left: "CC-BY-SA-4.0 (2025) Denise Hough, Barbara Mable, Phil McAleer & Helena Paterson"
 
