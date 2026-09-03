@@ -1,0 +1,46 @@
+#  AI Statements
+
+---
+
+## Generic Template
+
+**Statement on Use of AI**
+
+This assessment is **[unsupervised / supervised]**. The purpose of this assessment is to **[insert text]**. 
+
+There is no expectation that you will use AI, and we have no evidence that its use will confer an advantage for this assessment. We recommend that you try all tasks yourself first. If you use AI at any stage of preparation, you must briefly credit its contribution in an Acknowledgements section, which does not contribute to the word count. Due to the institutional data privacy it provides, the university holds a licence with one generative AI-powered tool: Microsoft Copilot, when signed into it with your university account using two-factor authentication. If you choose to use other AI tools you should carefully check data use policies and uphold copyright permissions. We recommend keeping a record of any AI use. You remain responsible for the accuracy, integrity and originality of all submitted work.
+
+The [Life Sciences Student Guidance on Responsible use of GenAI](https://moodle.gla.ac.uk/mod/page/view.php?id=6385970){target="_blank"} provides further support and details for skills associated with this assessment:
+
+*	(list as appropriate from guidance – examples of common skills/assessments from [Assessment AI Map](https://philmcaleer.github.io/assessmentai/){target="_blank"})
+*	Literature Review: Literature Search and Source Evaluation
+*	Literature Review: Managing References and Citations
+*	Writing: Drafting and Writing
+*	Writing: Structuring, Editing and Proofreading
+*	[Managing References and Citations]{style="color: red;"}
+*	...
+
+---
+ 
+## Essay (longer)
+
+**Essay: Statement on Use of AI**
+
+This assessment is **unsupervised**. The purpose of this assessment is to develop your ability to locate, evaluate and synthesise information from scientific literature and to communicate scientific concepts effectively to the target audience. 
+
+There is no expectation that you will use AI, and we have no evidence that its use will confer an advantage for this assessment. We recommend that you try all tasks yourself first. If you use AI at any stage of preparation, you must briefly credit its contribution in an **Acknowledgements** section, which does not contribute to the word count. Due to the institutional data privacy it provides, the university holds a licence with one generative AI-powered tool: **Microsoft Copilot, when signed into it with your university account using two-factor authentication**. If you choose to use other AI tools you should carefully check data use policies and uphold copyright permissions. We recommend keeping a record of any AI use. You remain responsible for the accuracy, integrity and originality of all submitted work. We recommend keeping a record of any AI use during preparation of the assignment. 
+
+You may use generative AI tools as a learning assistant to help you explore the topic, improve your understanding of scientific concepts, identify areas for further reading, and support editing and proofreading. Avoid using AI to draft or rewrite substantial sections of your essay, generate references, or identify sources on your behalf without verification. Generative AI can fabricate information, citations and interpretations, and reliance on AI-generated text may limit the development of the communication and literature evaluation skills assessed in this assignment. 
+
+The [Life Sciences Student Guidance on Responsible use of GenAI](https://moodle.gla.ac.uk/mod/page/view.php?id=6385970){target="_blank"} provides further support and details for skills associated with this assessment:
+
+*	Ethical and Professional Responsibility
+*	Brainstorming and Broadening Understanding
+*	Literature Search and Source Evaluation
+*	Identifying Gaps and Critical Evaluation
+*	Managing References and Citations
+*	Drafting and Writing
+*	Structuring, Editing and Proofreading
+* Finalisation and Submission Preparation
+
+---

@@ -10,7 +10,7 @@ This interactive framework supports educators in designing, reviewing, and commu
 
 The initial mapping identified 29 recurring core skills across life sciences programmes and will be updated as needed. For each skill, the map provides exemplar assessment types that measure competency more directly, highlights areas where generative AI may pose risks of inappropriate substitution, where it can be constructively integrated, and where it holds limited relevance.
 
-By centring assessment design on skills rather than tasks, the map promotes programme-wide consistency, provides a shared language for staff and students, and reduces reliance on individual educators’ generative AI fluency. It serves as a practical tool for aligning local assessment design with institutional policy on responsible generative AI use in education.
+By centering assessment design on skills rather than tasks, the map promotes programme-wide consistency, provides a shared language for staff and students, and reduces reliance on individual educators’ generative AI fluency. It serves as a practical tool for aligning local assessment design with institutional policy on responsible generative AI use in education.
 
 The resource is open for adaptation and reuse under a Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0) licence
 

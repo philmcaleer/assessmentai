@@ -34,6 +34,7 @@ book:
   repo-actions: [issue, source]
   chapters:
     - index.qmd
+  #  - howto.qmd
     
     - part: "Skill Directory"
       chapters: 
@@ -59,15 +60,22 @@ book:
       - Reflection.qmd
       - Report with data analyses.qmd
       
-    - part: "Case Study"
+    - part: "Toolkit"
+      chapters:
+   #   - declarations.qmd
+      - statements.qmd
+      
+    - part: "Skills Progression"
       chapters: 
         - Case Study A.qmd
 
     - part: "End Matter"
       chapters: 
       - references.qmd
+      
   sidebar:
-      title: AI Assessment Map
+      title: AI Skills Map
+      collapse-level: 1
   page-footer:
       left: "CC-BY-SA-4.0 (2025) Denise Hough, Barbara Mable, Phil McAleer & Helena Paterson"
 
@@ -75,7 +83,9 @@ bibliography: references.bib
 
 format:
   html:
-    theme: journal
+    theme: 
+      light: journal
+      dark: darkly
     number-sections: false
     css: style.css
 
