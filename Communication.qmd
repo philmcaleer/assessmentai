@@ -1,19 +1,5 @@
 #  Communication 
  
-## Preparing and Practising Oral Presentations
-
-**Gold standard for Professional Practice:** Developing the structure and content of an oral presentation, drafting speaker notes, preparing answers for anticipated questions, and rehearsing delivery. This includes creating an engaging narrative, practising timing, and building confidence in speaking skills. The focus is on oral communication rather than the design of accompanying material such as slides or a poster.
-
-**How GenAI can be helpful (good practice):** Make use of the unique features offered by GenAI to act as a rehearsal coach and strengthen your oral presentation. Use interactive or voice-to-text features to simulate verbal communication, run Q&A drills for different audiences, generate clear explanations or analogies, test your message in shorter or longer formats, and check clarity or pacing from a draft transcript. These tools can support your preparation, but the delivery and final presentation must be practised and performed by you. 
-
-**How GenAI can pose risks (poor practice):** Avoid relying on GenAI instead of taking real practice opportunities provided through teaching and peer support. This limits your ability to rehearse responses to genuine audience questions and weakens the communication skills needed for academic and professional growth. Using GenAI to draft or memorise large parts of a script prevents you from developing subject expertise, learning how to communicate your discipline effectively, reframing knowledge for different audiences, and building confidence in explaining ideas in your own words.
-
-**Assessment Type:** Presentation,
-
-**Example Assessments:** Recorded practice presentation with feedback, Pitch-style presentation, Peer-assessed presentation rehearsal
-
----
- 
 ## Multimedia Production
 
 **Gold standard for Professional Practice:** Creating dynamic media assets such as videos, animations, podcasts, or screencasts to communicate scientific concepts, demonstrate practical procedures, or engage audiences. The gold standard is for students to make content decisions themselves and ensure outputs are accurate, original, and compliant with copyright, data protection, and third-party software regulations. Production and editing may involve various tools, provided students remain responsible for accuracy, originality, and regulatory compliance.
@@ -25,6 +11,20 @@
 **Assessment Type:** Presentation, Proposal, Dissertation,
 
 **Example Assessments:** Educational video on a scientific concept, Interactive visual explainer, Audio/podcast summary of topic
+
+---
+ 
+## Preparing and Practising Oral Presentations
+
+**Gold standard for Professional Practice:** Developing the structure and content of an oral presentation, drafting speaker notes, preparing answers for anticipated questions, and rehearsing delivery. This includes creating an engaging narrative, practising timing, and building confidence in speaking skills. The focus is on oral communication rather than the design of accompanying material such as slides or a poster.
+
+**How GenAI can be helpful (good practice):** Make use of the unique features offered by GenAI to act as a rehearsal coach and strengthen your oral presentation. Use interactive or voice-to-text features to simulate verbal communication, run Q&A drills for different audiences, generate clear explanations or analogies, test your message in shorter or longer formats, and check clarity or pacing from a draft transcript. These tools can support your preparation, but the delivery and final presentation must be practised and performed by you. 
+
+**How GenAI can pose risks (poor practice):** Avoid relying on GenAI instead of taking real practice opportunities provided through teaching and peer support. This limits your ability to rehearse responses to genuine audience questions and weakens the communication skills needed for academic and professional growth. Using GenAI to draft or memorise large parts of a script prevents you from developing subject expertise, learning how to communicate your discipline effectively, reframing knowledge for different audiences, and building confidence in explaining ideas in your own words.
+
+**Assessment Type:** Presentation,
+
+**Example Assessments:** Recorded practice presentation with feedback, Pitch-style presentation, Peer-assessed presentation rehearsal
 
 ---
  

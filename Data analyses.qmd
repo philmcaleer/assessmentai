@@ -1,5 +1,19 @@
 #  Data analyses 
  
+## Coding and Software Trouble-shooting
+
+**Gold standard for Professional Practice:** When using tools like R, Python, SPSS, or Excel, students are expected to develop coding and software skills to analyse data and run workflows. The gold standard is to write, adapt, and test code independently, ensure accuracy, and understand how outputs fit into broader analysis. Support is available through coding tutorials, software documentation, and staff or peer feedback.
+
+**How GenAI can be helpful (good practice):** Use GenAI as a computer language assistant without letting it replace your understanding. You can ask GenAI to troubleshoot coding errors, clarify syntax, or explain unfamiliar functions step by step. You may also use it to walk through logic flows, provide worked examples, or suggest debugging strategies — but you remain in charge of writing, adapting, testing and annotating your code for reproducibility. Good practice means using GenAI as a tutor to support problem-solving and deepen your coding knowledge and citing the tools that you use in your scripts. 
+
+**How GenAI can pose risks (poor practice):** Relying on GenAI to generate whole scripts or run analyses on your behalf undermines your learning. Poor practice includes copying code without checking, skipping debugging, or failing to test and validate outputs. This prevents you from developing confidence in coding skills and can introduce errors into your analysis. If you do not acknowledge the sources, that is also a form of plagiarism.
+
+**Assessment Type:** Report with data analyses, Dissertation,
+
+**Example Assessments:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
+
+---
+ 
 ## Data Visualisation
 
 **Gold standard for Professional Practice:** Creating tables, graphs, and other visual representations of quantitative or qualitative data using software such as Excel, R, Python, or Prism. The gold standard is for students to select the correct type of visual, apply appropriate statistical reasoning, and interpret outputs accurately in context. Support is available through statistics workshops, software tutorials, and guidance from staff or peers.
@@ -25,19 +39,5 @@
 **Assessment Type:** Report with data analyses, Practical skills, Dissertation,
 
 **Example Assessments:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
-
----
- 
-## Coding and Software Trouble-shooting
-
-**Gold standard for Professional Practice:** When using tools like R, Python, SPSS, or Excel, students are expected to develop coding and software skills to analyse data and run workflows. The gold standard is to write, adapt, and test code independently, ensure accuracy, and understand how outputs fit into broader analysis. Support is available through coding tutorials, software documentation, and staff or peer feedback.
-
-**How GenAI can be helpful (good practice):** Use GenAI as a computer language assistant without letting it replace your understanding. You can ask GenAI to troubleshoot coding errors, clarify syntax, or explain unfamiliar functions step by step. You may also use it to walk through logic flows, provide worked examples, or suggest debugging strategies — but you remain in charge of writing, adapting, testing and annotating your code for reproducibility. Good practice means using GenAI as a tutor to support problem-solving and deepen your coding knowledge and citing the tools that you use in your scripts. 
-
-**How GenAI can pose risks (poor practice):** Relying on GenAI to generate whole scripts or run analyses on your behalf undermines your learning. Poor practice includes copying code without checking, skipping debugging, or failing to test and validate outputs. This prevents you from developing confidence in coding skills and can introduce errors into your analysis. If you do not acknowledge the sources, that is also a form of plagiarism.
-
-**Assessment Type:** Report with data analyses, Dissertation,
-
-**Example Assessments:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
 
 ---

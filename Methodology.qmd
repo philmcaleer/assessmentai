@@ -1,19 +1,5 @@
 #  Methodology 
  
-## Designing Experiments and Methodologies
-
-**Gold standard for Professional Practice:** Planning experimental or analytical procedures, including formulating hypotheses, choosing methods, selecting controls, determining sample sizes, and considering ethics. The gold standard is to design robust and ethical studies, guided by protocols, best practice guidelines, and supervisor input.
-
-**How GenAI can be helpful (good practice):** Use GenAI to rehearse methodological options, clarify unfamiliar steps, or suggest potential considerations (e.g., controls, sample size factors). Good practice means using GenAI as a prompt to check completeness, then confirming accuracy against disciplinary standards and ethical guidelines. 
-
-**How GenAI can pose risks (poor practice):** Outsourcing your design to GenAI without critical evaluation risks invalid, unethical, or unworkable methods. Poor practice undermines your ability to justify decisions and prevents you from developing expertise as a subject specialist.
-
-**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
-
-**Example Assessments:** Experimental design justification form, Protocol writing task, Error analysis and risk mitigation plan
-
----
- 
 ## Collaborative Project Management
 
 **Gold standard for Professional Practice:** Coordinating tasks within a group project, scheduling meetings, delegating responsibilities, and synthesising contributions. The gold standard is to communicate effectively and make joint decisions that reflect shared responsibility. Support is available through group discussions, project management tools, teamwork workshops, and supervisor mediation.
@@ -42,17 +28,17 @@
 
 ---
  
-## Technology-assisted data collection and transformation
+## Designing Experiments and Methodologies
 
-**Gold standard for Professional Practice:** Using digital tools to automate or speed up data collection from an existing source (e.g. images, texts, signals, databases) or to convert and clean data into a usable format. The gold standard is to design clear extraction protocols, validate outputs at predefined checkpoints, and follow copyright, data-protection, and third-party software regulations. Teaching resources, methods guides, and peer support can help you apply appropriate quality assurance.
+**Gold standard for Professional Practice:** Planning experimental or analytical procedures, including formulating hypotheses, choosing methods, selecting controls, determining sample sizes, and considering ethics. The gold standard is to design robust and ethical studies, guided by protocols, best practice guidelines, and supervisor input.
 
-**How GenAI can be helpful (good practice):** Use GenAI to design and rehearse data extraction workflows, generate example scripts, or clarify transformation steps before applying them to real data. Practise validating GenAI outputs against your protocols and document checkpoints for quality assurance. GenAI can also help compare approaches or highlight potential limitations, but you must remain in control of the process. Always follow copyright rules and protect sensitive or personal data when using GenAI tools. 
+**How GenAI can be helpful (good practice):** Use GenAI to rehearse methodological options, clarify unfamiliar steps, or suggest potential considerations (e.g., controls, sample size factors). Good practice means using GenAI as a prompt to check completeness, then confirming accuracy against disciplinary standards and ethical guidelines. 
 
-**How GenAI can pose risks (poor practice):** Avoid over-relying on GenAI to extract or transform data without validation leading to inaccurate or fabricated outputs. Using GenAI to drive your process encourages questionable research practices such as HARKing, p-hacking, or unprincipled data dredging (cherry-picking). Uploading copyrighted, confidential, or personal material into GenAI tools without permission breaches regulations and ethics. Avoid skipping validity checks or presenting GenAI outputs as final results without independent review.
+**How GenAI can pose risks (poor practice):** Outsourcing your design to GenAI without critical evaluation risks invalid, unethical, or unworkable methods. Poor practice undermines your ability to justify decisions and prevents you from developing expertise as a subject specialist.
 
 **Assessment Type:** Report with data analyses, Practical skills, Dissertation,
 
-**Example Assessments:** Use of sensors/software with data log submission, Workflow documentation log, Data pipeline transformation task
+**Example Assessments:** Experimental design justification form, Protocol writing task, Error analysis and risk mitigation plan
 
 ---
  
@@ -67,5 +53,19 @@
 **Assessment Type:** Proposal, Dissertation, Group work,
 
 **Example Assessments:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
+
+---
+ 
+## Technology-assisted data collection and transformation
+
+**Gold standard for Professional Practice:** Using digital tools to automate or speed up data collection from an existing source (e.g. images, texts, signals, databases) or to convert and clean data into a usable format. The gold standard is to design clear extraction protocols, validate outputs at predefined checkpoints, and follow copyright, data-protection, and third-party software regulations. Teaching resources, methods guides, and peer support can help you apply appropriate quality assurance.
+
+**How GenAI can be helpful (good practice):** Use GenAI to design and rehearse data extraction workflows, generate example scripts, or clarify transformation steps before applying them to real data. Practise validating GenAI outputs against your protocols and document checkpoints for quality assurance. GenAI can also help compare approaches or highlight potential limitations, but you must remain in control of the process. Always follow copyright rules and protect sensitive or personal data when using GenAI tools. 
+
+**How GenAI can pose risks (poor practice):** Avoid over-relying on GenAI to extract or transform data without validation leading to inaccurate or fabricated outputs. Using GenAI to drive your process encourages questionable research practices such as HARKing, p-hacking, or unprincipled data dredging (cherry-picking). Uploading copyrighted, confidential, or personal material into GenAI tools without permission breaches regulations and ethics. Avoid skipping validity checks or presenting GenAI outputs as final results without independent review.
+
+**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+
+**Example Assessments:** Use of sensors/software with data log submission, Workflow documentation log, Data pipeline transformation task
 
 ---

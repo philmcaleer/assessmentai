@@ -56,7 +56,7 @@ unique_letters <-unique(dat$first_letter)
 # this will produce n entries per letter
 # for subset, paste all the entries together and save it in it's respective letter
 for (i in 1:length(unique_letters)){
-  subset_dat <- filter(dat, first_letter == unique_letters[i])
+  subset_dat <- filter(dat, first_letter == unique_letters[i]) %>% arrange(Activity)
   
   entries_by_letter$entries[i] <- paste(subset_dat$entry, # paste together all entries in the col
                                         collapse = " ", # empty collapse to create one cell
