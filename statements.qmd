@@ -44,3 +44,8 @@ The [Life Sciences Student Guidance on Responsible use of GenAI](https://moodle.
 * Finalisation and Submission Preparation
 
 ---
+
+## Additional Resources & Feedback
+
+*	More examples from the School of Psychology & Neuroscience: [Resource for Statements on Use of AI](https://sway.cloud.microsoft/piQPc7cU5j5oFyuz?ref=Link){target="_blank"}
+*	Email any feedback on these SUAIs, GenAI skills map or UofG-related AI guidance to: [mvls-gained-network@glasgow.ac.uk](mailto:mvls-gained-network@glasgow.ac.uk?subject=AI%20Skills%20Map%20Feedback) 
