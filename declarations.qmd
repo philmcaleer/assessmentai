@@ -2,11 +2,13 @@
 
 One of the use cases for the skills map is to help students to identify how to articulate how they have used GenAI in coursework. Acknowledgements can be developed along discipline guidelines, or along institutional guidelines. Below we have examples of both.
 
-Most journals expect the use of GenAI to be acknowledged and there is a difference between citing GenAI as a source and acknowledging it as a tool. As the output of GenAI is not stable or repeatable, it cannot be used as a source since a reader will not be able to access the source themselves. So a citation in the normal sense does not work. Some people have suggested that it can be cited like a [personal communication](https://apastyle.apa.org/style-grammar-guidelines/citations/personal-communications) where it would be cited in text, but not included in the references section. It is better to avoid this kind of citation and instead use a narrative description of the way that the tool was used.
+Most journals expect the use of GenAI to be acknowledged and there is a difference between citing GenAI as a source and acknowledging it as a tool. As the output of GenAI is not stable or repeatable, it cannot be used as a source since a reader will not be able to access it themselves. So a citation in the normal sense does not work. Some people have suggested that an interaction with an LLM can be cited like a [personal communication](https://apastyle.apa.org/style-grammar-guidelines/citations/personal-communications) where it would be cited in text, but not included in the references section. However, this does not accurately represent that an LLM is not a person. It is better to avoid citation as a personal communication and instead use a narrative description of the way that the tool was used.
 
-Acknowledgement as a tool is done in two ways. The first is within the text, such as a methods section of a report, where an author describes how they used the tool for specific tasks. The second is a more general acknowledgement in a dedicated section. The [Consortia Advancing Standards in Research Administration Information](https://casrai.org/guides/ai-disclosure-statement-examples) provides a summary of different journal expectations and example forms of wording. In their [additional guidance](https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai) the American Psychological Association (APA) provides a guide to disclosing AI situated within a range of established descriptive narrative styles for referencing tools.
+Acknowledgement as a tool is done in two ways. The first is within the text, such as a methods section of a report, where an author describes how they used the tool for specific tasks. In their [additional guidance](https://www.apa.org/pubs/journals/resources/publishing-tips/policy-generative-ai) the American Psychological Association (APA) provides a guide to disclosing AI situated within a range of established descriptive narrative styles for referencing tools.
 
-When using acknowledgement sections, best practice for assessed work is to include them as an appendix or as an author note at the end of the text (before references).
+The second is a more general acknowledgement in a dedicated section. The [Consortia Advancing Standards in Research Administration Information](https://casrai.org/guides/ai-disclosure-statement-examples) provides a summary of different journal expectations and example forms of wording. This is for when it is not easy to point to specific content that was developed through the use of GenAI. Both kinds of acknowledgement can be use in the same work.
+
+When using a general acknowledgement section, best practice for assessed work is to include them as an appendix or as an author note at the end of the text (before references).
 
 ------------------------------------------------------------------------
 
@@ -36,7 +38,7 @@ You MUST declare all use of AI and take responsibility for the content of the as
 - [ ] Outlining or structuring sections of the work
 - [ ] Language editing for spelling, grammar, clarity or tone
 - [ ] Translation of my own text in another language into English
-- [ ] Rephrasing my own text at sentence level\
+- [ ] Rephrasing my own text at sentence level
 - [ ] Summarising or explaining primary sources like journal articles
 - [ ] Suggesting search terms or potential sources for me to review
 - [ ] Referencing support, for example checking or producing citations, DOIs or formatting
@@ -52,7 +54,7 @@ You MUST declare all use of AI and take responsibility for the content of the as
 
 ## Discipline-specific example
 
-The first example is student-facing advice based on the APA guidelines above.
+The next example is student-facing advice based on the APA guidelines above.
 
 When you engage in putting together ideas in order to answer a question in an assessment, you are practising synthesis. This can be done through thinking and manipulating the knowledge that you have already accumulated. Alternatively it can be done by using resources from elsewhere or through brainstorming with the use of an LLM.
 
