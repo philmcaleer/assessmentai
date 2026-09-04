@@ -4,15 +4,17 @@ engine: knitr
 
 #  Case Study A
 
-Example of  progression in skills related to teaching experimental research methods and the role that GenAI might play.  This example is based on progression of skills from laboratory-based experimental practicals  in Levels 1 and 2, a group mini-project in Level 3 and independent research project in the honours year.  
+Example of progression in skills related to teaching experimental research methods and the role that GenAI might play. This example is based on progression of skills from laboratory-based experimental practicals in Levels 1 and 2, a group mini-project in Level 3 and independent research project in the honours year.
 
-* In year 1, tasks might be broken down across the year, rather than expecting a single written lab report.  
-* In year 2, a complete lab report is expected, that includes most elements but some elements may be based on separate experiments.  
-* In year 3, a group miniproject is used to reinforce learning by having students design their own simple experiment (over the time-frame of 2 weeks), analyse the data and write up a repor t in the format of a journal article. 
-* In year 4, skills are further refined in an independent research project expected to involve a more multi-faceted experiment.  
-* At master's level, skills are further reinforced but students are expected to take more ownership of choosing a supervisor and topic than at undergraduate level.  
+* In year 1, tasks might be broken down across the year, rather than expecting a single written lab report.
+* In year 2, a complete lab report is expected, that includes most elements but some may be based on separate experiments.
+* In year 3, a group mini-project is used to reinforce learning by having students design their own simple experiment (over the time-frame of 2 weeks), analyse the data and write up a report in the format of a journal article.
+* In year 4, skills are further refined in an independent research project expected to involve a more multi-faceted experiment.
 
-The use of GenAI would be expected to increase over the years, as students gain the knowledge and experience to interpret and critically assess suggestions generated.  Throughout, students should be provided with clear guidance on how to appropriately acknowledge use of GenAI, including declarations that the work is their own, even if GenAI was consulted.
+At master’s level, skills are further reinforced but students are expected to take more ownership of choosing a supervisor and topic than at undergraduate level.
+Proficiency and confidence in the appropriate use of GenAI would be expected to increase over the years, as students gain the knowledge and experience to interpret and critically assess suggestions generated.  Throughout, students should be provided with clear guidance on how to appropriately acknowledge use of GenAI, including declarations that the work is their own, even if GenAI was consulted.
+
+
 
 ```{r, echo=FALSE, warning=FALSE, message=FALSE}
 library(flextable)
