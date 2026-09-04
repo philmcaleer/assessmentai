@@ -34,7 +34,12 @@ book:
   repo-actions: [issue, source]
   chapters:
     - index.qmd
-  #  - howto.qmd
+    
+   # - part: "How to use this Toolkit"
+    #  chapters:
+    - howto.qmd
+    - declarations.qmd
+    - statements.qmd
     
     - part: "Skill Directory"
       chapters: 
@@ -60,10 +65,6 @@ book:
       - Reflection.qmd
       - Report with data analyses.qmd
       
-    - part: "Toolkit"
-      chapters:
-   #   - declarations.qmd
-      - statements.qmd
       
     - part: "Skills Progression"
       chapters: 

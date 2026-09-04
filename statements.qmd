@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-The resources in this section five examples how to engage students in using the skills map. The aim here is to develop a Statement on Use of AI that can be incorporated in an assessment brief. This is important because many students surveys still show that there is a gap between how important students think it is to learn skills associated with GenAI and feeling that they are being adequately prepared and supported to develop those skills (see for example [@hepi2026]).
+The resources in this section five examples how to engage students in using the skills map. The aim here is to develop a Statement on Use of AI that can be incorporated in an assessment brief. This is important because many students surveys still show that there is a gap between how important students think it is to learn skills associated with GenAI and feeling that they are being adequately prepared and supported to develop those skills, see for example (HEPI, 2026)[https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/].
 
 One step in closing this gap could be assessment-linked guidance on effective use AI for the different skills that are required for the assessment. We show examples of statements on the use of GenAI that were developed in the GAINEd community of practice.
 
