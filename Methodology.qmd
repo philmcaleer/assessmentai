@@ -8,23 +8,23 @@
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to manage projects or make decisions removes accountability and prevents development of essential teamwork skills. Poor practice includes outsourcing group contributions or disengaging from collaborative processes.
 
-**Assessment Type:** Proposal, Dissertation, Group work,
+**Common Assessments:** Proposal, Research project, Group work,
 
-**Example Assessments:** Group project, Peer evaluations of contribution, Group charter and timeline submission, Progress reports with task allocation logs
+**Skills-specific Asessment:** Group project, Peer evaluations of contribution, Group charter and timeline submission, Progress reports with task allocation logs
 
 ---
  
 ## Data Collection and Laboratory Techniques
 
-**Gold standard for Professional Practice:** Carrying out experiments or fieldwork yourself to gather raw data. This includes following protocols, operating equipment, recording observations, and ensuring safety and ethical compliance. Because this develops practical and professional skills, the gold standard is to conduct all hands-on work yourself, keeping clear and accurate records, and reporting outcomes ethically. Support is available through lab manuals, safety training, and supervision.
+**Gold standard for Professional Practice:** Carrying out experiments or fieldwork yourself to gather raw data. This includes designing experiments, following protocols, operating equipment, recording observations, and ensuring safety and ethical compliance. Because this develops practical and professional skills, the gold standard is to conduct all hands-on work yourself, keeping clear and accurate records, and reporting outcomes ethically. Support is available through lab manuals, safety training, and supervision.
 
 **How GenAI can be helpful (good practice):** Use GenAI to simulate what your dataset might look like for your planned method, or to rehearse methodology, helping you prepare for hands-on work and refine approaches. Practise troubleshooting by asking GenAI to explain protocols or predict common issues, but always consult trusted resources, be critical of AI outputs, and test or apply solutions yourself. Some unique GenAI features may be useful as assistive technology to record or reformat inputs, but check accuracy carefully and remain aware of data protection and sharing rules. Keep clear records of your activities and maintain hardcopy backups where appropriate. 
 
 **How GenAI can pose risks (poor practice):** GenAI should not be used to fabricate data or lab results. Submitting simulated data as real, or using GenAI outputs without verification and acknowledgement, constitutes misconduct. Avoid replacing hands-on practice with GenAI simulations, as this hinders development of essential lab and fieldwork skills.
 
-**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+**Common Assessments:** Data analyses report, Practical skills, Research project,
 
-**Example Assessments:** Practical skills checklist (OSCE-style), Lab notebook audit, Method reproducibility test, Fieldwork journal
+**Skills-specific Asessment:** Practical skills checklist (OSCE-style), Lab notebook audit, Method reproducibility test, Fieldwork journal
 
 ---
  
@@ -32,13 +32,13 @@
 
 **Gold standard for Professional Practice:** Planning experimental or analytical procedures, including formulating hypotheses, choosing methods, selecting controls, determining sample sizes, and considering ethics. The gold standard is to design robust and ethical studies, guided by protocols, best practice guidelines, and supervisor input.
 
-**How GenAI can be helpful (good practice):** Use GenAI to rehearse methodological options, clarify unfamiliar steps, or suggest potential considerations (e.g., controls, sample size factors). Good practice means using GenAI as a prompt to check completeness, then confirming accuracy against disciplinary standards and ethical guidelines. 
+**How GenAI can be helpful (good practice):** Use GenAI to rehearse methodological options, clarify unfamiliar steps, or suggest potential considerations (e.g., controls, sample size,  explanatory variables). Good practice means using GenAI as a prompt to check completeness, then confirming accuracy against disciplinary standards and ethical guidelines. 
 
-**How GenAI can pose risks (poor practice):** Outsourcing your design to GenAI without critical evaluation risks invalid, unethical, or unworkable methods. Poor practice undermines your ability to justify decisions and prevents you from developing expertise as a subject specialist.
+**How GenAI can pose risks (poor practice):** Avoid outsourcing your design to GenAI without critical evaluation risks invalid, unethical, or unworkable methods. Poor practice undermines your ability to justify decisions and prevents you from developing expertise as a subject specialist.
 
-**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+**Common Assessments:** Data analyses report, Practical skills, Research project,
 
-**Example Assessments:** Experimental design justification form, Protocol writing task, Error analysis and risk mitigation plan
+**Skills-specific Asessment:** Experimental design justification form, Protocol writing task, Error analysis and risk mitigation plan
 
 ---
  
@@ -50,9 +50,9 @@
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to interpret or apply ethical rules without verifying against official documentation risks misconduct. Ignoring regulations, failing to complete required processes (e.g. risk assessments, consent forms), or treating GenAI’s outputs as authoritative undermines your accountability. Poor practice also includes neglecting to act when you witness unacceptable behaviour, copying policy text without understanding it, or failing to engage critically with institutional and legal expectations.  GenAI also has inherent cultural and other stereotypical biases due to mis- or under-representation in training databases.
 
-**Assessment Type:** Proposal, Dissertation, Group work,
+**Common Assessments:** Proposal, Research project, Group work, Essay or similar, Data analyses report, Practical Skills, Reflection
 
-**Example Assessments:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
+**Skills-specific Asessment:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
 
 ---
  
@@ -64,8 +64,8 @@
 
 **How GenAI can pose risks (poor practice):** Avoid over-relying on GenAI to extract or transform data without validation leading to inaccurate or fabricated outputs. Using GenAI to drive your process encourages questionable research practices such as HARKing, p-hacking, or unprincipled data dredging (cherry-picking). Uploading copyrighted, confidential, or personal material into GenAI tools without permission breaches regulations and ethics. Avoid skipping validity checks or presenting GenAI outputs as final results without independent review.
 
-**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+**Common Assessments:** Data analyses report, Practical skills, Research project, Problem centred
 
-**Example Assessments:** Use of sensors/software with data log submission, Workflow documentation log, Data pipeline transformation task
+**Skills-specific Asessment:** Use of sensors/software with data log submission, Workflow documentation log, Data pipeline transformation task
 
 ---

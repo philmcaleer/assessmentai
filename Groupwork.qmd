@@ -1,0 +1,29 @@
+#  Groupwork 
+ 
+## Feedback Literacy
+
+**Gold standard for Professional Practice:** Actively engage with feedback from peers, educators, colleagues, clients, or stakeholders to improve future work and performance. Effective practitioners seek to understand feedback, evaluate its relevance, identify patterns across multiple sources, and use it to make targeted improvements.  The gold standard is to critically reflect on feedback, discuss points of uncertainty, and demonstrate how feedback has informed subsequent decisions and actions.  For students, demonstrate reflective understanding of how feedback has contributed to learning or skills development.
+
+**How GenAI can be helpful (good practice):** GenAI can support feedback literacy by helping you interpret feedback that is unclear, summarise common themes across multiple comments, or suggest practical actions for improvement. It can be useful for exploring possible meanings of feedback, generating reflective questions, or helping you develop an action plan in response to feedback received. GenAI may also help you compare different drafts of your work to identify whether revisions have addressed feedback points. Good practice means treating GenAI as a tool to support reflection and understanding, while taking responsibility for evaluating the feedback yourself and deciding which actions are appropriate. 
+
+**How GenAI can pose risks (poor practice):** Avoid relying on GenAI to decide whether feedback is correct, important, or should be acted upon without your own critical judgement. GenAI may misinterpret discipline-specific comments, overlook context known to the marker or reviewer, or provide generic advice that does not align with assessment criteria. Using GenAI to automatically revise work in response to feedback can limit opportunities to develop self-reflection and the ability to independently identify areas for improvement. Over-reliance on GenAI risks reducing engagement with feedback and may hinder the development of resilience, critical reflection, and lifelong learning skills that are essential in professional practice.
+
+**Skill-specific Assessment:** Feedback response statement, Reflective feedback portfolio, Feedback synthesis exercise, Feedback dialogue assessment, Feed-forward action plan
+
+**Main Skills Category:** Personal development
+
+---
+ 
+## Peer Review
+
+**Gold standard for Professional Practice:** Critically reviewing research papers or peers’ work, summarising findings, evaluating strengths and weaknesses, and discussing implications. The gold standard is to read and interpret the original texts, verify accuracy, and engage in constructive critique. Support is available through journal clubs, peer discussions, and feedback from staff.
+
+**How GenAI can be helpful (good practice):** Use GenAI to generate practice summaries, propose counterarguments, or highlight points you may have missed, then check these against the original source. Good practice means using GenAI as a rehearsal tool for critical discussion while ensuring your critique reflects your own reading and judgement. 
+
+**How GenAI can pose risks (poor practice):** Submitting GenAI summaries as your own or failing to engage with the original work risks misrepresentation, plagiarism, and failure to develop critical thinking. Uploading peers’ unpublished work into GenAI tools also breaches copyright and confidentiality.
+
+**Skill-specific Assessment:** Written peer review of a preprint article, Journal club presentation with critique, Structured review using journal guidelines
+
+**Main Skills Category:** Reasoning
+
+---

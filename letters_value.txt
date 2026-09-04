@@ -1,11 +1,13 @@
-     - Dissertation.qmd
+     - Data analyses report.qmd
+     - Data analysis report.qmd
      - Essay or similar.qmd
+     - Exam.qmd
      - Group work.qmd
-     - Invigilated exam or test.qmd
-     - PBL and Problem-solving.qmd
-     - Peer review.qmd
+     - Groupwork.qmd
      - Practical skills.qmd
+     - Practical Skills.qmd
      - Presentation.qmd
+     - Problem centred.qmd
      - Proposal.qmd
      - Reflection.qmd
-     - Report with data analyses.qmd
+     - Research project.qmd

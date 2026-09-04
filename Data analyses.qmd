@@ -4,13 +4,27 @@
 
 **Gold standard for Professional Practice:** When using tools like R, Python, SPSS, or Excel, students are expected to develop coding and software skills to analyse data and run workflows. The gold standard is to write, adapt, and test code independently, ensure accuracy, and understand how outputs fit into broader analysis. Support is available through coding tutorials, software documentation, and staff or peer feedback.
 
-**How GenAI can be helpful (good practice):** Use GenAI as a computer language assistant without letting it replace your understanding. You can ask GenAI to troubleshoot coding errors, clarify syntax, or explain unfamiliar functions step by step. You may also use it to walk through logic flows, provide worked examples, or suggest debugging strategies — but you remain in charge of writing, adapting, testing and annotating your code for reproducibility. Good practice means using GenAI as a tutor to support problem-solving and deepen your coding knowledge and citing the tools that you use in your scripts. 
+**How GenAI can be helpful (good practice):** Use GenAI as a computer language assistant without letting it replace your understanding. You can ask GenAI to troubleshoot coding errors, clarify syntax, or explain unfamiliar functions step by step. You may also use it to walk through logic flows, provide worked examples, or suggest debugging strategies — but you remain in charge of writing, adapting, testing and annotating your code for reproducibility. Good practice means using GenAI as a tutor to support problem-solving and deepen your coding knowledge and citing the tools that you use in your scripts. Although you can use GenAI to assess whether you have provided sufficiently clear annotations to ensure repeatability, annotations should be in your own voice. 
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to generate whole scripts or run analyses on your behalf undermines your learning. Poor practice includes copying code without checking, skipping debugging, or failing to test and validate outputs. This prevents you from developing confidence in coding skills and can introduce errors into your analysis. If you do not acknowledge the sources, that is also a form of plagiarism.
 
-**Assessment Type:** Report with data analyses, Dissertation,
+**Common Assessments:** Data analyses report, Research project,
 
-**Example Assessments:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
+**Skills-specific Asessment:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
+
+---
+ 
+## Data Processing
+
+**Gold standard for Professional Practice:** Cleaning and reshaping raw data so it is ready for visualisation and analysis — including handling missing values, removing duplicates, reshaping datasets, and merging sources using tools such as Excel, R, Python, SPSS or Stata. The gold standard is for you to understand your data's provenance (where the data came from), make justified and documented decisions about how to treat it, and keep a clear, reproducible record of every transformation applied. Support is available through data skills training, software tutorials, and guidance from supervisors or research support staff.
+
+**How GenAI can be helpful (good practice):** Use GenAI to learn wrangling techniques and syntax — for example, asking for explanations of tidyverse functions in R, help writing,  debugging or cleaning scripts, or advice on how to structure a reproducible workflow. GenAI can also help you think through edge cases (e.g. how to handle outliers or missing data) or draft documentation of your cleaning steps. Good practice means you make and justify the actual decisions about your data, run and verify the code yourself, and keep a clear audit trail of changes. Never upload unpublished, identifiable, or sensitive data into GenAI tools — use simulated or dummy data when asking for coding help instead. 
+
+**How GenAI can pose risks (poor practice):** Avoid asking GenAI to clean or transform your dataset directly (e.g. pasting data in and asking it to "fix" or "tidy" it) risks silent, unverified changes to your data and undermines your ability to justify your methods. Relying on GenAI-generated code without checking its logic against your specific dataset can introduce errors - such as incorrect merges, mishandled missing values, or unintended data loss - that are hard to detect later. By uploading raw datasets containing personal, confidential, or unpublished information it breaches data protection and confidentiality obligations. Treating GenAI's suggested wrangling decisions (e.g. how to impute missing values) as authoritative, rather than as one input to your own judgement, can compromise the validity and reproducibility of your analysis.
+
+**Common Assessments:** Data analyses report,  Practical skills, Presentation, Proposal, Research project, Problem centred
+
+**Skills-specific Asessment:** Data-to-visual transformation assignment, Raw data to analysis report,Critique of published visualisations, Visual storytelling task with dataset
 
 ---
  
@@ -22,22 +36,22 @@
 
 **How GenAI can pose risks (poor practice):** Using GenAI to generate visuals directly, instead of producing them yourself in purpose-built data visualisation software, prevents you from developing essential research skills. Failing to safeguard sensitive or unpublished data risks breaching confidentiality and data protection rules. Relying on GenAI to decide which visual to use, or failing to verify its outputs, may lead to misleading or inaccurate representations of your data.
 
-**Assessment Type:** Report with data analyses, Presentation, Proposal, Dissertation,
+**Common Assessments:** Data analyses report, Presentation, Proposal, Research project,
 
-**Example Assessments:** Data-to-visual transformation assignment, Critique of published visualisations, Visual storytelling task with dataset
+**Skills-specific Asessment:** Data-to-visual transformation assignment, Critique of published visualisations, Visual storytelling task with dataset
 
 ---
  
 ## Statistical Analysis
 
-**Gold standard for Professional Practice:** This involves selecting and applying appropriate statistical tests to analyse raw data (e.g. t-tests, generalised linear models, ANOVA, chi-square), checking assumptions (e.g normality, variance), and interpreting results in context using tools such as R, SPSS, or Python. The gold standard is for students to justify their choice of test, apply it correctly, and interpret outcomes appropriately in relation to the research question. Support is available through statistics workshops, study guides, and staff or peer feedback.
+**Gold standard for Professional Practice:** This involves selecting and applying appropriate statistical tests to analyse raw data (e.g. t-tests, generalised linear models, ANOVA, chi-square), checking assumptions (e.g. normality, variance), and interpreting results in context using tools such as R, SPSS, or Python. The gold standard is for students to justify their choice of test, apply it correctly, and interpret outcomes appropriately in relation to the research question. Support is available through statistics workshops, study guides, and staff or peer feedback.
 
 **How GenAI can be helpful (good practice):** You should never provide your data to a GenAI tool to perform statistical analyses. Use GenAI to clarify statistical concepts, explore test assumptions, or work through example problems step by step. You can also ask GenAI to explain what different test outputs mean or to review your reasoning process. Good practice means applying this knowledge yourself to select, run, and interpret tests in specialist software, ensuring outputs are accurate, transparent, and relevant to your research question. 
 
 **How GenAI can pose risks (poor practice):** Using GenAI to choose tests or run analyses on your behalf without understanding why they are used creates risks of misinterpretation and potential misconduct. Poor practice includes copying GenAI outputs directly into your work, misreporting results, or failing to check assumptions. Relying on GenAI in place of developing your own statistical reasoning prevents you from building essential expertise for research and professional practice.
 
-**Assessment Type:** Report with data analyses, Practical skills, Dissertation,
+**Common Assessments:** Data analyses report, Practical skills, Research project, Problem centred
 
-**Example Assessments:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
+**Skills-specific Asessment:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
 
 ---

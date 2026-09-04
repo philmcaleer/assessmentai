@@ -4,27 +4,41 @@
 
 **Gold standard for Professional Practice:** Creating dynamic media assets such as videos, animations, podcasts, or screencasts to communicate scientific concepts, demonstrate practical procedures, or engage audiences. The gold standard is for students to make content decisions themselves and ensure outputs are accurate, original, and compliant with copyright, data protection, and third-party software regulations. Production and editing may involve various tools, provided students remain responsible for accuracy, originality, and regulatory compliance.
 
-**How GenAI can be helpful (good practice):** Keep ownership of the content, using GenAI only to refine or extend your ideas and support the production process. Set clear direction, give specific prompts, critically review outputs, and make final edits so that the final product reflects your own voice. GenAI can suggest visual cues, editing tips, or draft script outlines, and help check clarity and accessibility — but you must ensure all outputs comply with regulatory requirements. 
+**How GenAI can be helpful (good practice):** Keep ownership of the content, using GenAI only to refine or extend your ideas and support the production process. Set clear direction, give specific prompts, critically review outputs, and make final edits so that the final product reflects your own voice. GenAI can suggest visual cues, editing tips, or draft script outlines, and help check clarity and accessibility — but you must ensure all outputs comply with regulatory requirements (e.g. copyright). 
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to decide content or failing to critically review outputs undermines your responsibility for originality and compliance. Poor practice includes ignoring copyright or data protection rules, submitting unedited GenAI outputs as your own without acknowledgement, or failing to safeguard against fabricated or plagiarised content. Over-reliance outsources your decision-making and denies you the chance to practise communicating in your own style.
 
-**Assessment Type:** Presentation, Proposal, Dissertation,
+**Common Assessments:** Presentation, Proposal,
 
-**Example Assessments:** Educational video on a scientific concept, Interactive visual explainer, Audio/podcast summary of topic
+**Skills-specific Asessment:** Educational video on a scientific concept, Interactive visual explainer, Audio/podcast summary of topic
 
 ---
  
-## Preparing and Practising Oral Presentations
+## Poster Presentations
+
+**Gold standard for Professional Practice:** Preparing stand-alone posters to summarise a scientific study.  The gold standard is to create scientifically informative and aesthetically appealing posters that follow specific guidance for relative amount of text, visual aids and strategies for telling a scientific story.  Support is available through presentation workshops, scientific communication training, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** Keep ownership of the content and use GenAI to support the design process. An important part of scientific posters is using your own creativity to attract an audience through your visual presentation and pitching of the scientific content.  You can ask GenAI for step-by-step instructions for using tools, enabling you to build your digital skills. You can also use GenAI to suggest a logical flow, outline, or draft slides from material you provide, or to give feedback on clarity, accessibility, and audience engagement. Good practice means ensuring that slides accurately reflect the story that you intended to tell, using visual aids more than text whenever possible. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI to create presentation content on your behalf places you at risk of suspected misconduct by outsourcing ownership of your ideas. Failing to effectively instruct or critically check GenAI outputs may introduce errors or misleading visuals. Over-reliance on GenAI to design presentations limits your opportunity to demonstrate your own creativity and ability to clearly explain a logically flowing scientific story.
+
+**Common Assessments:** Presentation
+
+**Skills-specific Asessment:** Poster presentation
+
+---
+ 
+## Preparing for Oral Presentations
 
 **Gold standard for Professional Practice:** Developing the structure and content of an oral presentation, drafting speaker notes, preparing answers for anticipated questions, and rehearsing delivery. This includes creating an engaging narrative, practising timing, and building confidence in speaking skills. The focus is on oral communication rather than the design of accompanying material such as slides or a poster.
 
 **How GenAI can be helpful (good practice):** Make use of the unique features offered by GenAI to act as a rehearsal coach and strengthen your oral presentation. Use interactive or voice-to-text features to simulate verbal communication, run Q&A drills for different audiences, generate clear explanations or analogies, test your message in shorter or longer formats, and check clarity or pacing from a draft transcript. These tools can support your preparation, but the delivery and final presentation must be practised and performed by you. 
 
-**How GenAI can pose risks (poor practice):** Avoid relying on GenAI instead of taking real practice opportunities provided through teaching and peer support. This limits your ability to rehearse responses to genuine audience questions and weakens the communication skills needed for academic and professional growth. Using GenAI to draft or memorise large parts of a script prevents you from developing subject expertise, learning how to communicate your discipline effectively, reframing knowledge for different audiences, and building confidence in explaining ideas in your own words.
+**How GenAI can pose risks (poor practice):** Avoid relying on GenAI instead of taking real practice opportunities provided through teaching and peer support. This would limit your ability to rehearse responses to genuine audience questions and weakens the communication skills needed for academic and professional growth. Improving structure and delivery based on feedback from teachers or peers is an important part of the learning process.Using GenAI to draft or memorise large parts of a script prevents you from developing subject expertise, learning how to communicate your discipline effectively, reframing knowledge for different audiences, and building confidence in explaining ideas in your own words.
 
-**Assessment Type:** Presentation,
+**Common Assessments:** Presentation,
 
-**Example Assessments:** Recorded practice presentation with feedback, Pitch-style presentation, Peer-assessed presentation rehearsal
+**Skills-specific Asessment:** Recorded practice presentation with feedback, Pitch-style presentation, Peer-assessed presentation rehearsal
 
 ---
  
@@ -36,9 +50,23 @@
 
 **How GenAI can pose risks (poor practice):** Outsourcing design decisions to GenAI or accepting visuals without verification risks producing inaccurate or misleading graphics. Poor practice includes using unedited GenAI-generated diagrams, ignoring copyright or licence restrictions, or presenting content without checking its scientific validity. Over-reliance reduces your ability to practise presenting scientific concepts visually and weakens your confidence in producing original, accurate designs.
 
-**Assessment Type:** Essay or similar, Presentation, Proposal, Dissertation,
+**Common Assessments:** Essay or similar, Presentation, Proposal, Research project,
 
-**Example Assessments:** Graphical abstract creation, Figure redesign task (from poor example), Poster design with peer critique
+**Skills-specific Asessment:** Graphical abstract creation, Figure redesign task (from poor example), Poster design with peer critique
+
+---
+ 
+## Translation
+
+**Gold standard for Professional Practice:** Translating written work from another language into English.  Students who are not native English speakers will often need to translate their thoughts from their primary language to English. The gold standard is to write the text in English from the start but where this creates challenges that compromise demonstration of learning, translation might be necessary. Support is available through English as a second language support, and feedback from staff or peers.
+
+**How GenAI can be helpful (good practice):** GenAI offers sophisticated enhancement of translation software, and this is an expanding field that has significant future implications for communication across language barriers. Use GenAI-powered translation software to assit with translation of original work that you produce in another language to English (unless the testing of English Language is an ILO). Note that the nuance of an intended communication is likely to be lost or changed during any AI-assisted translation process so output should be carefully edited and refined. You can use it to help you to understand where you are making common mistakes in your use of English, to help to improve your writing in the future.  Good practice means using GenAI to help you to express your ideas more clearly but it should not be used to replace your own writing. 
+
+**How GenAI can pose risks (poor practice):** Using GenAI for translation without knowing enough English to intepret meanings risks mispresentation of your ideas, or altering credit given via in-text citations. Translation should not be used as a replacement of learning to clearly communicate in English.  Failing to critically check outputs also risks miscommunicating field-specific terminology or using inappropriate terminology for your discipline. Over-reliance on GenAI limits your opportunity for practicing and improving communication in English, as well as confidence in the use of scientific and technical English.
+
+**Common Assessments:** Essay or similar, Presentation, Proposal, Research project, Data analysis report
+
+**Skills-specific Asessment:** Translation decision log, Error detection exercise
 
 ---
  
@@ -50,8 +78,8 @@
 
 **How GenAI can pose risks (poor practice):** Using GenAI to create presentation content on your behalf places you at risk of suspected misconduct by outsourcing ownership of your ideas. Failing to effectively instruct or critically check GenAI outputs may introduce errors or misleading visuals. Over-reliance on GenAI to design presentations limits your opportunity to practise structuring visual aids for presntations and developing important digital skills for academic and professional growth.
 
-**Assessment Type:** Presentation, Proposal,
+**Common Assessments:** Presentation, Proposal,
 
-**Example Assessments:** Slide deck submission with narration plan, Visual storyboard for oral presentation, Peer-reviewed visual coherence exercise
+**Skills-specific Asessment:** Slide deck submission with narration plan, Visual storyboard for oral presentation, Peer-reviewed visual coherence exercise
 
 ---

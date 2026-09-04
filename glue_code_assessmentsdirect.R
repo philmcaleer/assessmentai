@@ -3,12 +3,12 @@ library(readxl)
 library(tidyverse)
 
 dat <- read_xlsx("genai_activity_guidance_table.xlsx", sheet = 1) %>%
-  separate(`Assessment type`, into = letters, sep = ",") %>%
+  separate("Common assessment", into = letters, sep = ",") %>%
   pivot_longer(cols = a:z, names_to = "assessment") %>%
   filter(!is.na(value)) %>%
   filter(value != "") %>%
   select(-assessment) %>%
-  arrange(value, Activity) %>%
+  arrange(value, Skill) %>%
   mutate(value = trimws(value, which = "both", whitespace = "[\\h\\v]"))
 
 dat <- dat %>% 
@@ -23,7 +23,7 @@ make_entry <- function(dat){
   # for each entry, use glue to add the term, short definition, and long definition 
   entry <- glue("
 
-## {dat$Activity}
+## {dat$Skill}
 
 **Gold standard for Professional Practice:** {dat$`Gold standard for professional practice`}
 
@@ -31,7 +31,7 @@ make_entry <- function(dat){
 
 **How GenAI can pose risks (poor practice):** {dat$`How GenAI can pose risks (poor practice)`}
 
-**Example Assessments:** {dat$`Example assessments`}
+**Skill-specific Assessment:** {dat$`Skills-specific assessment`}
 
 **Main Skills Category:** {dat$`Main Skills Category`}
 

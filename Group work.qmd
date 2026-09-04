@@ -8,7 +8,7 @@
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to manage projects or make decisions removes accountability and prevents development of essential teamwork skills. Poor practice includes outsourcing group contributions or disengaging from collaborative processes.
 
-**Example Assessments:** Group project, Peer evaluations of contribution, Group charter and timeline submission, Progress reports with task allocation logs
+**Skill-specific Assessment:** Group project, Peer evaluations of contribution, Group charter and timeline submission, Progress reports with task allocation logs
 
 **Main Skills Category:** Methodology
 
@@ -22,7 +22,7 @@
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to interpret or apply ethical rules without verifying against official documentation risks misconduct. Ignoring regulations, failing to complete required processes (e.g. risk assessments, consent forms), or treating GenAI’s outputs as authoritative undermines your accountability. Poor practice also includes neglecting to act when you witness unacceptable behaviour, copying policy text without understanding it, or failing to engage critically with institutional and legal expectations.  GenAI also has inherent cultural and other stereotypical biases due to mis- or under-representation in training databases.
 
-**Example Assessments:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
+**Skill-specific Assessment:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
 
 **Main Skills Category:** Methodology
 
@@ -30,13 +30,13 @@
  
 ## Finalisation and Submission Preparation
 
-**Gold standard for Professional Practice:** Preparing the final version of your work for submission through effective time management, checking formatting, file naming conventions, word counts, and technical requirements (e.g. file type, size, formatting). This may involve converting documents to PDF, ensuring that all sections and appendices are included, and uploading files to the submission platform.
+**Gold standard for Professional Practice:** Preparing the final version of your work for submission through effective time management, checking formatting, file naming conventions, word counts, completeness and accuracy of reference citations, and technical requirements (e.g. file type, size, formatting). This may involve converting documents to PDF, ensuring that all sections and appendices are included, and uploading files to the submission platform.
 
-**How GenAI can be helpful (good practice):** Engage directly with your material and apply study strategies relevant to your discipline, using GenAI only as a support tool while taking personal responsibility for the accuracy of the submission. GenAI can provide checklists and reminders to double-check formatting and technical requirements, but you must complete final checks yourself. It can also be used to help structure a step-by-step breakdown of your work process. 
+**How GenAI can be helpful (good practice):** Engage directly with your material and apply study strategies relevant to your discipline, using GenAI only as a support tool, while taking personal responsibility for the accuracy of the submission. GenAI can provide checklists and reminders to double-check formatting and technical requirements, but you must complete final checks yourself. GenAI can also be used to help structure a step-by-step breakdown of your work process. 
 
 **How GenAI can pose risks (poor practice):** Over-relying on GenAI at this stage places you at risk of shortcutting your reasoning process, failing to notice errors that affect your submission, and neglecting the development of project management skills, such as checking requirements yourself and aligning your work correctly with the submission criteria.
 
-**Example Assessments:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
+**Skill-specific Assessment:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
 
 **Main Skills Category:** Personal development
 

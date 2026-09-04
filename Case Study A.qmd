@@ -2,7 +2,7 @@
 engine: knitr
 ---
 
-#  Case Study A
+#  Case Study
 
 Example of progression in skills related to teaching experimental research methods and the role that GenAI might play. This example is based on progression of skills from laboratory-based experimental practicals in Levels 1 and 2, a group mini-project in Level 3 and independent research project in the honours year.
 
