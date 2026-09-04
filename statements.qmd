@@ -2,7 +2,7 @@
 
 ------------------------------------------------------------------------
 
-The resources in this section five examples how to engage students in using the skills map. The aim here is to develop a Statement on Use of AI that can be incorporated in an assessment brief. This is important because many students surveys still show that there is a gap between how important students think it is to learn skills associated with GenAI and feeling that they are being adequately prepared and supported to develop those skills, see for example [HEPI, 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/).
+The resources in this section give examples how to engage students in using the skills map. The aim here is to develop a Statement on Use of AI that can be incorporated in an assessment brief. This is important because many students surveys still show that there is a gap between how important students think it is to learn skills associated with GenAI and feeling that they are being adequately prepared and supported to develop those skills, see for example [HEPI, 2026](https://www.hepi.ac.uk/reports/student-generative-ai-survey-2026/).
 
 One step in closing this gap could be assessment-linked guidance on effective use AI for the different skills that are required for the assessment. We show examples of statements on the use of GenAI that were developed in the GAINEd community of practice.
 
@@ -69,7 +69,7 @@ The [Life Sciences Student Guidance on Responsible use of GenAI](https://moodle.
 
 ## Small scale project
 
-\*\* Use of AI in this assessment
+**Use of AI in this assessment**
 
 As a course team, we recognise that students may choose to explore the use of AI to assist in learning and research, and as your teachers, we have a responsibility to guide you in the ethical and effective use of AI tools in order to protect your ability to develop subject-specific skills and knowledge. For this reason, we expect that students will:
 
@@ -78,17 +78,71 @@ As a course team, we recognise that students may choose to explore the use of AI
 - Be aware of the risks of using AI (to the environment, the corpus of human knowledge and their own skills development) and so minimise its use
 - Take personal responsibility for all work they submit for assessment
 
-The current assessment is unsupervised coursework. The purpose of this assessment is to provide an opportunity to showcase and develop the practical skills of a quantitative researcher and in writing research reports. We encourage you to try all tasks yourself and not to use AI. If you want to use translation software (i.e. you write the assignment in another language first), be cautious, as the vocabulary and syntax produced by generative AI are not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstandings in communication.
+The current assessment is unsupervised coursework. The purpose of this assessment is to provide an opportunity to showcase and develop the practical skills of a quantitative researcher and in writing research reports. We encourage you to try all tasks yourself and not to use AI. If you want to use (translation software)\[https://philmcaleer.github.io/assessmentai/Communication.html#translation\] (i.e. you write the assignment in another language first), be cautious, as the vocabulary and syntax produced by generative AI are not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstandings in communication.
 
-You can use AI as a (learning assistant to help understand content)\[https://philmcaleer.github.io/assessmentai/Dissertation.html#brainstorming-and-broadening-understanding\], to give feedback on your work, and to help in finding (spelling and grammatical errors). Avoid using AI in the research phases of your project, to draft your assignment or structure your work, as these are specialist skills that you need to practice.
+You can use AI as a (learning assistant to help understand content)\[https://philmcaleer.github.io/assessmentai/Dissertation.html#brainstorming-and-broadening-understanding\], to (give feedback on your work)\[https://philmcaleer.github.io/assessmentai/Personal%20development.html#feedback-literacy\], and to help in finding (spelling and grammatical errors). Avoid using AI in the (research phases)\[https://philmcaleer.github.io/assessmentai/Methodology.html\] of your project, to (draft your assignment or structure your work)\[https://philmcaleer.github.io/assessmentai/Methodology.html\], as these are specialist skills that you need to practice.
 
-You MUST NOT use AI to analyse your data due to ethical and privacy issues for participant data. However, you can use it to help simulate a dataset to plan your analysis. Avoid using AI to write your analysis code as you risk not fully understanding the analysis or the data processing (wrangling) steps, which compromises transparency of reporting methods. We will provide further practical advice on Moodle.
+You MUST NOT use AI to (analyse your data)\[https://philmcaleer.github.io/assessmentai/Data%20analyses.html\] due to ethical and privacy issues for participant data. However, you can use it to help simulate a dataset to plan your analysis. Avoid using AI to (write your analysis code)\[https://philmcaleer.github.io/assessmentai/Data%20analyses.html#coding-and-software-trouble-shooting\] as you risk not fully understanding the analysis or the data processing (wrangling) steps, which compromises transparency of reporting methods. We will provide further practical advice on Moodle.
 
 There is no expectation that you will use generative AI, and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, you must acknowledge its use in-text via citations and referencing and in your declaration of AI use. If you choose to use it, we recommend that you use Copilot and sign in with your university account using multi-factor authentication to ensure that your work is private and secure. Please keep a log of your use of AI as we may ask to see this.
 
 Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the project. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
 
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+## Presentation 
+
+ **Statement on Use of AI** 
+ 
+This assessment has two components: the **unsupervised** preparation of the presentation (i.e. slides or poster) and the **supervised** delivery of the presentation. The purpose of this assessment is to showcase the subject-specific knowledge that you have developed and to practice presenting your ideas to the target audience.
+
+In preparing the presentation, you may use AI to support topic exploration, improve understanding of concepts, generate practice questions, and provide feedback on presentation materials. Limit the use of AI to draft your presentation, as there is a risk that it will fabricate information and produce an answer that does not meet the assessment criteria. You should critically evaluate all AI-generated content and independently verify information, references and interpretations. During the presentation and your responses to questions, you must demonstrate your own understanding of the topic, which means you may not use AI or internet-based resources, but you may use your own notes.
+
+There is no expectation that you will use AI, and we have no evidence that its use will confer an advantage for this assessment. If you use AI at any stage of the assessment, you must briefly acknowledge how it was used in an **Acknowledgements** section. This section does not contribute to the word count or slide limit, but it should fit within the allocated time for your presentation. You remain responsible for the accuracy, integrity, analysis, interpretation and presentation of all submitted work. We recommend keeping a record of any AI use during preparation of the report.
+
+The Skills Map provides further support and details for skills associated with this assessment:
+
+- [Abstract and Summary Writing](https://philmcaleer.github.io/assessmentai/Presentation.html#abstract-and-summary-writing)
+
+- [Brainstorming and Broadening Understanding](https://philmcaleer.github.io/assessmentai/Presentation.html#brainstorming-and-broadening-understanding)
+
+- [Data Processing](https://philmcaleer.github.io/assessmentai/Presentation.html#data-processing)
+
+- [Data Visualisation](https://philmcaleer.github.io/assessmentai/Presentation.html#data-visualisation)
+
+- [Developing Research Questions and Hypotheses](https://philmcaleer.github.io/assessmentai/Presentation.html#developing-research-questions-and-hypotheses)
+
+- [Drafting and Writing](https://philmcaleer.github.io/assessmentai/Presentation.html#drafting-and-writing)
+
+- [Editing and Proofreading](https://philmcaleer.github.io/assessmentai/Presentation.html#editing-and-proofreading)
+
+- [Feedback Literacy](https://philmcaleer.github.io/assessmentai/Presentation.html#feedback-literacy)
+
+- [Finalisation and Submission Preparation](https://philmcaleer.github.io/assessmentai/Presentation.html#finalisation-and-submission-preparation)
+
+- [Identifying Gaps and Critical Evaluation](https://philmcaleer.github.io/assessmentai/Presentation.html#identifying-gaps-and-critical-evaluation)
+
+- [Literature Search and Source Evaluation](https://philmcaleer.github.io/assessmentai/Presentation.html#literature-search-and-source-evaluation)
+
+- [Managing References and Citations](https://philmcaleer.github.io/assessmentai/Presentation.html#managing-references-and-citations)
+
+- [Results Interpretation and Reporting](https://philmcaleer.github.io/assessmentai/Presentation.html#results-interpretation-and-reporting)
+
+- [Scientific Graphic Design](https://philmcaleer.github.io/assessmentai/Presentation.html#scientific-graphic-design)
+
+- [Self‑Assessment and Practice Questions](https://philmcaleer.github.io/assessmentai/Presentation.html#selfassessment-and-practice-questions)
+
+- [Translation](https://philmcaleer.github.io/assessmentai/Presentation.html#translation)
+
+- [Multimedia Production](https://philmcaleer.github.io/assessmentai/Presentation.html#multimedia-production)
+
+- [Poster Presentations](https://philmcaleer.github.io/assessmentai/Presentation.html#poster-presentations)
+
+- [Preparing for Oral Presentations](https://philmcaleer.github.io/assessmentai/Presentation.html#preparing-for-oral-presentations)
+
+- [Visual Aids for Presentation](https://philmcaleer.github.io/assessmentai/Presentation.html#visual-aids-for-presentation)
+
+-----------------------------------------------------------------------
 
 ## Additional Resources & Feedback
 

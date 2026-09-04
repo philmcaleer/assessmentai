@@ -35,11 +35,6 @@ book:
   chapters:
     - index.qmd
     
-    - part: "Practical Uses"
-      chapters:
-      - statements.qmd
-      - declarations.qmd
-    
     - part: "Skills Directory"
       chapters: 
       - Communication.qmd
@@ -62,6 +57,11 @@ book:
       - Proposal.qmd
       - Reflection.qmd
       - Research project.qmd
+ 
+    - part: "Practical Uses"
+      chapters:
+      - statements.qmd
+      - declarations.qmd
       
       
     - part: "Skills Progression"
