@@ -35,13 +35,12 @@ book:
   chapters:
     - index.qmd
     
-   # - part: "How to use this Toolkit"
-    #  chapters:
-    - howto.qmd
-    - declarations.qmd
-    - statements.qmd
+    - part: "Practical Uses"
+      chapters:
+      - statements.qmd
+      - declarations.qmd
     
-    - part: "Skill Directory"
+    - part: "Skills Directory"
       chapters: 
       - Communication.qmd
       - Data analyses.qmd

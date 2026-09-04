@@ -4,13 +4,34 @@ engine: knitr
 
 # Overview {.unnumbered}
 
-The **Assessment Skills Map for GenAI-use** is an open educational resource (OER) developed within the Generative AI Network for Education (GAINEd) of the College of Medical, Veterinary & Life Sciences (MVLS), University of Glasgow.
+The **Assessment Skills Map for GenAI-use** is an open educational resource (OER) developed within the Generative AI Network for Education (GAINEd) community of practice for the College of Medical, Veterinary & Life Sciences (MVLS), University of Glasgow. The toolkit supports educators in designing, reviewing, and communicating assessment expectations that take account of the merging role of generative AI (GenAI) in higher education and professional practice. We present it as an interactive toolkit with four parts.
 
-This interactive framework supports educators in designing, reviewing, and communicating assessments that take account of generative AI’s emerging role in higher education. The resource maps all undergraduate assessments across the life sciences portfolio into common categories and identifies the underpinning disciplinary and transferable skills that these assessments develop.
+- Part 1: Practical uses such as statements on use of AI in assessment briefs, and aknowledgement of use of AI.
+- Part 2: Skills directory where we orgnise the skills along common skill domains.
+- Part 3: Assessment directory where we link the skills to common assessments.
+- Part 4: Skill progression where we developed a case study of programmatic skills progression based on report writing.
 
-The initial mapping identified 29 recurring core skills across life sciences programmes and will be updated as needed. For each skill, the map provides exemplar assessment types that measure competency more directly, highlights areas where generative AI may pose risks of inappropriate substitution, where it can be constructively integrated, and where it holds limited relevance.
+We have centered assessment design on discipline-specific skills rather than tasks, the map promotes programme-wide consistency, provides a shared language for staff and students, and reduces reliance on individual educators’ GenAI fluency. It also serves as a practical tool for aligning local assessment design with institutional policy on responsible generative AI use in education.
 
-By centering assessment design on skills rather than tasks, the map promotes programme-wide consistency, provides a shared language for staff and students, and reduces reliance on individual educators’ generative AI fluency. It serves as a practical tool for aligning local assessment design with institutional policy on responsible generative AI use in education.
+
+## How to use the skill and assessment directories
+
+Initially, 30 recurring core skills were identified that will be updated as needed. For each skill, the map highlights areas where GenAI can be constructively integrated in line with good professional practice, and where it may pose risks of poor practice or inappropriate substitution in relation to learning outcomes. We also suggests skills-specific assessment types that can measure competency more directly than traditional approaches to assist in assessment redesign.
+
+In skills directory we have grouped skills into common skill domains. Selecting a skill domain will highlight all the linked skills. In the assessment directory the skills are grouped according to common assessment types. With each we have also include examples of skill-based assessments that can be used in iterative assessment.
+
+
+##Practical Use
+
+The toolkit has been developed with the aim of providing a flexible resource for staff to be able to set clear and transparent advice to students about the benefits and implications of incorporating GenAI into their learning strategies.
+
+Examples have been provided for writing statements about expected use of AI and acknowledging use. 
+
+-	Expectations on use of GenAI are student-facing statements customised to particular assessment types based on the combination of their underlying component skills.  Some examples of assessment types have been provided that combine sets of skills, to inform these statements about use of GenAI.  An important aim of the toolkit is that it will enable you to design your own combination of skills for particular assessments that are not represented.  
+
+-	Acknowledgement statements are designed for students to transparently declare whether and how they have used GenAI tools, to properly attribute sources.  Rather than focusing on the punitive consequences of misrepresenting attribution, these should allow students to share their good practice and reflect on which tools were useful for particular tasks.
+In the final section, examples have been provided about 
+
 
 The resource is open for adaptation and reuse under a Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0) licence
 
