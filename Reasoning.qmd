@@ -8,7 +8,7 @@
 
 **How GenAI can pose risks (poor practice):** Letting GenAI define your research question or hypothesis with minimal reflection undermines your understanding. Over-reliance risks shallow framing, misaligned questions, or gaps in logic, preventing you from developing expertise in your subject area.
 
-**Common Assessments:** Data analyses report, Presentation, Practical skills, Proposal, Research project,
+**Common Assessments:** Data analysis report, Presentation, Practical skills, Proposal, Research project,
 
 **Skills-specific Asessment:** Submission of hypothesis with justification, Research question refinement workshop, Gap analysis task to develop question
 
@@ -22,7 +22,7 @@
 
 **How GenAI can pose risks (poor practice):** Delegating the task of evaluation to GenAI undermines your ability to think critically. Accepting GenAI’s judgements without checking the original studies risks errors, bias, and academic misconduct. Over-reliance prevents you from building essential metacognitive skills in evaluation.
 
-**Common Assessments:** Data analyses report, Essay or similar, Presentation, Proposal, Research project,
+**Common Assessments:** Data analysis report, Essay or similar, Presentation, Proposal, Research project,
 
 **Skills-specific Asessment:** Critical literature review, Gap identification and research need report, SWOT (Strenght, Weakness, Opportunity, Threat) analysis of existing studies
 
@@ -78,7 +78,7 @@
 
 **How GenAI can pose risks (poor practice):** Allowing GenAI to interpret your results or generate conclusions on your behalf undermines your understanding and constitutes poor practice. Copying, or relying on GenAI explanations, risks inaccuracies, misrepresentation of data, and possible misconduct. Over-reliance also prevents you from gaining practice in analysing results and building confidence in your own reasoning, which are essential for developing critical thinking and independent judgement.
 
-**Common Assessments:** Data analyses report, Presentation, Research project,
+**Common Assessments:** Data analysis report, Presentation, Research project,
 
 **Skills-specific Asessment:** Results commentary and trends analysis, Mini-report focusing on data interpretation, Discussion section draft with data visuals
 

@@ -8,7 +8,7 @@
 
 **How GenAI can pose risks (poor practice):** Defaulting to GenAI as your first and only source of input at this stage might reduce your ability to be resourceful, limit critical engagement with your subject, and take away the opportunity to develop interpersonal skills by discussing work-related topics, which could lead to lower performance in your profession in the long run. It is unethical to present ideas as entirely your own if it was wholly or partially produced by another person or tool - always reflect on your process and give credit to people, tools or services that significantly influenced your work flow.
 
-**Common Assessments:** Essay or similar, Data analyses report, Presentation, Proposal, Research project, Reflection
+**Common Assessments:** Essay or similar, Data analysis report, Presentation, Proposal, Research project, Reflection
 
 **Skills-specific Asessment:** Concept mapping exercises, Group ideation sessions with reflective write-up, Rapid-fire Q&A forums or idea dumps (formative)
 
@@ -36,7 +36,7 @@
 
 **How GenAI can pose risks (poor practice):** Over-relying on GenAI at this stage places you at risk of shortcutting your reasoning process, failing to notice errors that affect your submission, and neglecting the development of project management skills, such as checking requirements yourself and aligning your work correctly with the submission criteria.
 
-**Common Assessments:** Data analyses report, Essay or similar, Presentation, Reflection, Proposal, Research project, Group work,
+**Common Assessments:** Data analysis report, Essay or similar, Presentation, Reflection, Proposal, Research project, Groupwork,
 
 **Skills-specific Asessment:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
 

@@ -56,6 +56,20 @@
 
 ---
  
+## Ethical and Professional Responsibility
+
+**Gold standard for Professional Practice:** Understanding and applying ethical principles, institutional policies, and national legal frameworks in academic and professional practice. This includes responsibilities such as completing risk assessments, protecting sensitive data, gaining informed consent, reporting misconduct or harassment, and upholding academic integrity. The gold standard is to know the relevant frameworks and act responsibly in real situations, ensuring compliance with institutional and legal requirements. Support is available through ethics training, codes of conduct, legal guidance, and supervision.
+
+**How GenAI can be helpful (good practice):** Use GenAI to help locate and summarise relevant institutional policies, codes of practice, or national legal requirements, but always cross-check with official sources. You can ask GenAI to clarify terminology, compare overlapping policies, or outline compliance steps, while you remain responsible for correct application. Good practice also means being proactive in seeking advice when unsure, keeping records of your decisions, and ensuring your conduct consistently aligns with institutional and legal standards. 
+
+**How GenAI can pose risks (poor practice):** Relying on GenAI to interpret or apply ethical rules without verifying against official documentation risks misconduct. Ignoring regulations, failing to complete required processes (e.g. risk assessments, consent forms), or treating GenAI’s outputs as authoritative undermines your accountability. Poor practice also includes neglecting to act when you witness unacceptable behaviour, copying policy text without understanding it, or failing to engage critically with institutional and legal expectations.  GenAI also has inherent cultural and other stereotypical biases due to mis- or under-representation in training databases.
+
+**Skill-specific Assessment:** Case study analysis of ethical dilemmas, Reflective essay on professional conduct, Ethics board mock application
+
+**Main Skills Category:** Methodology
+
+---
+ 
 ## Self‑Assessment and Practice Questions
 
 **Gold standard for Professional Practice:** Testing your knowledge and understanding by creating and practising questions similar to those that may appear in examinations or tests. This may involve designing short-answer or essay-style questions, producing answer keys, or making definitions of key terms for flashcards. The gold standard is to actively design and attempt these yourself to reveal gaps in understanding, strengthen recall, and practise applying knowledge. Support is available through revision resources, peer study groups, and staff feedback.

@@ -8,7 +8,7 @@
 
 **How GenAI can pose risks (poor practice):** Avoid using a general-purpose GenAI-tool like a database search - this may introduce bias, lead to false attribution or fabricated sources - instead see it as 'general reading and broadening understanding'. Avoid using GenAI to read and select papers on your behalf - this means you only engage with literature superficially and therefore have not found, evaluated and selected sources yourself. It might increase time spent on literature searching, since all GenAI-suggested sources would need to be manually verified. Over-relying on GenAI risks that you develop a partial view of the topic and miss out on developing skills to be resourceful, objective and critical in your discipline.
 
-**Common Assessments:** Data analyses report, Essay or similar, Presentation, Proposal, Research project,
+**Common Assessments:** Data analysis report, Essay or similar, Presentation, Proposal, Research project,
 
 **Skills-specific Asessment:** Annotated bibliography, Source comparison matrix, Search strategy justification report
 
@@ -22,7 +22,7 @@
 
 **How GenAI can pose risks (poor practice):** Using GenAI to insert citations or build a reference list can lead to fabricated sources and mismatched attributions, creating inaccuracies that may amount to misconduct. For example, it can make up doi codes or link to the wrong source. Relying on GenAI too heavily can also mean you fail to learn the purpose of citations, or your field’s referencing style to substantiate arguments, leaving you unprepared for larger projects such as a dissertation.
 
-**Common Assessments:** Data analyses report, Essay or similar, Presentation, Proposal, Research project,
+**Common Assessments:** Data analysis report, Essay or similar, Presentation, Proposal, Research project,
 
 **Skills-specific Asessment:** Reference list accuracy audit, Citation management software exercise, Peer-reviewed citation check activity
 

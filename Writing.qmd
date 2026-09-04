@@ -22,7 +22,7 @@
 
 **How GenAI can pose risks (poor practice):** Using GenAI to generate content for any part of your draft — including collecting information and writing it up on your behalf — places you at risk for suspected misconduct. Over-reliance on GenAI risks not meeting assessment criteria, becoming less resourceful, not developing your own academic voice, and failing to build confidence in your ideas, methods, and words.
 
-**Common Assessments:** Data analyses report, Essay or similar, Presentation, Reflection, Exam, Proposal, Research project,
+**Common Assessments:** Data analysis report, Essay or similar, Presentation, Reflection, Exam, Proposal, Research project,
 
 **Skills-specific Asessment:** Partial manuscript submissions (e.g., Introduction or Methods only), Writing workshops with iterative drafts, Peer-to-peer writing feedback with rubric
 
@@ -36,7 +36,7 @@
 
 **How GenAI can pose risks (poor practice):** Rewriting with GenAI can change original meaning and source attribution with in-text citations, leading to unintended inaccuracies. Submitting large sections of text rewritten by GenAI without proper review and/or without acknowledging GenAI transparently, places you at risk for suspected misconduct.  Over-reliance can lead to loss of your own voice, weaker development as a writer, and less effective communication over time.
 
-**Common Assessments:** Data analyses report, Essay or similar, Presentation, Reflection, Exam, Proposal, Research project,
+**Common Assessments:** Data analysis report, Essay or similar, Presentation, Reflection, Exam, Proposal, Research project,
 
 **Skills-specific Asessment:** Rewriting poorly structured text, Structural editing task with rationale, Peer-editing assignment
 

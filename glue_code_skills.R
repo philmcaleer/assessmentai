@@ -21,7 +21,7 @@ make_entry <- function(dat){
   # for each entry, use glue to add the term, short definition, and long definition 
   entry <- glue("
 
-## {dat$Activity}
+## {dat$Skill}
 
 **Gold standard for Professional Practice:** {dat$`Gold standard for professional practice`}
 
@@ -29,9 +29,9 @@ make_entry <- function(dat){
 
 **How GenAI can pose risks (poor practice):** {dat$`How GenAI can pose risks (poor practice)`}
 
-**Assessment Type:** {dat$`Assessment type`}
+**Common Assessments:** {dat$`Common assessment`}
 
-**Example Assessments:** {dat$`Example assessments`}
+**Skills-specific Asessment:** {dat$`Skills-specific assessment`}
 
 ---
 
@@ -56,7 +56,7 @@ unique_letters <-unique(dat$first_letter)
 # this will produce n entries per letter
 # for subset, paste all the entries together and save it in it's respective letter
 for (i in 1:length(unique_letters)){
-  subset_dat <- filter(dat, first_letter == unique_letters[i]) %>% arrange(Activity)
+  subset_dat <- filter(dat, first_letter == unique_letters[i]) %>% arrange(Skill)
   
   entries_by_letter$entries[i] <- paste(subset_dat$entry, # paste together all entries in the col
                                         collapse = " ", # empty collapse to create one cell

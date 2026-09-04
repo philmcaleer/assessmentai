@@ -8,7 +8,7 @@
 
 **How GenAI can pose risks (poor practice):** Relying on GenAI to generate whole scripts or run analyses on your behalf undermines your learning. Poor practice includes copying code without checking, skipping debugging, or failing to test and validate outputs. This prevents you from developing confidence in coding skills and can introduce errors into your analysis. If you do not acknowledge the sources, that is also a form of plagiarism.
 
-**Common Assessments:** Data analyses report, Research project,
+**Common Assessments:** Data analysis report, Research project,
 
 **Skills-specific Asessment:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
 
@@ -22,7 +22,7 @@
 
 **How GenAI can pose risks (poor practice):** Avoid asking GenAI to clean or transform your dataset directly (e.g. pasting data in and asking it to "fix" or "tidy" it) risks silent, unverified changes to your data and undermines your ability to justify your methods. Relying on GenAI-generated code without checking its logic against your specific dataset can introduce errors - such as incorrect merges, mishandled missing values, or unintended data loss - that are hard to detect later. By uploading raw datasets containing personal, confidential, or unpublished information it breaches data protection and confidentiality obligations. Treating GenAI's suggested wrangling decisions (e.g. how to impute missing values) as authoritative, rather than as one input to your own judgement, can compromise the validity and reproducibility of your analysis.
 
-**Common Assessments:** Data analyses report,  Practical skills, Presentation, Proposal, Research project, Problem centred
+**Common Assessments:** Data analysis report,  Practical skills, Presentation, Proposal, Research project, Problem centred
 
 **Skills-specific Asessment:** Data-to-visual transformation assignment, Raw data to analysis report,Critique of published visualisations, Visual storytelling task with dataset
 
@@ -36,7 +36,7 @@
 
 **How GenAI can pose risks (poor practice):** Using GenAI to generate visuals directly, instead of producing them yourself in purpose-built data visualisation software, prevents you from developing essential research skills. Failing to safeguard sensitive or unpublished data risks breaching confidentiality and data protection rules. Relying on GenAI to decide which visual to use, or failing to verify its outputs, may lead to misleading or inaccurate representations of your data.
 
-**Common Assessments:** Data analyses report, Presentation, Proposal, Research project,
+**Common Assessments:** Data analysis report, Presentation, Proposal, Research project,
 
 **Skills-specific Asessment:** Data-to-visual transformation assignment, Critique of published visualisations, Visual storytelling task with dataset
 
@@ -50,7 +50,7 @@
 
 **How GenAI can pose risks (poor practice):** Using GenAI to choose tests or run analyses on your behalf without understanding why they are used creates risks of misinterpretation and potential misconduct. Poor practice includes copying GenAI outputs directly into your work, misreporting results, or failing to check assumptions. Relying on GenAI in place of developing your own statistical reasoning prevents you from building essential expertise for research and professional practice.
 
-**Common Assessments:** Data analyses report, Practical skills, Research project, Problem centred
+**Common Assessments:** Data analysis report, Practical skills, Research project, Problem centred
 
 **Skills-specific Asessment:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
 
