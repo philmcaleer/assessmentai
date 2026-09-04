@@ -21,7 +21,7 @@ Initially, 30 recurring core skills were identified that will be updated as need
 In skills directory we have grouped skills into common skill domains. Selecting a skill domain will highlight all the linked skills. In the assessment directory the skills are grouped according to common assessment types. With each we have also include examples of skill-based assessments that can be used in iterative assessment.
 
 
-##Practical Use
+## Practical Uses
 
 The toolkit has been developed with the aim of providing a flexible resource for staff to be able to set clear and transparent advice to students about the benefits and implications of incorporating GenAI into their learning strategies.
 
