@@ -78,22 +78,22 @@ As a course team, we recognise that students may choose to explore the use of AI
 - Be aware of the risks of using AI (to the environment, the corpus of human knowledge and their own skills development) and so minimise its use
 - Take personal responsibility for all work they submit for assessment
 
-The current assessment is unsupervised coursework. The purpose of this assessment is to provide an opportunity to showcase and develop the practical skills of a quantitative researcher and in writing research reports. We encourage you to try all tasks yourself and not to use AI. If you want to use [translation software](https://philmcaleer.github.io/assessmentai/Communication.html#translation\) (i.e. you write the assignment in another language first), be cautious, as the vocabulary and syntax produced by generative AI are not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstandings in communication.
+The current assessment is unsupervised coursework. The purpose of this assessment is to provide an opportunity to showcase and develop the practical skills of a quantitative researcher and in writing research reports. We encourage you to try all tasks yourself and not to use AI. If you want to use [translation software](https://philmcaleer.github.io/assessmentai/Communication.html#translation) (i.e. you write the assignment in another language first), be cautious, as the vocabulary and syntax produced by generative AI are not generally in keeping with the current language use and vocabulary in our field and can result in subtle misunderstandings in communication.
 
-You can use AI as a [learning assistant to help understand content](https://philmcaleer.github.io/assessmentai/Dissertation.html#brainstorming-and-broadening-understanding\]), to [give feedback on your work](https://philmcaleer.github.io/assessmentai/Personal%20development.html#feedback-literacy\), and to help in finding [spelling and grammatical errors](https://philmcaleer.github.io/assessmentai/Essay%20or%20similar.html#structuring-editing-and-proofreading). Avoid using AI in the [research phases](https://philmcaleer.github.io/assessmentai/Methodology.html\) of your project, to [draft your assignment or structure your work](https://philmcaleer.github.io/assessmentai/Methodology.html\), as these are specialist skills that you need to practice.
+You can use AI as a [learning assistant to help understand content](https://philmcaleer.github.io/assessmentai/Dissertation.html#brainstorming-and-broadening-understanding%5D), to [give feedback on your work](https://philmcaleer.github.io/assessmentai/Personal%20development.html#feedback-literacy), and to help in finding [spelling and grammatical errors](https://philmcaleer.github.io/assessmentai/Essay%20or%20similar.html#structuring-editing-and-proofreading). Avoid using AI in the [research phases](https://philmcaleer.github.io/assessmentai/Methodology.html) of your project, to [draft your assignment or structure your work](https://philmcaleer.github.io/assessmentai/Methodology.html), as these are specialist skills that you need to practice.
 
-You MUST NOT use AI to [analyse your data](https://philmcaleer.github.io/assessmentai/Data%20analyses.html\) directoy due to ethical and privacy issues for participant data. However, you can use it to help simulate a dataset to plan your analysis. Avoid using AI to [write your analysis code](https://philmcaleer.github.io/assessmentai/Data%20analyses.html#coding-and-software-trouble-shooting\) as you risk not fully understanding the analysis or the [data processing (wrangling)](https://philmcaleer.github.io/assessmentai/Data%20analysis%20report.html#data-processing) steps, which compromises transparency of reporting methods. We will provide further practical advice on Moodle.
+You MUST NOT use AI to [analyse your data](https://philmcaleer.github.io/assessmentai/Data%20analyses.html) directoy due to ethical and privacy issues for participant data. However, you can use it to help simulate a dataset to plan your analysis. Avoid using AI to [write your analysis code](https://philmcaleer.github.io/assessmentai/Data%20analyses.html#coding-and-software-trouble-shooting) as you risk not fully understanding the analysis or the [data processing (wrangling)](https://philmcaleer.github.io/assessmentai/Data%20analysis%20report.html#data-processing) steps, which compromises transparency of reporting methods. We will provide further practical advice on Moodle.
 
 There is no expectation that you will use generative AI, and we have no evidence that its use will confer an advantage for this assessment. If you do use generative AI, you must acknowledge its use in-text via citations and referencing and in your declaration of AI use. If you choose to use it, we recommend that you use Copilot and sign in with your university account using multi-factor authentication to ensure that your work is private and secure. Please keep a log of your use of AI as we may ask to see this.
 
 Declare all uses of AI, including initial exploration of the subject, literature searching, writing and editing, corrections for grammar and spelling, as well as any other tasks from the project. Be aware that AI may not represent the best response for this task, and you need to take responsibility for everything that is submitted.
 
------------------------------------------------------------------------
+------------------------------------------------------------------------
 
-## Presentation 
+## Presentation
 
- **Statement on Use of AI** 
- 
+**Statement on Use of AI**
+
 This assessment has two components: the **unsupervised** preparation of the presentation (i.e. slides or poster) and the **supervised** delivery of the presentation. The purpose of this assessment is to showcase the subject-specific knowledge that you have developed and to practice presenting your ideas to the target audience.
 
 In preparing the presentation, you may use AI to support topic exploration, improve understanding of concepts, generate practice questions, and provide feedback on presentation materials. Limit the use of AI to draft your presentation, as there is a risk that it will fabricate information and produce an answer that does not meet the assessment criteria. You should critically evaluate all AI-generated content and independently verify information, references and interpretations. During the presentation and your responses to questions, you must demonstrate your own understanding of the topic, which means you may not use AI or internet-based resources, but you may use your own notes.
@@ -142,11 +142,11 @@ The Skills Map provides further support and details for skills associated with t
 
 - [Visual Aids for Presentation](https://philmcaleer.github.io/assessmentai/Presentation.html#visual-aids-for-presentation)
 
------------------------------------------------------------------------
+------------------------------------------------------------------------
 
 ## Additional Resources & Feedback
 
-- Email any feedback on these SUAIs, GenAI skills map or UofG-related AI guidance to: [mvls-gained-network\@glasgow.ac.uk](mailto:mvls-gained-network@glasgow.ac.uk?subject=AI%20Skills%20Map%20Feedback)
+- Email any feedback on these SUAIs, GenAI skills map or UofG-related AI guidance to: [mvls-gained-network@glasgow.ac.uk](mailto:mvls-gained-network@glasgow.ac.uk?subject=AI%20Skills%20Map%20Feedback)
 
 ## References
 
