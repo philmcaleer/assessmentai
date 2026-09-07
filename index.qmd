@@ -4,21 +4,23 @@ engine: knitr
 
 # Overview {.unnumbered}
 
-The **Assessment Skills Map for GenAI-use** is a toolkit developed within the Generative AI Network for Education (GAINEd) community of practice for the College of Medical, Veterinary & Life Sciences (MVLS), University of Glasgow. The toolkit supports educators in designing, reviewing, and communicating assessment expectations that take account of the merging role of generative AI (GenAI) in higher education and professional practice.
+The **Assessment Skills Map for GenAI-use** is a toolkit developed within the Generative AI Network for Education (GAINEd) community of practice in the College of Medical, Veterinary & Life Sciences (MVLS), University of Glasgow. The toolkit supports educators in designing, reviewing, and communicating assessment expectations that take account of the emerging role of generative AI (GenAI) in higher education and professional practice.
 
 ## How to use the toolkit
 
 The toolkit has been developed with the aim of providing a flexible resource for staff to be able to set clear and transparent advice to students about the benefits and implications of incorporating GenAI into their learning strategies.
 
-Initially, 30 recurring core skills were identified that will be updated as needed. For each skill, the map highlights areas where GenAI can be constructively integrated in line with good professional practice, and where it may pose risks of poor practice or inappropriate substitution in relation to learning outcomes. We also suggests skills-specific assessment types that can measure competency more directly than traditional approaches to assist in assessment redesign.
+Initially, 30 recurring core skills were identified that will be updated as needed. For each skill, the map highlights areas where GenAI can be constructively integrated in line with good professional practice, and where it may pose risks of poor practice or inappropriate substitution in relation to learning outcomes. We also suggests skills-specific assessment types that can measure competency more directly than approaches which combine multiple sills, to assist in assessment redesign.
 
-We have centered assessment design on discipline-specific skills rather than tasks, the map promotes programme-wide consistency, provides a shared language for staff and students, and reduces reliance on individual educators’ fluency in GenAI. It also serves as a practical tool for aligning local assessment design with institutional policy on responsible generative AI use in education.
+We have centered assessment design on discipline-specific skills rather than tasks. The map promotes programme-wide consistency, provides a shared language for staff and students, and reduces reliance on individual educators’ fluency in GenAI. It also serves as a practical tool for aligning local assessment design with institutional policy on responsible generative AI use in education.
+
+As an open educational resource, it has a creative commons licence meaning that anyone can reuse and adapt the toolkit and associated resources. We expect that it is cited and any derivative work be shared back as open educational resources.
 
 ### Directories for staff use
 
-The **skills directory** is organised by competency categories (left-hand index), including lists of individual skills (right hand index), with advice on good and poor practice, examples of traditional assessment types into which they might be incorporated, and suggestions for redesigned assessments that more directly develop the skill. 
+The **skills directory** is organised by competency categories (left-hand index), including lists of individual skills (right hand index), with advice on good and poor practice, examples of assessment types into which they might be incorporated, and suggestions for redesigned assessments that more directly assesses the skill. 
 
-The **assessment directory** is organised by common assessment types (left-hand index), broken down into an index of component skills (right-hand index). Along with gold standard for professional practice, good and poor practice for use of GenAI, each skill incudes a list of skills-based redesigned assessments and the main skills category for the competency.
+The **assessment directory** is organised by common assessment types (left-hand index), broken down into an index of component skills (right-hand index). Along with gold standard for professional practice, good and poor practice for use of GenAI, each skill includes a list of skills-based redesigned assessments and the main skills category for the competency.
 
 ### Practical uses to develop student-facing advice
 

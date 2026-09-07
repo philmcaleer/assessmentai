@@ -14,7 +14,7 @@ When using a general acknowledgement section, best practice for assessed work is
 
 ## Appendix with ticked items
 
-Below is an example of a tick-box declaration of AI use. Students are fist asked if they take take responsibility for their work and are then prompted to pick different ways that they uses AI. You can use the skills map to generate an assessment-specific or dicipline-specific list of items.
+Below is an example of a tick-box declaration of AI use. Students are fist asked if they take take responsibility for their work and are then prompted to pick different ways that they uses AI. You can use the skills map to generate an assessment-specific or discipline-specific list of items.
 
 This can also be developed as a survey activity on an learning management system such as Moodle. For instance teachers can make it conditional on the assessment that a student first had to complete the declaration of AI use before they were allowed submit.
 
