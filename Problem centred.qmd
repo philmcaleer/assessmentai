@@ -8,7 +8,7 @@
 
 **How GenAI can pose risks (poor practice):** Avoid asking GenAI to clean or transform your dataset directly (e.g. pasting data in and asking it to "fix" or "tidy" it) risks silent, unverified changes to your data and undermines your ability to justify your methods. Relying on GenAI-generated code without checking its logic against your specific dataset can introduce errors - such as incorrect merges, mishandled missing values, or unintended data loss - that are hard to detect later. By uploading raw datasets containing personal, confidential, or unpublished information it breaches data protection and confidentiality obligations. Treating GenAI's suggested wrangling decisions (e.g. how to impute missing values) as authoritative, rather than as one input to your own judgement, can compromise the validity and reproducibility of your analysis.
 
-**Skill-specific Assessment:** Data-to-visual transformation assignment, Raw data to analysis report,Critique of published visualisations, Visual storytelling task with dataset
+**Skill-specific Assessment:** Data-to-visual transformation assignment, Raw data to analysis report, Critique of published visualisations, Visual storytelling task with dataset
 
 **Main Skills Category:** Data analyses
 

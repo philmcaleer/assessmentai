@@ -10,7 +10,7 @@
 
 **Common Assessments:** Data analysis report, Research project,
 
-**Skills-specific Asessment:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
+**Skills-specific Assessment:** Code debugging activity, Script annotation and explanation task, Peer-troubleshooting logs
 
 ---
  
@@ -24,7 +24,7 @@
 
 **Common Assessments:** Data analysis report,  Practical skills, Presentation, Proposal, Research project, Problem centred
 
-**Skills-specific Asessment:** Data-to-visual transformation assignment, Raw data to analysis report,Critique of published visualisations, Visual storytelling task with dataset
+**Skills-specific Assessment:** Data-to-visual transformation assignment, Raw data to analysis report, Critique of published visualisations, Visual storytelling task with dataset
 
 ---
  
@@ -38,7 +38,7 @@
 
 **Common Assessments:** Data analysis report, Presentation, Proposal, Research project,
 
-**Skills-specific Asessment:** Data-to-visual transformation assignment, Critique of published visualisations, Visual storytelling task with dataset
+**Skills-specific Assessment:** Data-to-visual transformation assignment, Critique of published visualisations, Visual storytelling task with dataset
 
 ---
  
@@ -52,6 +52,6 @@
 
 **Common Assessments:** Data analysis report, Practical skills, Research project, Problem centred
 
-**Skills-specific Asessment:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
+**Skills-specific Assessment:** Analysis plan and rationale submission, Raw data to analysis report, Interpretation of outputs from statistical software
 
 ---

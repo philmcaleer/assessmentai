@@ -14,7 +14,7 @@ The statements have three parts:
 
 - An expectation of how they can use AI for various tasks
 
-We give a generic example for constructing a statement and then two examples showig different formats.
+We give a generic example for constructing a statement and then two examples showing different formats.
 
 ## Generic Template
 

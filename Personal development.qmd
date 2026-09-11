@@ -10,7 +10,7 @@
 
 **Common Assessments:** Essay or similar, Data analysis report, Presentation, Proposal, Research project, Reflection
 
-**Skills-specific Asessment:** Concept mapping exercises, Group ideation sessions with reflective write-up, Rapid-fire Q&A forums or idea dumps (formative)
+**Skills-specific Assessment:** Concept mapping exercises, Group ideation sessions with reflective write-up, Rapid-fire Q&A forums or idea dumps (formative)
 
 ---
  
@@ -24,7 +24,7 @@
 
 **Common Assessments:** Reflection, Presentation, Proposal, Groupwork, Research project
 
-**Skills-specific Asessment:** Feedback response statement, Reflective feedback portfolio, Feedback synthesis exercise, Feedback dialogue assessment, Feed-forward action plan
+**Skills-specific Assessment:** Feedback response statement, Reflective feedback portfolio, Feedback synthesis exercise, Feedback dialogue assessment, Feed-forward action plan
 
 ---
  
@@ -38,7 +38,7 @@
 
 **Common Assessments:** Data analysis report, Essay or similar, Presentation, Reflection, Proposal, Research project, Groupwork,
 
-**Skills-specific Asessment:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
+**Skills-specific Assessment:** Pre-submission checklist with self-audit, Peer review and revision plan, Formatting and compliance review task
 
 ---
  
@@ -52,6 +52,6 @@
 
 **Common Assessments:** Exam, Practical skills, Presentation, Proposal
 
-**Skills-specific Asessment:** Online formative quizzes with rationale, Confidence rating alongside answers, Self-generated MCQs with explanations, upload source material (with permission) to institution-supported AI-tool and simulate interactive revision
+**Skills-specific Assessment:** Online formative quizzes with rationale, Confidence rating alongside answers, Self-generated MCQs with explanations, upload source material (with permission) to institution-supported AI-tool and simulate interactive revision
 
 ---

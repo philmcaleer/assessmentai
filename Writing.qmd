@@ -10,7 +10,7 @@
 
 **Common Assessments:** Essay or similar, Presentation, Proposal, Research project,
 
-**Skills-specific Asessment:** Structured abstract writing exercise, Lay summary and technical summary comparison, Abstract peer-assessment task, Poster, Conference submission
+**Skills-specific Assessment:** Structured abstract writing exercise, Lay summary and technical summary comparison, Abstract peer-assessment task, Poster, Conference submission
 
 ---
  
@@ -24,7 +24,7 @@
 
 **Common Assessments:** Data analysis report, Essay or similar, Presentation, Reflection, Exam, Proposal, Research project,
 
-**Skills-specific Asessment:** Partial manuscript submissions (e.g., Introduction or Methods only), Writing workshops with iterative drafts, Peer-to-peer writing feedback with rubric
+**Skills-specific Assessment:** Partial manuscript submissions (e.g., Introduction or Methods only), Writing workshops with iterative drafts, Peer-to-peer writing feedback with rubric
 
 ---
  
@@ -32,13 +32,13 @@
 
 **Gold standard for Professional Practice:** Review and refine your own draft to improve clarity, coherence, grammar, tone and flow of arguments. Identify sections that need further development, reorganise or rewrite sections where needed, ensure each section has a purpose, and check citation accuracy. Strengthen your work with peer feedback, writing guides and other provided teaching support.
 
-**How GenAI can be helpful (good practice):** Use GenAI as a support tool to provide feedback on your own draft, such as highlighting errors, outlining shortcomings and suggesting alternatives. Assistive technology tools such as grammarly and other grammar and spelling software may be useful. Critically review suggestions and decide which changes to implement to help maintain your own voice, because the work is a reflection of you. Transparently acknowledge the use of GenAI for this purpose in your work and keep a record of your interactions with the tool. 
+**How GenAI can be helpful (good practice):** Use GenAI as a support tool to provide feedback on your own draft, such as highlighting errors, outlining shortcomings and suggesting alternatives. Assistive technology tools such as Grammarly and other grammar and spelling software may be useful. Critically review suggestions and decide which changes to implement to help maintain your own voice, because the work is a reflection of you. Transparently acknowledge the use of GenAI for this purpose in your work and keep a record of your interactions with the tool. 
 
 **How GenAI can pose risks (poor practice):** Rewriting with GenAI can change original meaning and source attribution with in-text citations, leading to unintended inaccuracies. Submitting large sections of text rewritten by GenAI without proper review and/or without acknowledging GenAI transparently, places you at risk for suspected misconduct.  Over-reliance can lead to loss of your own voice, weaker development as a writer, and less effective communication over time.
 
 **Common Assessments:** Data analysis report, Essay or similar, Presentation, Reflection, Exam, Proposal, Research project,
 
-**Skills-specific Asessment:** Rewriting poorly structured text, Structural editing task with rationale, Peer-editing assignment
+**Skills-specific Assessment:** Rewriting poorly structured text, Structural editing task with rationale, Peer-editing assignment
 
 ---
  
@@ -52,7 +52,7 @@
 
 **Common Assessments:** Reflection,
 
-**Skills-specific Asessment:** Reflective journal entries, Professional development narrative, Critical incident reflection
+**Skills-specific Assessment:** Reflective journal entries, Professional development narrative, Critical incident reflection
 
 ---
  
@@ -66,7 +66,7 @@
 
 **Common Assessments:** Proposal,
 
-**Skills-specific Asessment:** Mock grant application, Short research proposal with budget, Elevator pitch video of proposal
+**Skills-specific Assessment:** Mock grant application, Short research proposal with budget, Elevator pitch video of proposal
 
 ---
  
@@ -80,6 +80,6 @@
 
 **Common Assessments:** Essay or similar
 
-**Skills-specific Asessment:** Blog post for public audience, Infographic + explanatory caption, Social media thread or script writing task
+**Skills-specific Assessment:** Blog post for public audience, Infographic + explanatory caption, Social media thread or script writing task
 
 ---

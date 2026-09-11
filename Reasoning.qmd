@@ -10,7 +10,7 @@
 
 **Common Assessments:** Data analysis report, Presentation, Practical skills, Proposal, Research project,
 
-**Skills-specific Asessment:** Submission of hypothesis with justification, Research question refinement workshop, Gap analysis task to develop question
+**Skills-specific Assessment:** Submission of hypothesis with justification, Research question refinement workshop, Gap analysis task to develop question
 
 ---
  
@@ -24,7 +24,7 @@
 
 **Common Assessments:** Data analysis report, Essay or similar, Presentation, Proposal, Research project,
 
-**Skills-specific Asessment:** Critical literature review, Gap identification and research need report, SWOT (Strenght, Weakness, Opportunity, Threat) analysis of existing studies
+**Skills-specific Assessment:** Critical literature review, Gap identification and research need report, SWOT (Strength, Weakness, Opportunity, Threat) analysis of existing studies
 
 ---
  
@@ -38,7 +38,7 @@
 
 **Common Assessments:** Groupwork
 
-**Skills-specific Asessment:** Written peer review of a preprint article, Journal club presentation with critique, Structured review using journal guidelines
+**Skills-specific Assessment:** Written peer review of a preprint article, Journal club presentation with critique, Structured review using journal guidelines
 
 ---
  
@@ -52,7 +52,7 @@
 
 **Common Assessments:** Exam, Problem centred
 
-**Skills-specific Asessment:** Scenario-based quiz or viva, Scientific challenge write-up, Structured troubleshooting workflow design
+**Skills-specific Assessment:** Scenario-based quiz or viva, Scientific challenge write-up, Structured troubleshooting workflow design
 
 ---
  
@@ -66,7 +66,7 @@
 
 **Common Assessments:** Reflection, Problem centred
 
-**Skills-specific Asessment:** Case study portfolio, Group problem resolution report, Self-assessed role in PBL cycle
+**Skills-specific Assessment:** Case study portfolio, Group problem resolution report, Self-assessed role in PBL cycle
 
 ---
  
@@ -80,6 +80,6 @@
 
 **Common Assessments:** Data analysis report, Presentation, Research project,
 
-**Skills-specific Asessment:** Results commentary and trends analysis, Mini-report focusing on data interpretation, Discussion section draft with data visuals
+**Skills-specific Assessment:** Results commentary and trends analysis, Mini-report focusing on data interpretation, Discussion section draft with data visuals
 
 ---

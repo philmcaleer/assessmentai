@@ -31,7 +31,7 @@ make_entry <- function(dat){
 
 **Common Assessments:** {dat$`Common assessment`}
 
-**Skills-specific Asessment:** {dat$`Skills-specific assessment`}
+**Skills-specific Assessment:** {dat$`Skills-specific assessment`}
 
 ---
 
@@ -78,3 +78,4 @@ for (i in 1:nrow(entries_by_letter)){
 }
 
 # Now, make sure letters are up to date in yml and rerender
+
