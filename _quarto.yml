@@ -34,6 +34,7 @@ book:
   repo-actions: [issue, source]
   chapters:
     - index.qmd
+    - howto.qmd
     
     - part: "Skills Directory"
       chapters: 
