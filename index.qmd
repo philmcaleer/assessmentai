@@ -7,7 +7,8 @@ engine: knitr
 The **Assessment Skills Map for GenAI-use** is a toolkit developed within the Generative AI Network for Education (GAINEd) community of practice in the College of Medical, Veterinary & Life Sciences (MVLS), University of Glasgow. The toolkit supports educators in designing, reviewing, and communicating assessment expectations that take account of the emerging role of generative AI (GenAI) in higher education and professional practice.
 
 
-The resource is open for adaptation and reuse under a Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0) licence. 
+The resource is a living document and will be further updated. It isopen for adaptation and reuse under a Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0) licence.
+
 Cite as: Hough, D., McAleer, P., Mable, B. and Paterson, H. (2025) _Assessment Skills Map for GenAI Use._ Available from: https://philmcaleer.github.io/assessmentai/
 
 **Last edited:** `r Sys.Date()`
