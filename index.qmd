@@ -9,6 +9,6 @@ The **Assessment Skills Map for GenAI-use** is a toolkit developed within the Ge
 
 The resource is a living document and will be further updated. It is open for adaptation and reuse under a Creative Commons Attribution–ShareAlike 4.0 (CC BY-SA 4.0) licence.
 
-Cite as: Hough, D., McAleer, P., Mable, B. and Paterson, H. (2025) _Assessment Skills Map for GenAI Use._ Available from: https://philmcaleer.github.io/assessmentai/
+Cite as: Hough, D., Mable, B., McAleer, P., & Paterson, H. (2025, September 9). _Assessment Skills Map for GenAI Use._ Zenodo. https://doi.org/10.5281/zenodo.22712485 
 
 **Last edited:** `r Sys.Date()`
